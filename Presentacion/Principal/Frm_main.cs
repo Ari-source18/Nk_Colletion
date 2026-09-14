@@ -24,5 +24,10 @@ namespace NK_COLLECTION.Presentacion.Principal
         {
 
         }
+
+        private void Panel_Hijo_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

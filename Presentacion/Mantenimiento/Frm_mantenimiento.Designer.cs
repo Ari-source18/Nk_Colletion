@@ -51,7 +51,7 @@
             panel4.Dock = DockStyle.Bottom;
             panel4.Location = new Point(0, 853);
             panel4.Name = "panel4";
-            panel4.Size = new Size(1371, 10);
+            panel4.Size = new Size(1556, 10);
             panel4.TabIndex = 168;
             // 
             // panel3
@@ -67,7 +67,7 @@
             // 
             panel2.BackColor = Color.FromArgb(64, 0, 0);
             panel2.Dock = DockStyle.Right;
-            panel2.Location = new Point(1361, 0);
+            panel2.Location = new Point(1546, 0);
             panel2.Name = "panel2";
             panel2.Size = new Size(10, 853);
             panel2.TabIndex = 170;
@@ -78,13 +78,13 @@
             panel1.Dock = DockStyle.Top;
             panel1.Location = new Point(10, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1351, 10);
+            panel1.Size = new Size(1536, 10);
             panel1.TabIndex = 171;
             // 
             // pictureBox2
             // 
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(841, 271);
+            pictureBox2.Location = new Point(987, 271);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(234, 253);
             pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
@@ -107,7 +107,7 @@
             btn_Restaurar.FlatStyle = FlatStyle.Flat;
             btn_Restaurar.Font = new Font("PMingLiU-ExtB", 10F, FontStyle.Bold | FontStyle.Italic);
             btn_Restaurar.ForeColor = SystemColors.ControlLightLight;
-            btn_Restaurar.Location = new Point(899, 541);
+            btn_Restaurar.Location = new Point(1045, 541);
             btn_Restaurar.Name = "btn_Restaurar";
             btn_Restaurar.Size = new Size(111, 33);
             btn_Restaurar.TabIndex = 177;
@@ -131,7 +131,7 @@
             // 
             label7.AutoSize = true;
             label7.Font = new Font("PMingLiU-ExtB", 12F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label7.Location = new Point(841, 227);
+            label7.Location = new Point(987, 227);
             label7.Name = "label7";
             label7.Size = new Size(223, 24);
             label7.TabIndex = 175;
@@ -152,7 +152,7 @@
             label5.AutoSize = true;
             label5.Font = new Font("PMingLiU-ExtB", 20F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label5.ForeColor = Color.FromArgb(64, 0, 0);
-            label5.Location = new Point(532, 39);
+            label5.Location = new Point(651, 49);
             label5.Name = "label5";
             label5.Size = new Size(259, 40);
             label5.TabIndex = 173;
@@ -164,17 +164,18 @@
             label6.AutoSize = true;
             label6.Font = new Font("PMingLiU-ExtB", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label6.ForeColor = Color.FromArgb(64, 0, 0);
-            label6.Location = new Point(44, 57);
+            label6.Location = new Point(60, 89);
             label6.Name = "label6";
-            label6.Size = new Size(1278, 32);
+            label6.Size = new Size(1438, 32);
             label6.TabIndex = 172;
-            label6.Text = "_______________________________________________________________________________";
+            label6.Text = "_________________________________________________________________________________________";
+            label6.Click += label6_Click;
             // 
             // Frm_mantenimiento
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1371, 863);
+            ClientSize = new Size(1556, 863);
             Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
             Controls.Add(btn_Restaurar);

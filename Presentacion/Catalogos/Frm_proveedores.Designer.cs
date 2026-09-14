@@ -28,47 +28,50 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges84 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges85 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges53 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges54 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_proveedores));
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges83 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges106 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges107 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges108 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges109 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges110 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges111 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges112 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges113 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            DataGridViewCellStyle dataGridViewCellStyle19 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle20 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle21 = new DataGridViewCellStyle();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges114 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges115 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges116 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges117 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges118 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges119 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges120 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges121 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges122 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges123 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges124 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges125 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges126 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges127 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges128 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges129 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges130 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges131 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges132 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges133 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            DataGridViewCellStyle dataGridViewCellStyle22 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle23 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle24 = new DataGridViewCellStyle();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges52 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            DataGridViewCellStyle dataGridViewCellStyle10 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle11 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle12 = new DataGridViewCellStyle();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges55 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges56 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges57 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges58 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges59 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges60 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges61 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges62 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            DataGridViewCellStyle dataGridViewCellStyle13 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle14 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle15 = new DataGridViewCellStyle();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges63 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges64 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges65 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges66 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges67 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges68 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges69 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges70 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges71 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges72 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges73 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges74 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges75 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges76 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges77 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges78 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges79 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges80 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges81 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges82 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             DataGridViewCellStyle dataGridViewCellStyle16 = new DataGridViewCellStyle();
             DataGridViewCellStyle dataGridViewCellStyle17 = new DataGridViewCellStyle();
             DataGridViewCellStyle dataGridViewCellStyle18 = new DataGridViewCellStyle();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges83 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges84 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges85 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges86 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges87 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges88 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
@@ -86,9 +89,6 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges100 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges101 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges102 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges103 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges104 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges105 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             panel1 = new Panel();
             panel3 = new Panel();
             panel2 = new Panel();
@@ -103,16 +103,9 @@
             label11 = new Label();
             guna2ShadowPanel1 = new Guna.UI2.WinForms.Guna2ShadowPanel();
             tabControl1 = new TabControl();
-            tabPage1 = new TabPage();
-            tabPage2 = new TabPage();
-            tabPage3 = new TabPage();
-            guna2Button3 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
-            label3 = new Label();
-            CBbuscarpor = new ComboBox();
-            guna2Button4 = new Guna.UI2.WinForms.Guna2Button();
-            guna2DataGridView1 = new Guna.UI2.WinForms.Guna2DataGridView();
+            tabpag_proveedores = new TabPage();
+            label4 = new Label();
+            dgw_proveedores = new Guna.UI2.WinForms.Guna2DataGridView();
             Column1 = new DataGridViewTextBoxColumn();
             Column2 = new DataGridViewTextBoxColumn();
             Column5 = new DataGridViewTextBoxColumn();
@@ -120,54 +113,61 @@
             Column4 = new DataGridViewTextBoxColumn();
             Column6 = new DataGridViewTextBoxColumn();
             CLestado = new DataGridViewTextBoxColumn();
-            label4 = new Label();
-            guna2TextBox6 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2ComboBox1 = new Guna.UI2.WinForms.Guna2ComboBox();
-            label10 = new Label();
-            guna2Button5 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button6 = new Guna.UI2.WinForms.Guna2Button();
-            label9 = new Label();
-            label8 = new Label();
-            label7 = new Label();
-            label5 = new Label();
-            label12 = new Label();
-            label13 = new Label();
-            guna2TextBox5 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2DateTimePicker1 = new Guna.UI2.WinForms.Guna2DateTimePicker();
-            guna2TextBox4 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2TextBox3 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
-            label14 = new Label();
-            guna2DataGridView2 = new Guna.UI2.WinForms.Guna2DataGridView();
+            btn_mostrar = new Guna.UI2.WinForms.Guna2Button();
+            btn_guardar = new Guna.UI2.WinForms.Guna2Button();
+            btn_buscar = new Guna.UI2.WinForms.Guna2Button();
+            label3 = new Label();
+            CBbuscarpor = new ComboBox();
+            btn_limpiar = new Guna.UI2.WinForms.Guna2Button();
+            tabpag_nuevo_proveedor = new TabPage();
+            dgw_proveedores_nuevo = new Guna.UI2.WinForms.Guna2DataGridView();
             dataGridViewTextBoxColumn1 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn2 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn3 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn4 = new DataGridViewTextBoxColumn();
             label15 = new Label();
-            guna2DataGridView3 = new Guna.UI2.WinForms.Guna2DataGridView();
+            txtbox_buscarpor = new Guna.UI2.WinForms.Guna2TextBox();
+            cmb_buscarpor = new Guna.UI2.WinForms.Guna2ComboBox();
+            lbl_buscar = new Label();
+            btn_cancelar_nuevo = new Guna.UI2.WinForms.Guna2Button();
+            btn_guardar_nuevo = new Guna.UI2.WinForms.Guna2Button();
+            lbl_direccion = new Label();
+            lbl_correo_electronico = new Label();
+            lbl_telefono = new Label();
+            lbl_fecha = new Label();
+            lbl_ruc = new Label();
+            lbl_nombre = new Label();
+            txtbox_direccion = new Guna.UI2.WinForms.Guna2TextBox();
+            guna2DateTimePicker1 = new Guna.UI2.WinForms.Guna2DateTimePicker();
+            txtbox_ruc = new Guna.UI2.WinForms.Guna2TextBox();
+            txtbox_telefono = new Guna.UI2.WinForms.Guna2TextBox();
+            txtbox_correo_electronico = new Guna.UI2.WinForms.Guna2TextBox();
+            txtbox_nombre = new Guna.UI2.WinForms.Guna2TextBox();
+            label14 = new Label();
+            tabPage3 = new TabPage();
+            dgw_proveedores_editar = new Guna.UI2.WinForms.Guna2DataGridView();
             dataGridViewTextBoxColumn5 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn6 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn7 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn8 = new DataGridViewTextBoxColumn();
             label16 = new Label();
-            guna2TextBox7 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2ComboBox2 = new Guna.UI2.WinForms.Guna2ComboBox();
-            label17 = new Label();
-            guna2Button7 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button8 = new Guna.UI2.WinForms.Guna2Button();
-            label18 = new Label();
-            label19 = new Label();
-            label20 = new Label();
-            label21 = new Label();
-            label22 = new Label();
-            label23 = new Label();
-            guna2TextBox8 = new Guna.UI2.WinForms.Guna2TextBox();
+            txtbox_buscarpor_editar = new Guna.UI2.WinForms.Guna2TextBox();
+            cmb_buscarpor_editar = new Guna.UI2.WinForms.Guna2ComboBox();
+            lbl_buscar_editar = new Label();
+            btn_cancelar_editar = new Guna.UI2.WinForms.Guna2Button();
+            btn_guardar_editar = new Guna.UI2.WinForms.Guna2Button();
+            lbl_direccion_editar = new Label();
+            lbl_correo_electronico_editar = new Label();
+            lbl_telefono_editar = new Label();
+            lbl_fecha_editar = new Label();
+            lbl_ruc_editar = new Label();
+            lbl_nombre_editar = new Label();
+            txtbox_direccion_editar = new Guna.UI2.WinForms.Guna2TextBox();
             guna2DateTimePicker2 = new Guna.UI2.WinForms.Guna2DateTimePicker();
-            guna2TextBox9 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2TextBox10 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2TextBox11 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2TextBox12 = new Guna.UI2.WinForms.Guna2TextBox();
+            txtbox_ruc_editar = new Guna.UI2.WinForms.Guna2TextBox();
+            txtbox_telefono_editar = new Guna.UI2.WinForms.Guna2TextBox();
+            txtbox_correo_electronico_editar = new Guna.UI2.WinForms.Guna2TextBox();
+            txtbox_nombre_editar = new Guna.UI2.WinForms.Guna2TextBox();
             label24 = new Label();
             guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
@@ -175,12 +175,12 @@
             ((System.ComponentModel.ISupportInitialize)guna2CirclePictureBox1).BeginInit();
             guna2ShadowPanel1.SuspendLayout();
             tabControl1.SuspendLayout();
-            tabPage1.SuspendLayout();
-            tabPage2.SuspendLayout();
+            tabpag_proveedores.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dgw_proveedores).BeginInit();
+            tabpag_nuevo_proveedor.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dgw_proveedores_nuevo).BeginInit();
             tabPage3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)guna2DataGridView1).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)guna2DataGridView2).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)guna2DataGridView3).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dgw_proveedores_editar).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -230,11 +230,11 @@
             guna2Panel1.Controls.Add(label2);
             guna2Panel1.Controls.Add(label6);
             guna2Panel1.Controls.Add(label11);
-            guna2Panel1.CustomizableEdges = customizableEdges84;
+            guna2Panel1.CustomizableEdges = customizableEdges53;
             guna2Panel1.FillColor = Color.White;
             guna2Panel1.Location = new Point(25, 16);
             guna2Panel1.Name = "guna2Panel1";
-            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges85;
+            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges54;
             guna2Panel1.Size = new Size(1506, 99);
             guna2Panel1.TabIndex = 239;
             // 
@@ -278,7 +278,7 @@
             guna2CirclePictureBox1.ImageRotate = 0F;
             guna2CirclePictureBox1.Location = new Point(7, 8);
             guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
-            guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges83;
+            guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges52;
             guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             guna2CirclePictureBox1.Size = new Size(83, 83);
             guna2CirclePictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
@@ -337,8 +337,8 @@
             // 
             // tabControl1
             // 
-            tabControl1.Controls.Add(tabPage1);
-            tabControl1.Controls.Add(tabPage2);
+            tabControl1.Controls.Add(tabpag_proveedores);
+            tabControl1.Controls.Add(tabpag_nuevo_proveedor);
             tabControl1.Controls.Add(tabPage3);
             tabControl1.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             tabControl1.Location = new Point(25, 21);
@@ -347,227 +347,74 @@
             tabControl1.Size = new Size(1460, 683);
             tabControl1.TabIndex = 174;
             // 
-            // tabPage1
+            // tabpag_proveedores
             // 
-            tabPage1.Controls.Add(label4);
-            tabPage1.Controls.Add(guna2DataGridView1);
-            tabPage1.Controls.Add(guna2Button3);
-            tabPage1.Controls.Add(guna2Button1);
-            tabPage1.Controls.Add(guna2Button2);
-            tabPage1.Controls.Add(label3);
-            tabPage1.Controls.Add(CBbuscarpor);
-            tabPage1.Controls.Add(guna2Button4);
-            tabPage1.Location = new Point(4, 33);
-            tabPage1.Name = "tabPage1";
-            tabPage1.Padding = new Padding(3);
-            tabPage1.Size = new Size(1452, 646);
-            tabPage1.TabIndex = 0;
-            tabPage1.Text = "Proveedores";
-            tabPage1.UseVisualStyleBackColor = true;
-            tabPage1.Click += tabPage1_Click;
+            tabpag_proveedores.Controls.Add(label4);
+            tabpag_proveedores.Controls.Add(dgw_proveedores);
+            tabpag_proveedores.Controls.Add(btn_mostrar);
+            tabpag_proveedores.Controls.Add(btn_guardar);
+            tabpag_proveedores.Controls.Add(btn_buscar);
+            tabpag_proveedores.Controls.Add(label3);
+            tabpag_proveedores.Controls.Add(CBbuscarpor);
+            tabpag_proveedores.Controls.Add(btn_limpiar);
+            tabpag_proveedores.Location = new Point(4, 33);
+            tabpag_proveedores.Name = "tabpag_proveedores";
+            tabpag_proveedores.Padding = new Padding(3);
+            tabpag_proveedores.Size = new Size(1452, 646);
+            tabpag_proveedores.TabIndex = 0;
+            tabpag_proveedores.Text = "Proveedores";
+            tabpag_proveedores.UseVisualStyleBackColor = true;
+            tabpag_proveedores.Click += tabPage1_Click;
             // 
-            // tabPage2
+            // label4
             // 
-            tabPage2.Controls.Add(guna2DataGridView2);
-            tabPage2.Controls.Add(label15);
-            tabPage2.Controls.Add(guna2TextBox6);
-            tabPage2.Controls.Add(guna2ComboBox1);
-            tabPage2.Controls.Add(label10);
-            tabPage2.Controls.Add(guna2Button5);
-            tabPage2.Controls.Add(guna2Button6);
-            tabPage2.Controls.Add(label9);
-            tabPage2.Controls.Add(label8);
-            tabPage2.Controls.Add(label7);
-            tabPage2.Controls.Add(label5);
-            tabPage2.Controls.Add(label12);
-            tabPage2.Controls.Add(label13);
-            tabPage2.Controls.Add(guna2TextBox5);
-            tabPage2.Controls.Add(guna2DateTimePicker1);
-            tabPage2.Controls.Add(guna2TextBox4);
-            tabPage2.Controls.Add(guna2TextBox3);
-            tabPage2.Controls.Add(guna2TextBox2);
-            tabPage2.Controls.Add(guna2TextBox1);
-            tabPage2.Controls.Add(label14);
-            tabPage2.Location = new Point(4, 33);
-            tabPage2.Name = "tabPage2";
-            tabPage2.Padding = new Padding(3);
-            tabPage2.Size = new Size(1452, 646);
-            tabPage2.TabIndex = 1;
-            tabPage2.Text = "Nuevo proveedor";
-            tabPage2.UseVisualStyleBackColor = true;
-            tabPage2.Click += tabPage2_Click;
+            label4.AutoSize = true;
+            label4.Location = new Point(33, 158);
+            label4.Margin = new Padding(4, 0, 4, 0);
+            label4.Name = "label4";
+            label4.Size = new Size(196, 24);
+            label4.TabIndex = 254;
+            label4.Text = "Lista de proveedores";
             // 
-            // tabPage3
+            // dgw_proveedores
             // 
-            tabPage3.Controls.Add(guna2DataGridView3);
-            tabPage3.Controls.Add(label16);
-            tabPage3.Controls.Add(guna2TextBox7);
-            tabPage3.Controls.Add(guna2ComboBox2);
-            tabPage3.Controls.Add(label17);
-            tabPage3.Controls.Add(guna2Button7);
-            tabPage3.Controls.Add(guna2Button8);
-            tabPage3.Controls.Add(label18);
-            tabPage3.Controls.Add(label19);
-            tabPage3.Controls.Add(label20);
-            tabPage3.Controls.Add(label21);
-            tabPage3.Controls.Add(label22);
-            tabPage3.Controls.Add(label23);
-            tabPage3.Controls.Add(guna2TextBox8);
-            tabPage3.Controls.Add(guna2DateTimePicker2);
-            tabPage3.Controls.Add(guna2TextBox9);
-            tabPage3.Controls.Add(guna2TextBox10);
-            tabPage3.Controls.Add(guna2TextBox11);
-            tabPage3.Controls.Add(guna2TextBox12);
-            tabPage3.Controls.Add(label24);
-            tabPage3.Location = new Point(4, 33);
-            tabPage3.Name = "tabPage3";
-            tabPage3.Padding = new Padding(3);
-            tabPage3.Size = new Size(1452, 646);
-            tabPage3.TabIndex = 2;
-            tabPage3.Text = "Editar";
-            tabPage3.UseVisualStyleBackColor = true;
-            // 
-            // guna2Button3
-            // 
-            guna2Button3.BorderColor = Color.White;
-            guna2Button3.BorderRadius = 8;
-            guna2Button3.CustomizableEdges = customizableEdges106;
-            guna2Button3.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button3.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button3.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button3.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button3.FillColor = Color.FromArgb(110, 18, 32);
-            guna2Button3.Font = new Font("Segoe UI", 9F);
-            guna2Button3.ForeColor = Color.White;
-            guna2Button3.Location = new Point(616, 66);
-            guna2Button3.Margin = new Padding(4, 5, 4, 5);
-            guna2Button3.Name = "guna2Button3";
-            guna2Button3.ShadowDecoration.CustomizableEdges = customizableEdges107;
-            guna2Button3.Size = new Size(157, 38);
-            guna2Button3.TabIndex = 246;
-            guna2Button3.Text = "Mostrar todo";
-            // 
-            // guna2Button1
-            // 
-            guna2Button1.BorderColor = Color.White;
-            guna2Button1.BorderRadius = 8;
-            guna2Button1.CustomizableEdges = customizableEdges108;
-            guna2Button1.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button1.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button1.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button1.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button1.FillColor = Color.FromArgb(110, 18, 32);
-            guna2Button1.Font = new Font("Segoe UI", 9F);
-            guna2Button1.ForeColor = Color.White;
-            guna2Button1.Location = new Point(961, 66);
-            guna2Button1.Margin = new Padding(4, 5, 4, 5);
-            guna2Button1.Name = "guna2Button1";
-            guna2Button1.ShadowDecoration.CustomizableEdges = customizableEdges109;
-            guna2Button1.Size = new Size(159, 42);
-            guna2Button1.TabIndex = 247;
-            guna2Button1.Text = "Guardar";
-            // 
-            // guna2Button2
-            // 
-            guna2Button2.BorderColor = Color.White;
-            guna2Button2.BorderRadius = 8;
-            guna2Button2.CustomizableEdges = customizableEdges110;
-            guna2Button2.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button2.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button2.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button2.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button2.FillColor = Color.FromArgb(110, 18, 32);
-            guna2Button2.Font = new Font("Segoe UI", 9F);
-            guna2Button2.ForeColor = Color.White;
-            guna2Button2.Location = new Point(448, 66);
-            guna2Button2.Margin = new Padding(4, 5, 4, 5);
-            guna2Button2.Name = "guna2Button2";
-            guna2Button2.ShadowDecoration.CustomizableEdges = customizableEdges111;
-            guna2Button2.Size = new Size(130, 38);
-            guna2Button2.TabIndex = 248;
-            guna2Button2.Text = "Buscar";
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Font = new Font("PMingLiU-ExtB", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label3.ForeColor = Color.FromArgb(64, 0, 0);
-            label3.Location = new Point(44, 79);
-            label3.Margin = new Padding(1, 0, 1, 0);
-            label3.Name = "label3";
-            label3.Size = new Size(94, 20);
-            label3.TabIndex = 249;
-            label3.Text = "Buscar por:";
-            // 
-            // CBbuscarpor
-            // 
-            CBbuscarpor.Font = new Font("PMingLiU-ExtB", 9F);
-            CBbuscarpor.FormattingEnabled = true;
-            CBbuscarpor.Location = new Point(151, 78);
-            CBbuscarpor.Margin = new Padding(1, 2, 1, 2);
-            CBbuscarpor.Name = "CBbuscarpor";
-            CBbuscarpor.Size = new Size(237, 26);
-            CBbuscarpor.TabIndex = 250;
-            // 
-            // guna2Button4
-            // 
-            guna2Button4.BorderColor = Color.White;
-            guna2Button4.BorderRadius = 8;
-            guna2Button4.CustomizableEdges = customizableEdges112;
-            guna2Button4.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button4.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button4.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button4.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button4.FillColor = Color.FromArgb(110, 18, 32);
-            guna2Button4.Font = new Font("Segoe UI", 9F);
-            guna2Button4.ForeColor = Color.White;
-            guna2Button4.Location = new Point(810, 66);
-            guna2Button4.Margin = new Padding(4, 5, 4, 5);
-            guna2Button4.Name = "guna2Button4";
-            guna2Button4.ShadowDecoration.CustomizableEdges = customizableEdges113;
-            guna2Button4.Size = new Size(126, 42);
-            guna2Button4.TabIndex = 245;
-            guna2Button4.Text = "Limpiar";
-            // 
-            // guna2DataGridView1
-            // 
-            dataGridViewCellStyle19.BackColor = Color.White;
-            guna2DataGridView1.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle19;
-            dataGridViewCellStyle20.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle20.BackColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle20.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            dataGridViewCellStyle20.ForeColor = Color.White;
-            dataGridViewCellStyle20.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle20.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle20.WrapMode = DataGridViewTriState.True;
-            guna2DataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle20;
-            guna2DataGridView1.ColumnHeadersHeight = 27;
-            guna2DataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
-            guna2DataGridView1.Columns.AddRange(new DataGridViewColumn[] { Column1, Column2, Column5, Column3, Column4, Column6, CLestado });
-            dataGridViewCellStyle21.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle21.BackColor = Color.White;
-            dataGridViewCellStyle21.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            dataGridViewCellStyle21.ForeColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle21.SelectionBackColor = Color.FromArgb(231, 229, 255);
-            dataGridViewCellStyle21.SelectionForeColor = Color.FromArgb(71, 69, 94);
-            dataGridViewCellStyle21.WrapMode = DataGridViewTriState.False;
-            guna2DataGridView1.DefaultCellStyle = dataGridViewCellStyle21;
-            guna2DataGridView1.GridColor = Color.White;
-            guna2DataGridView1.Location = new Point(33, 209);
-            guna2DataGridView1.Margin = new Padding(4, 5, 4, 5);
-            guna2DataGridView1.Name = "guna2DataGridView1";
-            guna2DataGridView1.RowHeadersVisible = false;
-            guna2DataGridView1.RowHeadersWidth = 62;
-            guna2DataGridView1.RowTemplate.Height = 22;
-            guna2DataGridView1.Size = new Size(1388, 401);
-            guna2DataGridView1.TabIndex = 55;
-            guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
-            guna2DataGridView1.ThemeStyle.GridColor = Color.White;
-            guna2DataGridView1.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
-            guna2DataGridView1.ThemeStyle.HeaderStyle.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            guna2DataGridView1.ThemeStyle.HeaderStyle.Height = 27;
-            guna2DataGridView1.ThemeStyle.RowsStyle.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            guna2DataGridView1.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
+            dataGridViewCellStyle10.BackColor = Color.White;
+            dgw_proveedores.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle10;
+            dataGridViewCellStyle11.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle11.BackColor = Color.FromArgb(110, 18, 32);
+            dataGridViewCellStyle11.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle11.ForeColor = Color.White;
+            dataGridViewCellStyle11.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle11.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle11.WrapMode = DataGridViewTriState.True;
+            dgw_proveedores.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle11;
+            dgw_proveedores.ColumnHeadersHeight = 27;
+            dgw_proveedores.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
+            dgw_proveedores.Columns.AddRange(new DataGridViewColumn[] { Column1, Column2, Column5, Column3, Column4, Column6, CLestado });
+            dataGridViewCellStyle12.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle12.BackColor = Color.White;
+            dataGridViewCellStyle12.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle12.ForeColor = Color.FromArgb(110, 18, 32);
+            dataGridViewCellStyle12.SelectionBackColor = Color.FromArgb(231, 229, 255);
+            dataGridViewCellStyle12.SelectionForeColor = Color.FromArgb(71, 69, 94);
+            dataGridViewCellStyle12.WrapMode = DataGridViewTriState.False;
+            dgw_proveedores.DefaultCellStyle = dataGridViewCellStyle12;
+            dgw_proveedores.GridColor = Color.White;
+            dgw_proveedores.Location = new Point(33, 209);
+            dgw_proveedores.Margin = new Padding(4, 5, 4, 5);
+            dgw_proveedores.Name = "dgw_proveedores";
+            dgw_proveedores.RowHeadersVisible = false;
+            dgw_proveedores.RowHeadersWidth = 62;
+            dgw_proveedores.RowTemplate.Height = 22;
+            dgw_proveedores.Size = new Size(1388, 401);
+            dgw_proveedores.TabIndex = 55;
+            dgw_proveedores.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
+            dgw_proveedores.ThemeStyle.GridColor = Color.White;
+            dgw_proveedores.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
+            dgw_proveedores.ThemeStyle.HeaderStyle.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dgw_proveedores.ThemeStyle.HeaderStyle.Height = 27;
+            dgw_proveedores.ThemeStyle.RowsStyle.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dgw_proveedores.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
             // 
             // Column1
             // 
@@ -611,354 +458,179 @@
             CLestado.MinimumWidth = 8;
             CLestado.Name = "CLestado";
             // 
-            // label4
+            // btn_mostrar
             // 
-            label4.AutoSize = true;
-            label4.Location = new Point(33, 158);
-            label4.Margin = new Padding(4, 0, 4, 0);
-            label4.Name = "label4";
-            label4.Size = new Size(196, 24);
-            label4.TabIndex = 254;
-            label4.Text = "Lista de proveedores";
+            btn_mostrar.BorderColor = Color.White;
+            btn_mostrar.BorderRadius = 8;
+            btn_mostrar.CustomizableEdges = customizableEdges55;
+            btn_mostrar.DisabledState.BorderColor = Color.DarkGray;
+            btn_mostrar.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_mostrar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_mostrar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_mostrar.FillColor = Color.FromArgb(110, 18, 32);
+            btn_mostrar.Font = new Font("Book Antiqua", 11F);
+            btn_mostrar.ForeColor = Color.White;
+            btn_mostrar.Location = new Point(616, 66);
+            btn_mostrar.Margin = new Padding(4, 5, 4, 5);
+            btn_mostrar.Name = "btn_mostrar";
+            btn_mostrar.ShadowDecoration.CustomizableEdges = customizableEdges56;
+            btn_mostrar.Size = new Size(182, 42);
+            btn_mostrar.TabIndex = 246;
+            btn_mostrar.Text = "Mostrar todo";
             // 
-            // guna2TextBox6
+            // btn_guardar
             // 
-            guna2TextBox6.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox6.BorderRadius = 8;
-            guna2TextBox6.CustomizableEdges = customizableEdges114;
-            guna2TextBox6.DefaultText = "";
-            guna2TextBox6.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox6.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox6.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox6.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox6.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox6.Font = new Font("Segoe UI", 9F);
-            guna2TextBox6.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox6.Location = new Point(1193, 185);
-            guna2TextBox6.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox6.Name = "guna2TextBox6";
-            guna2TextBox6.PlaceholderText = "";
-            guna2TextBox6.SelectedText = "";
-            guna2TextBox6.ShadowDecoration.CustomizableEdges = customizableEdges115;
-            guna2TextBox6.Size = new Size(204, 50);
-            guna2TextBox6.TabIndex = 71;
+            btn_guardar.BorderColor = Color.White;
+            btn_guardar.BorderRadius = 8;
+            btn_guardar.CustomizableEdges = customizableEdges57;
+            btn_guardar.DisabledState.BorderColor = Color.DarkGray;
+            btn_guardar.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_guardar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_guardar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_guardar.FillColor = Color.FromArgb(110, 18, 32);
+            btn_guardar.Font = new Font("Book Antiqua", 11F);
+            btn_guardar.ForeColor = Color.White;
+            btn_guardar.Location = new Point(988, 66);
+            btn_guardar.Margin = new Padding(4, 5, 4, 5);
+            btn_guardar.Name = "btn_guardar";
+            btn_guardar.ShadowDecoration.CustomizableEdges = customizableEdges58;
+            btn_guardar.Size = new Size(159, 42);
+            btn_guardar.TabIndex = 247;
+            btn_guardar.Text = "Guardar";
             // 
-            // guna2ComboBox1
+            // btn_buscar
             // 
-            guna2ComboBox1.BackColor = Color.Transparent;
-            guna2ComboBox1.BorderRadius = 8;
-            guna2ComboBox1.CustomizableEdges = customizableEdges116;
-            guna2ComboBox1.DrawMode = DrawMode.OwnerDrawFixed;
-            guna2ComboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
-            guna2ComboBox1.FocusedColor = Color.FromArgb(94, 148, 255);
-            guna2ComboBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2ComboBox1.Font = new Font("Segoe UI", 10F);
-            guna2ComboBox1.ForeColor = Color.FromArgb(68, 88, 112);
-            guna2ComboBox1.ItemHeight = 30;
-            guna2ComboBox1.Location = new Point(913, 193);
-            guna2ComboBox1.Margin = new Padding(4, 5, 4, 5);
-            guna2ComboBox1.Name = "guna2ComboBox1";
-            guna2ComboBox1.ShadowDecoration.CustomizableEdges = customizableEdges117;
-            guna2ComboBox1.Size = new Size(255, 36);
-            guna2ComboBox1.TabIndex = 70;
+            btn_buscar.BorderColor = Color.White;
+            btn_buscar.BorderRadius = 8;
+            btn_buscar.CustomizableEdges = customizableEdges59;
+            btn_buscar.DisabledState.BorderColor = Color.DarkGray;
+            btn_buscar.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_buscar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_buscar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_buscar.FillColor = Color.FromArgb(110, 18, 32);
+            btn_buscar.Font = new Font("Book Antiqua", 11F);
+            btn_buscar.ForeColor = Color.White;
+            btn_buscar.Location = new Point(448, 66);
+            btn_buscar.Margin = new Padding(4, 5, 4, 5);
+            btn_buscar.Name = "btn_buscar";
+            btn_buscar.ShadowDecoration.CustomizableEdges = customizableEdges60;
+            btn_buscar.Size = new Size(130, 38);
+            btn_buscar.TabIndex = 248;
+            btn_buscar.Text = "Buscar";
+            btn_buscar.Click += btn_buscar_Click;
             // 
-            // label10
+            // label3
             // 
-            label10.AutoSize = true;
-            label10.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label10.Location = new Point(782, 202);
-            label10.Margin = new Padding(4, 0, 4, 0);
-            label10.Name = "label10";
-            label10.Size = new Size(123, 27);
-            label10.TabIndex = 69;
-            label10.Text = "Buscar por:";
+            label3.AutoSize = true;
+            label3.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label3.ForeColor = Color.FromArgb(64, 0, 0);
+            label3.Location = new Point(17, 74);
+            label3.Margin = new Padding(1, 0, 1, 0);
+            label3.Name = "label3";
+            label3.Size = new Size(123, 27);
+            label3.TabIndex = 249;
+            label3.Text = "Buscar por:";
             // 
-            // guna2Button5
+            // CBbuscarpor
             // 
-            guna2Button5.BorderColor = Color.FromArgb(194, 154, 116);
-            guna2Button5.BorderRadius = 8;
-            guna2Button5.BorderThickness = 1;
-            guna2Button5.CustomizableEdges = customizableEdges118;
-            guna2Button5.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button5.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button5.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button5.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button5.FillColor = Color.White;
-            guna2Button5.FocusedColor = Color.FromArgb(110, 18, 32);
-            guna2Button5.Font = new Font("Book Antiqua", 11F);
-            guna2Button5.ForeColor = Color.Black;
-            guna2Button5.Location = new Point(1253, 248);
-            guna2Button5.Margin = new Padding(4, 5, 4, 5);
-            guna2Button5.Name = "guna2Button5";
-            guna2Button5.ShadowDecoration.CustomizableEdges = customizableEdges119;
-            guna2Button5.Size = new Size(144, 42);
-            guna2Button5.TabIndex = 68;
-            guna2Button5.Text = "Cancelar";
+            CBbuscarpor.Font = new Font("PMingLiU-ExtB", 9F);
+            CBbuscarpor.FormattingEnabled = true;
+            CBbuscarpor.Location = new Point(151, 78);
+            CBbuscarpor.Margin = new Padding(1, 2, 1, 2);
+            CBbuscarpor.Name = "CBbuscarpor";
+            CBbuscarpor.Size = new Size(237, 26);
+            CBbuscarpor.TabIndex = 250;
             // 
-            // guna2Button6
+            // btn_limpiar
             // 
-            guna2Button6.BorderColor = Color.White;
-            guna2Button6.BorderRadius = 8;
-            guna2Button6.CustomizableEdges = customizableEdges120;
-            guna2Button6.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button6.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button6.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button6.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button6.FillColor = Color.FromArgb(110, 18, 32);
-            guna2Button6.Font = new Font("Book Antiqua", 11F);
-            guna2Button6.ForeColor = Color.White;
-            guna2Button6.Location = new Point(1070, 248);
-            guna2Button6.Margin = new Padding(4, 5, 4, 5);
-            guna2Button6.Name = "guna2Button6";
-            guna2Button6.ShadowDecoration.CustomizableEdges = customizableEdges121;
-            guna2Button6.Size = new Size(164, 42);
-            guna2Button6.TabIndex = 67;
-            guna2Button6.Text = "Guardar";
+            btn_limpiar.BorderColor = Color.White;
+            btn_limpiar.BorderRadius = 8;
+            btn_limpiar.CustomizableEdges = customizableEdges61;
+            btn_limpiar.DisabledState.BorderColor = Color.DarkGray;
+            btn_limpiar.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_limpiar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_limpiar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_limpiar.FillColor = Color.FromArgb(110, 18, 32);
+            btn_limpiar.Font = new Font("Book Antiqua", 11F);
+            btn_limpiar.ForeColor = Color.White;
+            btn_limpiar.Location = new Point(837, 66);
+            btn_limpiar.Margin = new Padding(4, 5, 4, 5);
+            btn_limpiar.Name = "btn_limpiar";
+            btn_limpiar.ShadowDecoration.CustomizableEdges = customizableEdges62;
+            btn_limpiar.Size = new Size(126, 42);
+            btn_limpiar.TabIndex = 245;
+            btn_limpiar.Text = "Limpiar";
             // 
-            // label9
+            // tabpag_nuevo_proveedor
             // 
-            label9.AutoSize = true;
-            label9.Font = new Font("Book Antiqua", 11F);
-            label9.Location = new Point(437, 165);
-            label9.Margin = new Padding(4, 0, 4, 0);
-            label9.Name = "label9";
-            label9.Size = new Size(215, 27);
-            label9.TabIndex = 66;
-            label9.Text = "Dirección (opcional):";
+            tabpag_nuevo_proveedor.Controls.Add(dgw_proveedores_nuevo);
+            tabpag_nuevo_proveedor.Controls.Add(label15);
+            tabpag_nuevo_proveedor.Controls.Add(txtbox_buscarpor);
+            tabpag_nuevo_proveedor.Controls.Add(cmb_buscarpor);
+            tabpag_nuevo_proveedor.Controls.Add(lbl_buscar);
+            tabpag_nuevo_proveedor.Controls.Add(btn_cancelar_nuevo);
+            tabpag_nuevo_proveedor.Controls.Add(btn_guardar_nuevo);
+            tabpag_nuevo_proveedor.Controls.Add(lbl_direccion);
+            tabpag_nuevo_proveedor.Controls.Add(lbl_correo_electronico);
+            tabpag_nuevo_proveedor.Controls.Add(lbl_telefono);
+            tabpag_nuevo_proveedor.Controls.Add(lbl_fecha);
+            tabpag_nuevo_proveedor.Controls.Add(lbl_ruc);
+            tabpag_nuevo_proveedor.Controls.Add(lbl_nombre);
+            tabpag_nuevo_proveedor.Controls.Add(txtbox_direccion);
+            tabpag_nuevo_proveedor.Controls.Add(guna2DateTimePicker1);
+            tabpag_nuevo_proveedor.Controls.Add(txtbox_ruc);
+            tabpag_nuevo_proveedor.Controls.Add(txtbox_telefono);
+            tabpag_nuevo_proveedor.Controls.Add(txtbox_correo_electronico);
+            tabpag_nuevo_proveedor.Controls.Add(txtbox_nombre);
+            tabpag_nuevo_proveedor.Controls.Add(label14);
+            tabpag_nuevo_proveedor.Location = new Point(4, 33);
+            tabpag_nuevo_proveedor.Name = "tabpag_nuevo_proveedor";
+            tabpag_nuevo_proveedor.Padding = new Padding(3);
+            tabpag_nuevo_proveedor.Size = new Size(1452, 646);
+            tabpag_nuevo_proveedor.TabIndex = 1;
+            tabpag_nuevo_proveedor.Text = "Nuevo proveedor";
+            tabpag_nuevo_proveedor.UseVisualStyleBackColor = true;
+            tabpag_nuevo_proveedor.Click += tabPage2_Click;
             // 
-            // label8
+            // dgw_proveedores_nuevo
             // 
-            label8.AutoSize = true;
-            label8.Font = new Font("Book Antiqua", 11F);
-            label8.Location = new Point(43, 165);
-            label8.Margin = new Padding(4, 0, 4, 0);
-            label8.Name = "label8";
-            label8.Size = new Size(200, 27);
-            label8.TabIndex = 65;
-            label8.Text = "Correo electrónico:";
-            // 
-            // label7
-            // 
-            label7.AutoSize = true;
-            label7.Font = new Font("Book Antiqua", 11F);
-            label7.Location = new Point(1059, 67);
-            label7.Margin = new Padding(4, 0, 4, 0);
-            label7.Name = "label7";
-            label7.Size = new Size(103, 27);
-            label7.TabIndex = 64;
-            label7.Text = "Teléfono:";
-            // 
-            // label5
-            // 
-            label5.AutoSize = true;
-            label5.Font = new Font("Book Antiqua", 11F);
-            label5.Location = new Point(724, 70);
-            label5.Margin = new Padding(4, 0, 4, 0);
-            label5.Name = "label5";
-            label5.Size = new Size(75, 27);
-            label5.TabIndex = 63;
-            label5.Text = "Fecha:";
-            // 
-            // label12
-            // 
-            label12.AutoSize = true;
-            label12.Font = new Font("Book Antiqua", 11F);
-            label12.Location = new Point(437, 70);
-            label12.Margin = new Padding(4, 0, 4, 0);
-            label12.Name = "label12";
-            label12.Size = new Size(66, 27);
-            label12.TabIndex = 62;
-            label12.Text = "RUC:";
-            // 
-            // label13
-            // 
-            label13.AutoSize = true;
-            label13.Font = new Font("Book Antiqua", 11F);
-            label13.Location = new Point(54, 69);
-            label13.Margin = new Padding(4, 0, 4, 0);
-            label13.Name = "label13";
-            label13.Size = new Size(195, 27);
-            label13.TabIndex = 61;
-            label13.Text = "Nombre completo:";
-            // 
-            // guna2TextBox5
-            // 
-            guna2TextBox5.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox5.BorderRadius = 8;
-            guna2TextBox5.CustomizableEdges = customizableEdges122;
-            guna2TextBox5.DefaultText = "";
-            guna2TextBox5.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox5.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox5.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox5.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox5.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox5.Font = new Font("Segoe UI", 9F);
-            guna2TextBox5.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox5.Location = new Point(442, 193);
-            guna2TextBox5.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox5.Name = "guna2TextBox5";
-            guna2TextBox5.PlaceholderText = "Ingrese la dirección";
-            guna2TextBox5.SelectedText = "";
-            guna2TextBox5.ShadowDecoration.CustomizableEdges = customizableEdges123;
-            guna2TextBox5.Size = new Size(326, 42);
-            guna2TextBox5.TabIndex = 60;
-            // 
-            // guna2DateTimePicker1
-            // 
-            guna2DateTimePicker1.BorderRadius = 8;
-            guna2DateTimePicker1.Checked = true;
-            guna2DateTimePicker1.CustomizableEdges = customizableEdges124;
-            guna2DateTimePicker1.FillColor = Color.White;
-            guna2DateTimePicker1.Font = new Font("Segoe UI", 9F);
-            guna2DateTimePicker1.Format = DateTimePickerFormat.Long;
-            guna2DateTimePicker1.Location = new Point(724, 95);
-            guna2DateTimePicker1.Margin = new Padding(4, 5, 4, 5);
-            guna2DateTimePicker1.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
-            guna2DateTimePicker1.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
-            guna2DateTimePicker1.Name = "guna2DateTimePicker1";
-            guna2DateTimePicker1.ShadowDecoration.CustomizableEdges = customizableEdges125;
-            guna2DateTimePicker1.Size = new Size(319, 42);
-            guna2DateTimePicker1.TabIndex = 59;
-            guna2DateTimePicker1.Value = new DateTime(2026, 7, 9, 19, 23, 26, 643);
-            // 
-            // guna2TextBox4
-            // 
-            guna2TextBox4.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox4.BorderRadius = 8;
-            guna2TextBox4.CustomizableEdges = customizableEdges126;
-            guna2TextBox4.DefaultText = "";
-            guna2TextBox4.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox4.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox4.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox4.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox4.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox4.Font = new Font("Segoe UI", 9F);
-            guna2TextBox4.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox4.Location = new Point(442, 99);
-            guna2TextBox4.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox4.Name = "guna2TextBox4";
-            guna2TextBox4.PlaceholderText = "Ingrese el RUC";
-            guna2TextBox4.SelectedText = "";
-            guna2TextBox4.ShadowDecoration.CustomizableEdges = customizableEdges127;
-            guna2TextBox4.Size = new Size(236, 42);
-            guna2TextBox4.TabIndex = 58;
-            // 
-            // guna2TextBox3
-            // 
-            guna2TextBox3.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox3.BorderRadius = 8;
-            guna2TextBox3.CustomizableEdges = customizableEdges128;
-            guna2TextBox3.DefaultText = "";
-            guna2TextBox3.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox3.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox3.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox3.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox3.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox3.Font = new Font("Segoe UI", 9F);
-            guna2TextBox3.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox3.Location = new Point(1054, 95);
-            guna2TextBox3.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox3.Name = "guna2TextBox3";
-            guna2TextBox3.PlaceholderText = "Ingrese el número de teléfono";
-            guna2TextBox3.SelectedText = "";
-            guna2TextBox3.ShadowDecoration.CustomizableEdges = customizableEdges129;
-            guna2TextBox3.Size = new Size(264, 42);
-            guna2TextBox3.TabIndex = 57;
-            // 
-            // guna2TextBox2
-            // 
-            guna2TextBox2.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox2.BorderRadius = 8;
-            guna2TextBox2.CustomizableEdges = customizableEdges130;
-            guna2TextBox2.DefaultText = "";
-            guna2TextBox2.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox2.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox2.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox2.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox2.Font = new Font("Segoe UI", 9F);
-            guna2TextBox2.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox2.Location = new Point(47, 193);
-            guna2TextBox2.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox2.Name = "guna2TextBox2";
-            guna2TextBox2.PlaceholderText = "Ingrese el correo electrónico";
-            guna2TextBox2.SelectedText = "";
-            guna2TextBox2.ShadowDecoration.CustomizableEdges = customizableEdges131;
-            guna2TextBox2.Size = new Size(306, 42);
-            guna2TextBox2.TabIndex = 56;
-            // 
-            // guna2TextBox1
-            // 
-            guna2TextBox1.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox1.BorderRadius = 8;
-            guna2TextBox1.CustomizableEdges = customizableEdges132;
-            guna2TextBox1.DefaultText = "";
-            guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Font = new Font("Segoe UI", 9F);
-            guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Location = new Point(47, 99);
-            guna2TextBox1.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox1.Name = "guna2TextBox1";
-            guna2TextBox1.PlaceholderText = "Ingrese el nombre completo";
-            guna2TextBox1.SelectedText = "";
-            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges133;
-            guna2TextBox1.Size = new Size(343, 42);
-            guna2TextBox1.TabIndex = 55;
-            // 
-            // label14
-            // 
-            label14.AutoSize = true;
-            label14.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label14.Location = new Point(33, 25);
-            label14.Margin = new Padding(4, 0, 4, 0);
-            label14.Name = "label14";
-            label14.Size = new Size(186, 27);
-            label14.TabIndex = 53;
-            label14.Text = "Nuevo proveedor";
-            // 
-            // guna2DataGridView2
-            // 
-            dataGridViewCellStyle22.BackColor = Color.White;
-            guna2DataGridView2.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle22;
-            dataGridViewCellStyle23.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle23.BackColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle23.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle23.ForeColor = Color.White;
-            dataGridViewCellStyle23.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle23.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle23.WrapMode = DataGridViewTriState.True;
-            guna2DataGridView2.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle23;
-            guna2DataGridView2.ColumnHeadersHeight = 27;
-            guna2DataGridView2.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
-            guna2DataGridView2.Columns.AddRange(new DataGridViewColumn[] { dataGridViewTextBoxColumn1, dataGridViewTextBoxColumn2, dataGridViewTextBoxColumn3, dataGridViewTextBoxColumn4 });
-            dataGridViewCellStyle24.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle24.BackColor = Color.White;
-            dataGridViewCellStyle24.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle24.ForeColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle24.SelectionBackColor = Color.FromArgb(231, 229, 255);
-            dataGridViewCellStyle24.SelectionForeColor = Color.FromArgb(71, 69, 94);
-            dataGridViewCellStyle24.WrapMode = DataGridViewTriState.False;
-            guna2DataGridView2.DefaultCellStyle = dataGridViewCellStyle24;
-            guna2DataGridView2.GridColor = Color.White;
-            guna2DataGridView2.Location = new Point(39, 378);
-            guna2DataGridView2.Margin = new Padding(4, 5, 4, 5);
-            guna2DataGridView2.Name = "guna2DataGridView2";
-            guna2DataGridView2.RowHeadersVisible = false;
-            guna2DataGridView2.RowHeadersWidth = 62;
-            guna2DataGridView2.RowTemplate.Height = 22;
-            guna2DataGridView2.Size = new Size(1381, 243);
-            guna2DataGridView2.TabIndex = 74;
-            guna2DataGridView2.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
-            guna2DataGridView2.ThemeStyle.GridColor = Color.White;
-            guna2DataGridView2.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
-            guna2DataGridView2.ThemeStyle.HeaderStyle.Font = new Font("Segoe UI", 9F);
-            guna2DataGridView2.ThemeStyle.HeaderStyle.Height = 27;
-            guna2DataGridView2.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 9F);
-            guna2DataGridView2.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
+            dataGridViewCellStyle13.BackColor = Color.White;
+            dgw_proveedores_nuevo.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle13;
+            dataGridViewCellStyle14.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle14.BackColor = Color.FromArgb(110, 18, 32);
+            dataGridViewCellStyle14.Font = new Font("Segoe UI", 9F);
+            dataGridViewCellStyle14.ForeColor = Color.White;
+            dataGridViewCellStyle14.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle14.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle14.WrapMode = DataGridViewTriState.True;
+            dgw_proveedores_nuevo.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle14;
+            dgw_proveedores_nuevo.ColumnHeadersHeight = 27;
+            dgw_proveedores_nuevo.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
+            dgw_proveedores_nuevo.Columns.AddRange(new DataGridViewColumn[] { dataGridViewTextBoxColumn1, dataGridViewTextBoxColumn2, dataGridViewTextBoxColumn3, dataGridViewTextBoxColumn4 });
+            dataGridViewCellStyle15.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle15.BackColor = Color.White;
+            dataGridViewCellStyle15.Font = new Font("Segoe UI", 9F);
+            dataGridViewCellStyle15.ForeColor = Color.FromArgb(110, 18, 32);
+            dataGridViewCellStyle15.SelectionBackColor = Color.FromArgb(231, 229, 255);
+            dataGridViewCellStyle15.SelectionForeColor = Color.FromArgb(71, 69, 94);
+            dataGridViewCellStyle15.WrapMode = DataGridViewTriState.False;
+            dgw_proveedores_nuevo.DefaultCellStyle = dataGridViewCellStyle15;
+            dgw_proveedores_nuevo.GridColor = Color.White;
+            dgw_proveedores_nuevo.Location = new Point(39, 378);
+            dgw_proveedores_nuevo.Margin = new Padding(4, 5, 4, 5);
+            dgw_proveedores_nuevo.Name = "dgw_proveedores_nuevo";
+            dgw_proveedores_nuevo.RowHeadersVisible = false;
+            dgw_proveedores_nuevo.RowHeadersWidth = 62;
+            dgw_proveedores_nuevo.RowTemplate.Height = 22;
+            dgw_proveedores_nuevo.Size = new Size(1381, 243);
+            dgw_proveedores_nuevo.TabIndex = 74;
+            dgw_proveedores_nuevo.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
+            dgw_proveedores_nuevo.ThemeStyle.GridColor = Color.White;
+            dgw_proveedores_nuevo.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
+            dgw_proveedores_nuevo.ThemeStyle.HeaderStyle.Font = new Font("Segoe UI", 9F);
+            dgw_proveedores_nuevo.ThemeStyle.HeaderStyle.Height = 27;
+            dgw_proveedores_nuevo.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 9F);
+            dgw_proveedores_nuevo.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
             // 
             // dataGridViewTextBoxColumn1
             // 
@@ -995,10 +667,339 @@
             label15.TabIndex = 72;
             label15.Text = "Lista de proveedores";
             // 
-            // guna2DataGridView3
+            // txtbox_buscarpor
+            // 
+            txtbox_buscarpor.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_buscarpor.BorderRadius = 8;
+            txtbox_buscarpor.CustomizableEdges = customizableEdges63;
+            txtbox_buscarpor.DefaultText = "";
+            txtbox_buscarpor.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_buscarpor.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_buscarpor.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_buscarpor.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_buscarpor.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_buscarpor.Font = new Font("Segoe UI", 9F);
+            txtbox_buscarpor.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_buscarpor.Location = new Point(1193, 185);
+            txtbox_buscarpor.Margin = new Padding(6, 8, 6, 8);
+            txtbox_buscarpor.Name = "txtbox_buscarpor";
+            txtbox_buscarpor.PlaceholderText = "";
+            txtbox_buscarpor.SelectedText = "";
+            txtbox_buscarpor.ShadowDecoration.CustomizableEdges = customizableEdges64;
+            txtbox_buscarpor.Size = new Size(204, 50);
+            txtbox_buscarpor.TabIndex = 71;
+            // 
+            // cmb_buscarpor
+            // 
+            cmb_buscarpor.BackColor = Color.Transparent;
+            cmb_buscarpor.BorderRadius = 8;
+            cmb_buscarpor.CustomizableEdges = customizableEdges65;
+            cmb_buscarpor.DrawMode = DrawMode.OwnerDrawFixed;
+            cmb_buscarpor.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmb_buscarpor.FocusedColor = Color.FromArgb(94, 148, 255);
+            cmb_buscarpor.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            cmb_buscarpor.Font = new Font("Segoe UI", 10F);
+            cmb_buscarpor.ForeColor = Color.FromArgb(68, 88, 112);
+            cmb_buscarpor.ItemHeight = 30;
+            cmb_buscarpor.Location = new Point(913, 193);
+            cmb_buscarpor.Margin = new Padding(4, 5, 4, 5);
+            cmb_buscarpor.Name = "cmb_buscarpor";
+            cmb_buscarpor.ShadowDecoration.CustomizableEdges = customizableEdges66;
+            cmb_buscarpor.Size = new Size(255, 36);
+            cmb_buscarpor.TabIndex = 70;
+            // 
+            // lbl_buscar
+            // 
+            lbl_buscar.AutoSize = true;
+            lbl_buscar.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_buscar.Location = new Point(782, 202);
+            lbl_buscar.Margin = new Padding(4, 0, 4, 0);
+            lbl_buscar.Name = "lbl_buscar";
+            lbl_buscar.Size = new Size(123, 27);
+            lbl_buscar.TabIndex = 69;
+            lbl_buscar.Text = "Buscar por:";
+            // 
+            // btn_cancelar_nuevo
+            // 
+            btn_cancelar_nuevo.BorderColor = Color.FromArgb(194, 154, 116);
+            btn_cancelar_nuevo.BorderRadius = 8;
+            btn_cancelar_nuevo.BorderThickness = 1;
+            btn_cancelar_nuevo.CustomizableEdges = customizableEdges67;
+            btn_cancelar_nuevo.DisabledState.BorderColor = Color.DarkGray;
+            btn_cancelar_nuevo.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_cancelar_nuevo.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_cancelar_nuevo.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_cancelar_nuevo.FillColor = Color.White;
+            btn_cancelar_nuevo.FocusedColor = Color.FromArgb(110, 18, 32);
+            btn_cancelar_nuevo.Font = new Font("Book Antiqua", 11F);
+            btn_cancelar_nuevo.ForeColor = Color.Black;
+            btn_cancelar_nuevo.Location = new Point(1253, 248);
+            btn_cancelar_nuevo.Margin = new Padding(4, 5, 4, 5);
+            btn_cancelar_nuevo.Name = "btn_cancelar_nuevo";
+            btn_cancelar_nuevo.ShadowDecoration.CustomizableEdges = customizableEdges68;
+            btn_cancelar_nuevo.Size = new Size(144, 42);
+            btn_cancelar_nuevo.TabIndex = 68;
+            btn_cancelar_nuevo.Text = "Cancelar";
+            // 
+            // btn_guardar_nuevo
+            // 
+            btn_guardar_nuevo.BorderColor = Color.White;
+            btn_guardar_nuevo.BorderRadius = 8;
+            btn_guardar_nuevo.CustomizableEdges = customizableEdges69;
+            btn_guardar_nuevo.DisabledState.BorderColor = Color.DarkGray;
+            btn_guardar_nuevo.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_guardar_nuevo.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_guardar_nuevo.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_guardar_nuevo.FillColor = Color.FromArgb(110, 18, 32);
+            btn_guardar_nuevo.Font = new Font("Book Antiqua", 11F);
+            btn_guardar_nuevo.ForeColor = Color.White;
+            btn_guardar_nuevo.Location = new Point(1070, 248);
+            btn_guardar_nuevo.Margin = new Padding(4, 5, 4, 5);
+            btn_guardar_nuevo.Name = "btn_guardar_nuevo";
+            btn_guardar_nuevo.ShadowDecoration.CustomizableEdges = customizableEdges70;
+            btn_guardar_nuevo.Size = new Size(164, 42);
+            btn_guardar_nuevo.TabIndex = 67;
+            btn_guardar_nuevo.Text = "Guardar";
+            // 
+            // lbl_direccion
+            // 
+            lbl_direccion.AutoSize = true;
+            lbl_direccion.Font = new Font("Book Antiqua", 11F);
+            lbl_direccion.Location = new Point(437, 165);
+            lbl_direccion.Margin = new Padding(4, 0, 4, 0);
+            lbl_direccion.Name = "lbl_direccion";
+            lbl_direccion.Size = new Size(215, 27);
+            lbl_direccion.TabIndex = 66;
+            lbl_direccion.Text = "Dirección (opcional):";
+            // 
+            // lbl_correo_electronico
+            // 
+            lbl_correo_electronico.AutoSize = true;
+            lbl_correo_electronico.Font = new Font("Book Antiqua", 11F);
+            lbl_correo_electronico.Location = new Point(43, 165);
+            lbl_correo_electronico.Margin = new Padding(4, 0, 4, 0);
+            lbl_correo_electronico.Name = "lbl_correo_electronico";
+            lbl_correo_electronico.Size = new Size(200, 27);
+            lbl_correo_electronico.TabIndex = 65;
+            lbl_correo_electronico.Text = "Correo electrónico:";
+            // 
+            // lbl_telefono
+            // 
+            lbl_telefono.AutoSize = true;
+            lbl_telefono.Font = new Font("Book Antiqua", 11F);
+            lbl_telefono.Location = new Point(1059, 67);
+            lbl_telefono.Margin = new Padding(4, 0, 4, 0);
+            lbl_telefono.Name = "lbl_telefono";
+            lbl_telefono.Size = new Size(103, 27);
+            lbl_telefono.TabIndex = 64;
+            lbl_telefono.Text = "Teléfono:";
+            // 
+            // lbl_fecha
+            // 
+            lbl_fecha.AutoSize = true;
+            lbl_fecha.Font = new Font("Book Antiqua", 11F);
+            lbl_fecha.Location = new Point(724, 70);
+            lbl_fecha.Margin = new Padding(4, 0, 4, 0);
+            lbl_fecha.Name = "lbl_fecha";
+            lbl_fecha.Size = new Size(75, 27);
+            lbl_fecha.TabIndex = 63;
+            lbl_fecha.Text = "Fecha:";
+            // 
+            // lbl_ruc
+            // 
+            lbl_ruc.AutoSize = true;
+            lbl_ruc.Font = new Font("Book Antiqua", 11F);
+            lbl_ruc.Location = new Point(437, 70);
+            lbl_ruc.Margin = new Padding(4, 0, 4, 0);
+            lbl_ruc.Name = "lbl_ruc";
+            lbl_ruc.Size = new Size(66, 27);
+            lbl_ruc.TabIndex = 62;
+            lbl_ruc.Text = "RUC:";
+            // 
+            // lbl_nombre
+            // 
+            lbl_nombre.AutoSize = true;
+            lbl_nombre.Font = new Font("Book Antiqua", 11F);
+            lbl_nombre.Location = new Point(54, 69);
+            lbl_nombre.Margin = new Padding(4, 0, 4, 0);
+            lbl_nombre.Name = "lbl_nombre";
+            lbl_nombre.Size = new Size(195, 27);
+            lbl_nombre.TabIndex = 61;
+            lbl_nombre.Text = "Nombre completo:";
+            // 
+            // txtbox_direccion
+            // 
+            txtbox_direccion.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_direccion.BorderRadius = 8;
+            txtbox_direccion.CustomizableEdges = customizableEdges71;
+            txtbox_direccion.DefaultText = "";
+            txtbox_direccion.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_direccion.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_direccion.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_direccion.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_direccion.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_direccion.Font = new Font("Segoe UI", 9F);
+            txtbox_direccion.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_direccion.Location = new Point(442, 193);
+            txtbox_direccion.Margin = new Padding(6, 8, 6, 8);
+            txtbox_direccion.Name = "txtbox_direccion";
+            txtbox_direccion.PlaceholderText = "Ingrese la dirección";
+            txtbox_direccion.SelectedText = "";
+            txtbox_direccion.ShadowDecoration.CustomizableEdges = customizableEdges72;
+            txtbox_direccion.Size = new Size(326, 42);
+            txtbox_direccion.TabIndex = 60;
+            // 
+            // guna2DateTimePicker1
+            // 
+            guna2DateTimePicker1.BorderRadius = 8;
+            guna2DateTimePicker1.Checked = true;
+            guna2DateTimePicker1.CustomizableEdges = customizableEdges73;
+            guna2DateTimePicker1.FillColor = Color.White;
+            guna2DateTimePicker1.Font = new Font("Segoe UI", 9F);
+            guna2DateTimePicker1.Format = DateTimePickerFormat.Long;
+            guna2DateTimePicker1.Location = new Point(724, 95);
+            guna2DateTimePicker1.Margin = new Padding(4, 5, 4, 5);
+            guna2DateTimePicker1.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
+            guna2DateTimePicker1.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
+            guna2DateTimePicker1.Name = "guna2DateTimePicker1";
+            guna2DateTimePicker1.ShadowDecoration.CustomizableEdges = customizableEdges74;
+            guna2DateTimePicker1.Size = new Size(319, 42);
+            guna2DateTimePicker1.TabIndex = 59;
+            guna2DateTimePicker1.Value = new DateTime(2026, 7, 9, 19, 23, 26, 643);
+            // 
+            // txtbox_ruc
+            // 
+            txtbox_ruc.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_ruc.BorderRadius = 8;
+            txtbox_ruc.CustomizableEdges = customizableEdges75;
+            txtbox_ruc.DefaultText = "";
+            txtbox_ruc.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_ruc.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_ruc.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_ruc.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_ruc.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_ruc.Font = new Font("Segoe UI", 9F);
+            txtbox_ruc.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_ruc.Location = new Point(442, 99);
+            txtbox_ruc.Margin = new Padding(6, 8, 6, 8);
+            txtbox_ruc.Name = "txtbox_ruc";
+            txtbox_ruc.PlaceholderText = "Ingrese el RUC";
+            txtbox_ruc.SelectedText = "";
+            txtbox_ruc.ShadowDecoration.CustomizableEdges = customizableEdges76;
+            txtbox_ruc.Size = new Size(236, 42);
+            txtbox_ruc.TabIndex = 58;
+            // 
+            // txtbox_telefono
+            // 
+            txtbox_telefono.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_telefono.BorderRadius = 8;
+            txtbox_telefono.CustomizableEdges = customizableEdges77;
+            txtbox_telefono.DefaultText = "";
+            txtbox_telefono.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_telefono.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_telefono.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_telefono.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_telefono.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_telefono.Font = new Font("Segoe UI", 9F);
+            txtbox_telefono.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_telefono.Location = new Point(1054, 95);
+            txtbox_telefono.Margin = new Padding(6, 8, 6, 8);
+            txtbox_telefono.Name = "txtbox_telefono";
+            txtbox_telefono.PlaceholderText = "Ingrese el número de teléfono";
+            txtbox_telefono.SelectedText = "";
+            txtbox_telefono.ShadowDecoration.CustomizableEdges = customizableEdges78;
+            txtbox_telefono.Size = new Size(264, 42);
+            txtbox_telefono.TabIndex = 57;
+            // 
+            // txtbox_correo_electronico
+            // 
+            txtbox_correo_electronico.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_correo_electronico.BorderRadius = 8;
+            txtbox_correo_electronico.CustomizableEdges = customizableEdges79;
+            txtbox_correo_electronico.DefaultText = "";
+            txtbox_correo_electronico.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_correo_electronico.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_correo_electronico.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_correo_electronico.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_correo_electronico.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_correo_electronico.Font = new Font("Segoe UI", 9F);
+            txtbox_correo_electronico.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_correo_electronico.Location = new Point(47, 193);
+            txtbox_correo_electronico.Margin = new Padding(6, 8, 6, 8);
+            txtbox_correo_electronico.Name = "txtbox_correo_electronico";
+            txtbox_correo_electronico.PlaceholderText = "Ingrese el correo electrónico";
+            txtbox_correo_electronico.SelectedText = "";
+            txtbox_correo_electronico.ShadowDecoration.CustomizableEdges = customizableEdges80;
+            txtbox_correo_electronico.Size = new Size(306, 42);
+            txtbox_correo_electronico.TabIndex = 56;
+            // 
+            // txtbox_nombre
+            // 
+            txtbox_nombre.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_nombre.BorderRadius = 8;
+            txtbox_nombre.CustomizableEdges = customizableEdges81;
+            txtbox_nombre.DefaultText = "";
+            txtbox_nombre.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_nombre.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_nombre.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_nombre.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_nombre.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_nombre.Font = new Font("Segoe UI", 9F);
+            txtbox_nombre.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_nombre.Location = new Point(47, 99);
+            txtbox_nombre.Margin = new Padding(6, 8, 6, 8);
+            txtbox_nombre.Name = "txtbox_nombre";
+            txtbox_nombre.PlaceholderText = "Ingrese el nombre completo";
+            txtbox_nombre.SelectedText = "";
+            txtbox_nombre.ShadowDecoration.CustomizableEdges = customizableEdges82;
+            txtbox_nombre.Size = new Size(343, 42);
+            txtbox_nombre.TabIndex = 55;
+            // 
+            // label14
+            // 
+            label14.AutoSize = true;
+            label14.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label14.Location = new Point(33, 25);
+            label14.Margin = new Padding(4, 0, 4, 0);
+            label14.Name = "label14";
+            label14.Size = new Size(186, 27);
+            label14.TabIndex = 53;
+            label14.Text = "Nuevo proveedor";
+            // 
+            // tabPage3
+            // 
+            tabPage3.Controls.Add(dgw_proveedores_editar);
+            tabPage3.Controls.Add(label16);
+            tabPage3.Controls.Add(txtbox_buscarpor_editar);
+            tabPage3.Controls.Add(cmb_buscarpor_editar);
+            tabPage3.Controls.Add(lbl_buscar_editar);
+            tabPage3.Controls.Add(btn_cancelar_editar);
+            tabPage3.Controls.Add(btn_guardar_editar);
+            tabPage3.Controls.Add(lbl_direccion_editar);
+            tabPage3.Controls.Add(lbl_correo_electronico_editar);
+            tabPage3.Controls.Add(lbl_telefono_editar);
+            tabPage3.Controls.Add(lbl_fecha_editar);
+            tabPage3.Controls.Add(lbl_ruc_editar);
+            tabPage3.Controls.Add(lbl_nombre_editar);
+            tabPage3.Controls.Add(txtbox_direccion_editar);
+            tabPage3.Controls.Add(guna2DateTimePicker2);
+            tabPage3.Controls.Add(txtbox_ruc_editar);
+            tabPage3.Controls.Add(txtbox_telefono_editar);
+            tabPage3.Controls.Add(txtbox_correo_electronico_editar);
+            tabPage3.Controls.Add(txtbox_nombre_editar);
+            tabPage3.Controls.Add(label24);
+            tabPage3.Location = new Point(4, 33);
+            tabPage3.Name = "tabPage3";
+            tabPage3.Padding = new Padding(3);
+            tabPage3.Size = new Size(1452, 646);
+            tabPage3.TabIndex = 2;
+            tabPage3.Text = "Editar";
+            tabPage3.UseVisualStyleBackColor = true;
+            // 
+            // dgw_proveedores_editar
             // 
             dataGridViewCellStyle16.BackColor = Color.White;
-            guna2DataGridView3.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle16;
+            dgw_proveedores_editar.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle16;
             dataGridViewCellStyle17.Alignment = DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle17.BackColor = Color.FromArgb(110, 18, 32);
             dataGridViewCellStyle17.Font = new Font("Segoe UI", 9F);
@@ -1006,10 +1007,10 @@
             dataGridViewCellStyle17.SelectionBackColor = SystemColors.Highlight;
             dataGridViewCellStyle17.SelectionForeColor = SystemColors.HighlightText;
             dataGridViewCellStyle17.WrapMode = DataGridViewTriState.True;
-            guna2DataGridView3.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle17;
-            guna2DataGridView3.ColumnHeadersHeight = 27;
-            guna2DataGridView3.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
-            guna2DataGridView3.Columns.AddRange(new DataGridViewColumn[] { dataGridViewTextBoxColumn5, dataGridViewTextBoxColumn6, dataGridViewTextBoxColumn7, dataGridViewTextBoxColumn8 });
+            dgw_proveedores_editar.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle17;
+            dgw_proveedores_editar.ColumnHeadersHeight = 27;
+            dgw_proveedores_editar.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
+            dgw_proveedores_editar.Columns.AddRange(new DataGridViewColumn[] { dataGridViewTextBoxColumn5, dataGridViewTextBoxColumn6, dataGridViewTextBoxColumn7, dataGridViewTextBoxColumn8 });
             dataGridViewCellStyle18.Alignment = DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle18.BackColor = Color.White;
             dataGridViewCellStyle18.Font = new Font("Segoe UI", 9F);
@@ -1017,23 +1018,23 @@
             dataGridViewCellStyle18.SelectionBackColor = Color.FromArgb(231, 229, 255);
             dataGridViewCellStyle18.SelectionForeColor = Color.FromArgb(71, 69, 94);
             dataGridViewCellStyle18.WrapMode = DataGridViewTriState.False;
-            guna2DataGridView3.DefaultCellStyle = dataGridViewCellStyle18;
-            guna2DataGridView3.GridColor = Color.White;
-            guna2DataGridView3.Location = new Point(39, 378);
-            guna2DataGridView3.Margin = new Padding(4, 5, 4, 5);
-            guna2DataGridView3.Name = "guna2DataGridView3";
-            guna2DataGridView3.RowHeadersVisible = false;
-            guna2DataGridView3.RowHeadersWidth = 62;
-            guna2DataGridView3.RowTemplate.Height = 22;
-            guna2DataGridView3.Size = new Size(1381, 243);
-            guna2DataGridView3.TabIndex = 94;
-            guna2DataGridView3.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
-            guna2DataGridView3.ThemeStyle.GridColor = Color.White;
-            guna2DataGridView3.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
-            guna2DataGridView3.ThemeStyle.HeaderStyle.Font = new Font("Segoe UI", 9F);
-            guna2DataGridView3.ThemeStyle.HeaderStyle.Height = 27;
-            guna2DataGridView3.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 9F);
-            guna2DataGridView3.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
+            dgw_proveedores_editar.DefaultCellStyle = dataGridViewCellStyle18;
+            dgw_proveedores_editar.GridColor = Color.White;
+            dgw_proveedores_editar.Location = new Point(39, 378);
+            dgw_proveedores_editar.Margin = new Padding(4, 5, 4, 5);
+            dgw_proveedores_editar.Name = "dgw_proveedores_editar";
+            dgw_proveedores_editar.RowHeadersVisible = false;
+            dgw_proveedores_editar.RowHeadersWidth = 62;
+            dgw_proveedores_editar.RowTemplate.Height = 22;
+            dgw_proveedores_editar.Size = new Size(1381, 243);
+            dgw_proveedores_editar.TabIndex = 94;
+            dgw_proveedores_editar.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
+            dgw_proveedores_editar.ThemeStyle.GridColor = Color.White;
+            dgw_proveedores_editar.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
+            dgw_proveedores_editar.ThemeStyle.HeaderStyle.Font = new Font("Segoe UI", 9F);
+            dgw_proveedores_editar.ThemeStyle.HeaderStyle.Height = 27;
+            dgw_proveedores_editar.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 9F);
+            dgw_proveedores_editar.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
             // 
             // dataGridViewTextBoxColumn5
             // 
@@ -1070,193 +1071,193 @@
             label16.TabIndex = 93;
             label16.Text = "Lista de proveedores";
             // 
-            // guna2TextBox7
+            // txtbox_buscarpor_editar
             // 
-            guna2TextBox7.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox7.BorderRadius = 8;
-            guna2TextBox7.CustomizableEdges = customizableEdges86;
-            guna2TextBox7.DefaultText = "";
-            guna2TextBox7.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox7.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox7.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox7.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox7.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox7.Font = new Font("Segoe UI", 9F);
-            guna2TextBox7.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox7.Location = new Point(1193, 185);
-            guna2TextBox7.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox7.Name = "guna2TextBox7";
-            guna2TextBox7.PlaceholderText = "";
-            guna2TextBox7.SelectedText = "";
-            guna2TextBox7.ShadowDecoration.CustomizableEdges = customizableEdges87;
-            guna2TextBox7.Size = new Size(204, 50);
-            guna2TextBox7.TabIndex = 92;
+            txtbox_buscarpor_editar.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_buscarpor_editar.BorderRadius = 8;
+            txtbox_buscarpor_editar.CustomizableEdges = customizableEdges83;
+            txtbox_buscarpor_editar.DefaultText = "";
+            txtbox_buscarpor_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_buscarpor_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_buscarpor_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_buscarpor_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_buscarpor_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_buscarpor_editar.Font = new Font("Segoe UI", 9F);
+            txtbox_buscarpor_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_buscarpor_editar.Location = new Point(1193, 185);
+            txtbox_buscarpor_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_buscarpor_editar.Name = "txtbox_buscarpor_editar";
+            txtbox_buscarpor_editar.PlaceholderText = "";
+            txtbox_buscarpor_editar.SelectedText = "";
+            txtbox_buscarpor_editar.ShadowDecoration.CustomizableEdges = customizableEdges84;
+            txtbox_buscarpor_editar.Size = new Size(204, 50);
+            txtbox_buscarpor_editar.TabIndex = 92;
             // 
-            // guna2ComboBox2
+            // cmb_buscarpor_editar
             // 
-            guna2ComboBox2.BackColor = Color.Transparent;
-            guna2ComboBox2.BorderRadius = 8;
-            guna2ComboBox2.CustomizableEdges = customizableEdges88;
-            guna2ComboBox2.DrawMode = DrawMode.OwnerDrawFixed;
-            guna2ComboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
-            guna2ComboBox2.FocusedColor = Color.FromArgb(94, 148, 255);
-            guna2ComboBox2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2ComboBox2.Font = new Font("Segoe UI", 10F);
-            guna2ComboBox2.ForeColor = Color.FromArgb(68, 88, 112);
-            guna2ComboBox2.ItemHeight = 30;
-            guna2ComboBox2.Location = new Point(913, 193);
-            guna2ComboBox2.Margin = new Padding(4, 5, 4, 5);
-            guna2ComboBox2.Name = "guna2ComboBox2";
-            guna2ComboBox2.ShadowDecoration.CustomizableEdges = customizableEdges89;
-            guna2ComboBox2.Size = new Size(255, 36);
-            guna2ComboBox2.TabIndex = 91;
+            cmb_buscarpor_editar.BackColor = Color.Transparent;
+            cmb_buscarpor_editar.BorderRadius = 8;
+            cmb_buscarpor_editar.CustomizableEdges = customizableEdges85;
+            cmb_buscarpor_editar.DrawMode = DrawMode.OwnerDrawFixed;
+            cmb_buscarpor_editar.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmb_buscarpor_editar.FocusedColor = Color.FromArgb(94, 148, 255);
+            cmb_buscarpor_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            cmb_buscarpor_editar.Font = new Font("Segoe UI", 10F);
+            cmb_buscarpor_editar.ForeColor = Color.FromArgb(68, 88, 112);
+            cmb_buscarpor_editar.ItemHeight = 30;
+            cmb_buscarpor_editar.Location = new Point(913, 193);
+            cmb_buscarpor_editar.Margin = new Padding(4, 5, 4, 5);
+            cmb_buscarpor_editar.Name = "cmb_buscarpor_editar";
+            cmb_buscarpor_editar.ShadowDecoration.CustomizableEdges = customizableEdges86;
+            cmb_buscarpor_editar.Size = new Size(255, 36);
+            cmb_buscarpor_editar.TabIndex = 91;
             // 
-            // label17
+            // lbl_buscar_editar
             // 
-            label17.AutoSize = true;
-            label17.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label17.Location = new Point(782, 202);
-            label17.Margin = new Padding(4, 0, 4, 0);
-            label17.Name = "label17";
-            label17.Size = new Size(123, 27);
-            label17.TabIndex = 90;
-            label17.Text = "Buscar por:";
+            lbl_buscar_editar.AutoSize = true;
+            lbl_buscar_editar.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_buscar_editar.Location = new Point(782, 202);
+            lbl_buscar_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_buscar_editar.Name = "lbl_buscar_editar";
+            lbl_buscar_editar.Size = new Size(123, 27);
+            lbl_buscar_editar.TabIndex = 90;
+            lbl_buscar_editar.Text = "Buscar por:";
             // 
-            // guna2Button7
+            // btn_cancelar_editar
             // 
-            guna2Button7.BorderColor = Color.FromArgb(194, 154, 116);
-            guna2Button7.BorderRadius = 8;
-            guna2Button7.BorderThickness = 1;
-            guna2Button7.CustomizableEdges = customizableEdges90;
-            guna2Button7.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button7.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button7.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button7.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button7.FillColor = Color.White;
-            guna2Button7.FocusedColor = Color.FromArgb(110, 18, 32);
-            guna2Button7.Font = new Font("Book Antiqua", 11F);
-            guna2Button7.ForeColor = Color.Black;
-            guna2Button7.Location = new Point(1253, 248);
-            guna2Button7.Margin = new Padding(4, 5, 4, 5);
-            guna2Button7.Name = "guna2Button7";
-            guna2Button7.ShadowDecoration.CustomizableEdges = customizableEdges91;
-            guna2Button7.Size = new Size(144, 42);
-            guna2Button7.TabIndex = 89;
-            guna2Button7.Text = "Cancelar";
+            btn_cancelar_editar.BorderColor = Color.FromArgb(194, 154, 116);
+            btn_cancelar_editar.BorderRadius = 8;
+            btn_cancelar_editar.BorderThickness = 1;
+            btn_cancelar_editar.CustomizableEdges = customizableEdges87;
+            btn_cancelar_editar.DisabledState.BorderColor = Color.DarkGray;
+            btn_cancelar_editar.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_cancelar_editar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_cancelar_editar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_cancelar_editar.FillColor = Color.White;
+            btn_cancelar_editar.FocusedColor = Color.FromArgb(110, 18, 32);
+            btn_cancelar_editar.Font = new Font("Book Antiqua", 11F);
+            btn_cancelar_editar.ForeColor = Color.Black;
+            btn_cancelar_editar.Location = new Point(1253, 248);
+            btn_cancelar_editar.Margin = new Padding(4, 5, 4, 5);
+            btn_cancelar_editar.Name = "btn_cancelar_editar";
+            btn_cancelar_editar.ShadowDecoration.CustomizableEdges = customizableEdges88;
+            btn_cancelar_editar.Size = new Size(144, 42);
+            btn_cancelar_editar.TabIndex = 89;
+            btn_cancelar_editar.Text = "Cancelar";
             // 
-            // guna2Button8
+            // btn_guardar_editar
             // 
-            guna2Button8.BorderColor = Color.White;
-            guna2Button8.BorderRadius = 8;
-            guna2Button8.CustomizableEdges = customizableEdges92;
-            guna2Button8.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button8.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button8.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button8.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button8.FillColor = Color.FromArgb(110, 18, 32);
-            guna2Button8.Font = new Font("Book Antiqua", 11F);
-            guna2Button8.ForeColor = Color.White;
-            guna2Button8.Location = new Point(1070, 248);
-            guna2Button8.Margin = new Padding(4, 5, 4, 5);
-            guna2Button8.Name = "guna2Button8";
-            guna2Button8.ShadowDecoration.CustomizableEdges = customizableEdges93;
-            guna2Button8.Size = new Size(164, 42);
-            guna2Button8.TabIndex = 88;
-            guna2Button8.Text = "Guardar";
+            btn_guardar_editar.BorderColor = Color.White;
+            btn_guardar_editar.BorderRadius = 8;
+            btn_guardar_editar.CustomizableEdges = customizableEdges89;
+            btn_guardar_editar.DisabledState.BorderColor = Color.DarkGray;
+            btn_guardar_editar.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_guardar_editar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_guardar_editar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_guardar_editar.FillColor = Color.FromArgb(110, 18, 32);
+            btn_guardar_editar.Font = new Font("Book Antiqua", 11F);
+            btn_guardar_editar.ForeColor = Color.White;
+            btn_guardar_editar.Location = new Point(1070, 248);
+            btn_guardar_editar.Margin = new Padding(4, 5, 4, 5);
+            btn_guardar_editar.Name = "btn_guardar_editar";
+            btn_guardar_editar.ShadowDecoration.CustomizableEdges = customizableEdges90;
+            btn_guardar_editar.Size = new Size(164, 42);
+            btn_guardar_editar.TabIndex = 88;
+            btn_guardar_editar.Text = "Guardar";
             // 
-            // label18
+            // lbl_direccion_editar
             // 
-            label18.AutoSize = true;
-            label18.Font = new Font("Book Antiqua", 11F);
-            label18.Location = new Point(437, 165);
-            label18.Margin = new Padding(4, 0, 4, 0);
-            label18.Name = "label18";
-            label18.Size = new Size(215, 27);
-            label18.TabIndex = 87;
-            label18.Text = "Dirección (opcional):";
+            lbl_direccion_editar.AutoSize = true;
+            lbl_direccion_editar.Font = new Font("Book Antiqua", 11F);
+            lbl_direccion_editar.Location = new Point(437, 165);
+            lbl_direccion_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_direccion_editar.Name = "lbl_direccion_editar";
+            lbl_direccion_editar.Size = new Size(215, 27);
+            lbl_direccion_editar.TabIndex = 87;
+            lbl_direccion_editar.Text = "Dirección (opcional):";
             // 
-            // label19
+            // lbl_correo_electronico_editar
             // 
-            label19.AutoSize = true;
-            label19.Font = new Font("Book Antiqua", 11F);
-            label19.Location = new Point(43, 165);
-            label19.Margin = new Padding(4, 0, 4, 0);
-            label19.Name = "label19";
-            label19.Size = new Size(200, 27);
-            label19.TabIndex = 86;
-            label19.Text = "Correo electrónico:";
+            lbl_correo_electronico_editar.AutoSize = true;
+            lbl_correo_electronico_editar.Font = new Font("Book Antiqua", 11F);
+            lbl_correo_electronico_editar.Location = new Point(43, 165);
+            lbl_correo_electronico_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_correo_electronico_editar.Name = "lbl_correo_electronico_editar";
+            lbl_correo_electronico_editar.Size = new Size(200, 27);
+            lbl_correo_electronico_editar.TabIndex = 86;
+            lbl_correo_electronico_editar.Text = "Correo electrónico:";
             // 
-            // label20
+            // lbl_telefono_editar
             // 
-            label20.AutoSize = true;
-            label20.Font = new Font("Book Antiqua", 11F);
-            label20.Location = new Point(1059, 67);
-            label20.Margin = new Padding(4, 0, 4, 0);
-            label20.Name = "label20";
-            label20.Size = new Size(103, 27);
-            label20.TabIndex = 85;
-            label20.Text = "Teléfono:";
+            lbl_telefono_editar.AutoSize = true;
+            lbl_telefono_editar.Font = new Font("Book Antiqua", 11F);
+            lbl_telefono_editar.Location = new Point(1059, 67);
+            lbl_telefono_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_telefono_editar.Name = "lbl_telefono_editar";
+            lbl_telefono_editar.Size = new Size(103, 27);
+            lbl_telefono_editar.TabIndex = 85;
+            lbl_telefono_editar.Text = "Teléfono:";
             // 
-            // label21
+            // lbl_fecha_editar
             // 
-            label21.AutoSize = true;
-            label21.Font = new Font("Book Antiqua", 11F);
-            label21.Location = new Point(724, 70);
-            label21.Margin = new Padding(4, 0, 4, 0);
-            label21.Name = "label21";
-            label21.Size = new Size(75, 27);
-            label21.TabIndex = 84;
-            label21.Text = "Fecha:";
+            lbl_fecha_editar.AutoSize = true;
+            lbl_fecha_editar.Font = new Font("Book Antiqua", 11F);
+            lbl_fecha_editar.Location = new Point(724, 70);
+            lbl_fecha_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_fecha_editar.Name = "lbl_fecha_editar";
+            lbl_fecha_editar.Size = new Size(75, 27);
+            lbl_fecha_editar.TabIndex = 84;
+            lbl_fecha_editar.Text = "Fecha:";
             // 
-            // label22
+            // lbl_ruc_editar
             // 
-            label22.AutoSize = true;
-            label22.Font = new Font("Book Antiqua", 11F);
-            label22.Location = new Point(437, 70);
-            label22.Margin = new Padding(4, 0, 4, 0);
-            label22.Name = "label22";
-            label22.Size = new Size(66, 27);
-            label22.TabIndex = 83;
-            label22.Text = "RUC:";
+            lbl_ruc_editar.AutoSize = true;
+            lbl_ruc_editar.Font = new Font("Book Antiqua", 11F);
+            lbl_ruc_editar.Location = new Point(437, 70);
+            lbl_ruc_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_ruc_editar.Name = "lbl_ruc_editar";
+            lbl_ruc_editar.Size = new Size(66, 27);
+            lbl_ruc_editar.TabIndex = 83;
+            lbl_ruc_editar.Text = "RUC:";
             // 
-            // label23
+            // lbl_nombre_editar
             // 
-            label23.AutoSize = true;
-            label23.Font = new Font("Book Antiqua", 11F);
-            label23.Location = new Point(54, 69);
-            label23.Margin = new Padding(4, 0, 4, 0);
-            label23.Name = "label23";
-            label23.Size = new Size(195, 27);
-            label23.TabIndex = 82;
-            label23.Text = "Nombre completo:";
+            lbl_nombre_editar.AutoSize = true;
+            lbl_nombre_editar.Font = new Font("Book Antiqua", 11F);
+            lbl_nombre_editar.Location = new Point(54, 69);
+            lbl_nombre_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_nombre_editar.Name = "lbl_nombre_editar";
+            lbl_nombre_editar.Size = new Size(195, 27);
+            lbl_nombre_editar.TabIndex = 82;
+            lbl_nombre_editar.Text = "Nombre completo:";
             // 
-            // guna2TextBox8
+            // txtbox_direccion_editar
             // 
-            guna2TextBox8.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox8.BorderRadius = 8;
-            guna2TextBox8.CustomizableEdges = customizableEdges94;
-            guna2TextBox8.DefaultText = "";
-            guna2TextBox8.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox8.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox8.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox8.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox8.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox8.Font = new Font("Segoe UI", 9F);
-            guna2TextBox8.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox8.Location = new Point(442, 193);
-            guna2TextBox8.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox8.Name = "guna2TextBox8";
-            guna2TextBox8.PlaceholderText = "Ingrese la dirección";
-            guna2TextBox8.SelectedText = "";
-            guna2TextBox8.ShadowDecoration.CustomizableEdges = customizableEdges95;
-            guna2TextBox8.Size = new Size(326, 42);
-            guna2TextBox8.TabIndex = 81;
+            txtbox_direccion_editar.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_direccion_editar.BorderRadius = 8;
+            txtbox_direccion_editar.CustomizableEdges = customizableEdges91;
+            txtbox_direccion_editar.DefaultText = "";
+            txtbox_direccion_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_direccion_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_direccion_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_direccion_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_direccion_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_direccion_editar.Font = new Font("Segoe UI", 9F);
+            txtbox_direccion_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_direccion_editar.Location = new Point(442, 193);
+            txtbox_direccion_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_direccion_editar.Name = "txtbox_direccion_editar";
+            txtbox_direccion_editar.PlaceholderText = "Ingrese la dirección";
+            txtbox_direccion_editar.SelectedText = "";
+            txtbox_direccion_editar.ShadowDecoration.CustomizableEdges = customizableEdges92;
+            txtbox_direccion_editar.Size = new Size(326, 42);
+            txtbox_direccion_editar.TabIndex = 81;
             // 
             // guna2DateTimePicker2
             // 
             guna2DateTimePicker2.BorderRadius = 8;
             guna2DateTimePicker2.Checked = true;
-            guna2DateTimePicker2.CustomizableEdges = customizableEdges96;
+            guna2DateTimePicker2.CustomizableEdges = customizableEdges93;
             guna2DateTimePicker2.FillColor = Color.White;
             guna2DateTimePicker2.Font = new Font("Segoe UI", 9F);
             guna2DateTimePicker2.Format = DateTimePickerFormat.Long;
@@ -1265,98 +1266,98 @@
             guna2DateTimePicker2.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
             guna2DateTimePicker2.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
             guna2DateTimePicker2.Name = "guna2DateTimePicker2";
-            guna2DateTimePicker2.ShadowDecoration.CustomizableEdges = customizableEdges97;
+            guna2DateTimePicker2.ShadowDecoration.CustomizableEdges = customizableEdges94;
             guna2DateTimePicker2.Size = new Size(319, 42);
             guna2DateTimePicker2.TabIndex = 80;
             guna2DateTimePicker2.Value = new DateTime(2026, 7, 9, 19, 23, 26, 643);
             // 
-            // guna2TextBox9
+            // txtbox_ruc_editar
             // 
-            guna2TextBox9.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox9.BorderRadius = 8;
-            guna2TextBox9.CustomizableEdges = customizableEdges98;
-            guna2TextBox9.DefaultText = "";
-            guna2TextBox9.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox9.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox9.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox9.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox9.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox9.Font = new Font("Segoe UI", 9F);
-            guna2TextBox9.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox9.Location = new Point(442, 99);
-            guna2TextBox9.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox9.Name = "guna2TextBox9";
-            guna2TextBox9.PlaceholderText = "Ingrese el RUC";
-            guna2TextBox9.SelectedText = "";
-            guna2TextBox9.ShadowDecoration.CustomizableEdges = customizableEdges99;
-            guna2TextBox9.Size = new Size(236, 42);
-            guna2TextBox9.TabIndex = 79;
+            txtbox_ruc_editar.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_ruc_editar.BorderRadius = 8;
+            txtbox_ruc_editar.CustomizableEdges = customizableEdges95;
+            txtbox_ruc_editar.DefaultText = "";
+            txtbox_ruc_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_ruc_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_ruc_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_ruc_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_ruc_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_ruc_editar.Font = new Font("Segoe UI", 9F);
+            txtbox_ruc_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_ruc_editar.Location = new Point(442, 99);
+            txtbox_ruc_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_ruc_editar.Name = "txtbox_ruc_editar";
+            txtbox_ruc_editar.PlaceholderText = "Ingrese el RUC";
+            txtbox_ruc_editar.SelectedText = "";
+            txtbox_ruc_editar.ShadowDecoration.CustomizableEdges = customizableEdges96;
+            txtbox_ruc_editar.Size = new Size(236, 42);
+            txtbox_ruc_editar.TabIndex = 79;
             // 
-            // guna2TextBox10
+            // txtbox_telefono_editar
             // 
-            guna2TextBox10.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox10.BorderRadius = 8;
-            guna2TextBox10.CustomizableEdges = customizableEdges100;
-            guna2TextBox10.DefaultText = "";
-            guna2TextBox10.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox10.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox10.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox10.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox10.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox10.Font = new Font("Segoe UI", 9F);
-            guna2TextBox10.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox10.Location = new Point(1054, 95);
-            guna2TextBox10.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox10.Name = "guna2TextBox10";
-            guna2TextBox10.PlaceholderText = "Ingrese el número de teléfono";
-            guna2TextBox10.SelectedText = "";
-            guna2TextBox10.ShadowDecoration.CustomizableEdges = customizableEdges101;
-            guna2TextBox10.Size = new Size(264, 42);
-            guna2TextBox10.TabIndex = 78;
+            txtbox_telefono_editar.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_telefono_editar.BorderRadius = 8;
+            txtbox_telefono_editar.CustomizableEdges = customizableEdges97;
+            txtbox_telefono_editar.DefaultText = "";
+            txtbox_telefono_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_telefono_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_telefono_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_telefono_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_telefono_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_telefono_editar.Font = new Font("Segoe UI", 9F);
+            txtbox_telefono_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_telefono_editar.Location = new Point(1054, 95);
+            txtbox_telefono_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_telefono_editar.Name = "txtbox_telefono_editar";
+            txtbox_telefono_editar.PlaceholderText = "Ingrese el número de teléfono";
+            txtbox_telefono_editar.SelectedText = "";
+            txtbox_telefono_editar.ShadowDecoration.CustomizableEdges = customizableEdges98;
+            txtbox_telefono_editar.Size = new Size(264, 42);
+            txtbox_telefono_editar.TabIndex = 78;
             // 
-            // guna2TextBox11
+            // txtbox_correo_electronico_editar
             // 
-            guna2TextBox11.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox11.BorderRadius = 8;
-            guna2TextBox11.CustomizableEdges = customizableEdges102;
-            guna2TextBox11.DefaultText = "";
-            guna2TextBox11.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox11.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox11.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox11.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox11.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox11.Font = new Font("Segoe UI", 9F);
-            guna2TextBox11.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox11.Location = new Point(47, 193);
-            guna2TextBox11.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox11.Name = "guna2TextBox11";
-            guna2TextBox11.PlaceholderText = "Ingrese el correo electrónico";
-            guna2TextBox11.SelectedText = "";
-            guna2TextBox11.ShadowDecoration.CustomizableEdges = customizableEdges103;
-            guna2TextBox11.Size = new Size(306, 42);
-            guna2TextBox11.TabIndex = 77;
+            txtbox_correo_electronico_editar.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_correo_electronico_editar.BorderRadius = 8;
+            txtbox_correo_electronico_editar.CustomizableEdges = customizableEdges99;
+            txtbox_correo_electronico_editar.DefaultText = "";
+            txtbox_correo_electronico_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_correo_electronico_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_correo_electronico_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_correo_electronico_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_correo_electronico_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_correo_electronico_editar.Font = new Font("Segoe UI", 9F);
+            txtbox_correo_electronico_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_correo_electronico_editar.Location = new Point(47, 193);
+            txtbox_correo_electronico_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_correo_electronico_editar.Name = "txtbox_correo_electronico_editar";
+            txtbox_correo_electronico_editar.PlaceholderText = "Ingrese el correo electrónico";
+            txtbox_correo_electronico_editar.SelectedText = "";
+            txtbox_correo_electronico_editar.ShadowDecoration.CustomizableEdges = customizableEdges100;
+            txtbox_correo_electronico_editar.Size = new Size(306, 42);
+            txtbox_correo_electronico_editar.TabIndex = 77;
             // 
-            // guna2TextBox12
+            // txtbox_nombre_editar
             // 
-            guna2TextBox12.BorderColor = Color.FromArgb(216, 216, 216);
-            guna2TextBox12.BorderRadius = 8;
-            guna2TextBox12.CustomizableEdges = customizableEdges104;
-            guna2TextBox12.DefaultText = "";
-            guna2TextBox12.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox12.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox12.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox12.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox12.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox12.Font = new Font("Segoe UI", 9F);
-            guna2TextBox12.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox12.Location = new Point(47, 99);
-            guna2TextBox12.Margin = new Padding(6, 8, 6, 8);
-            guna2TextBox12.Name = "guna2TextBox12";
-            guna2TextBox12.PlaceholderText = "Ingrese el nombre completo";
-            guna2TextBox12.SelectedText = "";
-            guna2TextBox12.ShadowDecoration.CustomizableEdges = customizableEdges105;
-            guna2TextBox12.Size = new Size(343, 42);
-            guna2TextBox12.TabIndex = 76;
+            txtbox_nombre_editar.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_nombre_editar.BorderRadius = 8;
+            txtbox_nombre_editar.CustomizableEdges = customizableEdges101;
+            txtbox_nombre_editar.DefaultText = "";
+            txtbox_nombre_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_nombre_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_nombre_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_nombre_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_nombre_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_nombre_editar.Font = new Font("Segoe UI", 9F);
+            txtbox_nombre_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_nombre_editar.Location = new Point(47, 99);
+            txtbox_nombre_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_nombre_editar.Name = "txtbox_nombre_editar";
+            txtbox_nombre_editar.PlaceholderText = "Ingrese el nombre completo";
+            txtbox_nombre_editar.SelectedText = "";
+            txtbox_nombre_editar.ShadowDecoration.CustomizableEdges = customizableEdges102;
+            txtbox_nombre_editar.Size = new Size(343, 42);
+            txtbox_nombre_editar.TabIndex = 76;
             // 
             // label24
             // 
@@ -1390,15 +1391,15 @@
             ((System.ComponentModel.ISupportInitialize)guna2CirclePictureBox1).EndInit();
             guna2ShadowPanel1.ResumeLayout(false);
             tabControl1.ResumeLayout(false);
-            tabPage1.ResumeLayout(false);
-            tabPage1.PerformLayout();
-            tabPage2.ResumeLayout(false);
-            tabPage2.PerformLayout();
+            tabpag_proveedores.ResumeLayout(false);
+            tabpag_proveedores.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)dgw_proveedores).EndInit();
+            tabpag_nuevo_proveedor.ResumeLayout(false);
+            tabpag_nuevo_proveedor.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)dgw_proveedores_nuevo).EndInit();
             tabPage3.ResumeLayout(false);
             tabPage3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)guna2DataGridView1).EndInit();
-            ((System.ComponentModel.ISupportInitialize)guna2DataGridView2).EndInit();
-            ((System.ComponentModel.ISupportInitialize)guna2DataGridView3).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dgw_proveedores_editar).EndInit();
             ResumeLayout(false);
         }
 
@@ -1417,16 +1418,16 @@
         private Label label11;
         private Guna.UI2.WinForms.Guna2ShadowPanel guna2ShadowPanel1;
         private TabControl tabControl1;
-        private TabPage tabPage1;
-        private TabPage tabPage2;
+        private TabPage tabpag_proveedores;
+        private TabPage tabpag_nuevo_proveedor;
         private TabPage tabPage3;
-        private Guna.UI2.WinForms.Guna2Button guna2Button3;
-        private Guna.UI2.WinForms.Guna2Button guna2Button1;
-        private Guna.UI2.WinForms.Guna2Button guna2Button2;
+        private Guna.UI2.WinForms.Guna2Button btn_mostrar;
+        private Guna.UI2.WinForms.Guna2Button btn_guardar;
+        private Guna.UI2.WinForms.Guna2Button btn_buscar;
         private Label label3;
         private ComboBox CBbuscarpor;
-        private Guna.UI2.WinForms.Guna2Button guna2Button4;
-        protected internal Guna.UI2.WinForms.Guna2DataGridView guna2DataGridView1;
+        private Guna.UI2.WinForms.Guna2Button btn_limpiar;
+        protected internal Guna.UI2.WinForms.Guna2DataGridView dgw_proveedores;
         private DataGridViewTextBoxColumn Column1;
         private DataGridViewTextBoxColumn Column2;
         private DataGridViewTextBoxColumn Column5;
@@ -1435,53 +1436,53 @@
         private DataGridViewTextBoxColumn Column6;
         private DataGridViewTextBoxColumn CLestado;
         private Label label4;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox6;
-        private Guna.UI2.WinForms.Guna2ComboBox guna2ComboBox1;
-        private Label label10;
-        private Guna.UI2.WinForms.Guna2Button guna2Button5;
-        private Guna.UI2.WinForms.Guna2Button guna2Button6;
-        private Label label9;
-        private Label label8;
-        private Label label7;
-        private Label label5;
-        private Label label12;
-        private Label label13;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox5;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_buscarpor;
+        private Guna.UI2.WinForms.Guna2ComboBox cmb_buscarpor;
+        private Label lbl_buscar;
+        private Guna.UI2.WinForms.Guna2Button btn_cancelar_nuevo;
+        private Guna.UI2.WinForms.Guna2Button btn_guardar_nuevo;
+        private Label lbl_direccion;
+        private Label lbl_correo_electronico;
+        private Label lbl_telefono;
+        private Label lbl_fecha;
+        private Label lbl_ruc;
+        private Label lbl_nombre;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_direccion;
         private Guna.UI2.WinForms.Guna2DateTimePicker guna2DateTimePicker1;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox4;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox3;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_ruc;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_telefono;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_correo_electronico;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_nombre;
         private Label label14;
-        protected internal Guna.UI2.WinForms.Guna2DataGridView guna2DataGridView2;
+        protected internal Guna.UI2.WinForms.Guna2DataGridView dgw_proveedores_nuevo;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
         private Label label15;
-        protected internal Guna.UI2.WinForms.Guna2DataGridView guna2DataGridView3;
+        protected internal Guna.UI2.WinForms.Guna2DataGridView dgw_proveedores_editar;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn5;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn6;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn7;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn8;
         private Label label16;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox7;
-        private Guna.UI2.WinForms.Guna2ComboBox guna2ComboBox2;
-        private Label label17;
-        private Guna.UI2.WinForms.Guna2Button guna2Button7;
-        private Guna.UI2.WinForms.Guna2Button guna2Button8;
-        private Label label18;
-        private Label label19;
-        private Label label20;
-        private Label label21;
-        private Label label22;
-        private Label label23;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox8;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_buscarpor_editar;
+        private Guna.UI2.WinForms.Guna2ComboBox cmb_buscarpor_editar;
+        private Label lbl_buscar_editar;
+        private Guna.UI2.WinForms.Guna2Button btn_cancelar_editar;
+        private Guna.UI2.WinForms.Guna2Button btn_guardar_editar;
+        private Label lbl_direccion_editar;
+        private Label lbl_correo_electronico_editar;
+        private Label lbl_telefono_editar;
+        private Label lbl_fecha_editar;
+        private Label lbl_ruc_editar;
+        private Label lbl_nombre_editar;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_direccion_editar;
         private Guna.UI2.WinForms.Guna2DateTimePicker guna2DateTimePicker2;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox9;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox10;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox11;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox12;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_ruc_editar;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_telefono_editar;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_correo_electronico_editar;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_nombre_editar;
         private Label label24;
     }
 }

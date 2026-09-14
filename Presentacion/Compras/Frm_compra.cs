@@ -19,5 +19,10 @@ namespace NK_COLLECTION.Presentacion.Compras
         {
 
         }
+
+        private void guna2ComboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
