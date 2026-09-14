@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_login));
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges11 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges12 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             flowLayoutPanel1 = new FlowLayoutPanel();
             pictureBox1 = new PictureBox();
             label1 = new Label();
@@ -108,7 +108,7 @@
             // txtbox_usuario
             // 
             txtbox_usuario.BackColor = Color.Transparent;
-            txtbox_usuario.CustomizableEdges = customizableEdges7;
+            txtbox_usuario.CustomizableEdges = customizableEdges1;
             txtbox_usuario.DefaultText = "Usuario";
             txtbox_usuario.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txtbox_usuario.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
@@ -125,7 +125,7 @@
             txtbox_usuario.Name = "txtbox_usuario";
             txtbox_usuario.PlaceholderText = "";
             txtbox_usuario.SelectedText = "";
-            txtbox_usuario.ShadowDecoration.CustomizableEdges = customizableEdges8;
+            txtbox_usuario.ShadowDecoration.CustomizableEdges = customizableEdges2;
             txtbox_usuario.Size = new Size(349, 60);
             txtbox_usuario.TabIndex = 5;
             txtbox_usuario.TextOffset = new Point(10, 0);
@@ -133,7 +133,7 @@
             // txtbox_contrasena
             // 
             txtbox_contrasena.BackColor = Color.Transparent;
-            txtbox_contrasena.CustomizableEdges = customizableEdges9;
+            txtbox_contrasena.CustomizableEdges = customizableEdges3;
             txtbox_contrasena.DefaultText = "Contraseña";
             txtbox_contrasena.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txtbox_contrasena.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
@@ -150,14 +150,14 @@
             txtbox_contrasena.Name = "txtbox_contrasena";
             txtbox_contrasena.PlaceholderText = "";
             txtbox_contrasena.SelectedText = "";
-            txtbox_contrasena.ShadowDecoration.CustomizableEdges = customizableEdges10;
+            txtbox_contrasena.ShadowDecoration.CustomizableEdges = customizableEdges4;
             txtbox_contrasena.Size = new Size(349, 60);
             txtbox_contrasena.TabIndex = 6;
             txtbox_contrasena.TextOffset = new Point(10, 0);
             // 
             // btn_ingresar
             // 
-            btn_ingresar.CustomizableEdges = customizableEdges11;
+            btn_ingresar.CustomizableEdges = customizableEdges5;
             btn_ingresar.DisabledState.BorderColor = Color.DarkGray;
             btn_ingresar.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_ingresar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
@@ -167,10 +167,11 @@
             btn_ingresar.ForeColor = Color.White;
             btn_ingresar.Location = new Point(425, 466);
             btn_ingresar.Name = "btn_ingresar";
-            btn_ingresar.ShadowDecoration.CustomizableEdges = customizableEdges12;
+            btn_ingresar.ShadowDecoration.CustomizableEdges = customizableEdges6;
             btn_ingresar.Size = new Size(200, 44);
             btn_ingresar.TabIndex = 7;
             btn_ingresar.Text = "Ingresar   →";
+            btn_ingresar.Click += btn_ingresar_Click;
             // 
             // label4
             // 
@@ -216,6 +217,7 @@
             FormBorderStyle = FormBorderStyle.None;
             Name = "Frm_login";
             Text = "Form1";
+            Load += Frm_login_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
