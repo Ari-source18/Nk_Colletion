@@ -24,5 +24,10 @@ namespace NK_COLLECTION.Presentacion.Catalogos
         {
 
         }
+
+        private void btn_buscar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

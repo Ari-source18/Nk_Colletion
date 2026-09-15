@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_recuperacion));
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             label4 = new Label();
             pictureBox2 = new PictureBox();
             panel1 = new Panel();
@@ -40,10 +40,10 @@
             panel3 = new Panel();
             panel4 = new Panel();
             label1 = new Label();
-            guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
+            txtbox_correo_electronico = new Guna.UI2.WinForms.Guna2TextBox();
             label5 = new Label();
             btn_ingresar = new Guna.UI2.WinForms.Guna2Button();
-            linkLabel1 = new LinkLabel();
+            linklbl_volver = new LinkLabel();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
@@ -114,31 +114,31 @@
             label1.TabIndex = 25;
             label1.Text = "Recuperar Contraseña";
             // 
-            // guna2TextBox1
+            // txtbox_correo_electronico
             // 
-            guna2TextBox1.BackColor = Color.Transparent;
-            guna2TextBox1.CustomizableEdges = customizableEdges1;
-            guna2TextBox1.DefaultText = "Correo electrónico";
-            guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.FillColor = Color.FromArgb(248, 241, 242);
-            guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.IconLeft = global::NK_COLLECTION.Properties.Resources.icons8_gmail_nuevo_50;
-            guna2TextBox1.IconLeftSize = new Size(30, 30);
-            guna2TextBox1.Location = new Point(103, 341);
-            guna2TextBox1.Margin = new Padding(4, 6, 4, 6);
-            guna2TextBox1.Name = "guna2TextBox1";
-            guna2TextBox1.PlaceholderText = "";
-            guna2TextBox1.SelectedText = "";
-            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            guna2TextBox1.Size = new Size(511, 45);
-            guna2TextBox1.TabIndex = 26;
-            guna2TextBox1.TextOffset = new Point(10, 0);
-            guna2TextBox1.TextChanged += guna2TextBox1_TextChanged;
+            txtbox_correo_electronico.BackColor = Color.Transparent;
+            txtbox_correo_electronico.CustomizableEdges = customizableEdges5;
+            txtbox_correo_electronico.DefaultText = "Correo electrónico";
+            txtbox_correo_electronico.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_correo_electronico.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_correo_electronico.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_correo_electronico.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_correo_electronico.FillColor = Color.FromArgb(248, 241, 242);
+            txtbox_correo_electronico.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_correo_electronico.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_correo_electronico.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_correo_electronico.IconLeft = Properties.Resources.icons8_gmail_nuevo_50;
+            txtbox_correo_electronico.IconLeftSize = new Size(30, 30);
+            txtbox_correo_electronico.Location = new Point(103, 341);
+            txtbox_correo_electronico.Margin = new Padding(4, 6, 4, 6);
+            txtbox_correo_electronico.Name = "txtbox_correo_electronico";
+            txtbox_correo_electronico.PlaceholderText = "";
+            txtbox_correo_electronico.SelectedText = "";
+            txtbox_correo_electronico.ShadowDecoration.CustomizableEdges = customizableEdges6;
+            txtbox_correo_electronico.Size = new Size(511, 45);
+            txtbox_correo_electronico.TabIndex = 26;
+            txtbox_correo_electronico.TextOffset = new Point(10, 0);
+            txtbox_correo_electronico.TextChanged += guna2TextBox1_TextChanged;
             // 
             // label5
             // 
@@ -154,7 +154,7 @@
             // 
             // btn_ingresar
             // 
-            btn_ingresar.CustomizableEdges = customizableEdges3;
+            btn_ingresar.CustomizableEdges = customizableEdges7;
             btn_ingresar.DisabledState.BorderColor = Color.DarkGray;
             btn_ingresar.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_ingresar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
@@ -165,22 +165,22 @@
             btn_ingresar.ImageAlign = HorizontalAlignment.Left;
             btn_ingresar.Location = new Point(251, 421);
             btn_ingresar.Name = "btn_ingresar";
-            btn_ingresar.ShadowDecoration.CustomizableEdges = customizableEdges4;
+            btn_ingresar.ShadowDecoration.CustomizableEdges = customizableEdges8;
             btn_ingresar.Size = new Size(200, 44);
             btn_ingresar.TabIndex = 28;
             btn_ingresar.Text = "Enviar enlace";
             // 
-            // linkLabel1
+            // linklbl_volver
             // 
-            linkLabel1.AutoSize = true;
-            linkLabel1.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            linkLabel1.LinkColor = Color.FromArgb(64, 0, 0);
-            linkLabel1.Location = new Point(200, 562);
-            linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(306, 24);
-            linkLabel1.TabIndex = 29;
-            linkLabel1.TabStop = true;
-            linkLabel1.Text = "←     Volver a la pantalla anterior";
+            linklbl_volver.AutoSize = true;
+            linklbl_volver.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            linklbl_volver.LinkColor = Color.FromArgb(64, 0, 0);
+            linklbl_volver.Location = new Point(200, 562);
+            linklbl_volver.Name = "linklbl_volver";
+            linklbl_volver.Size = new Size(306, 24);
+            linklbl_volver.TabIndex = 29;
+            linklbl_volver.TabStop = true;
+            linklbl_volver.Text = "←     Volver a la pantalla anterior";
             // 
             // Frm_recuperacion
             // 
@@ -188,10 +188,10 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(248, 241, 242);
             ClientSize = new Size(733, 670);
-            Controls.Add(linkLabel1);
+            Controls.Add(linklbl_volver);
             Controls.Add(btn_ingresar);
             Controls.Add(label5);
-            Controls.Add(guna2TextBox1);
+            Controls.Add(txtbox_correo_electronico);
             Controls.Add(label1);
             Controls.Add(panel4);
             Controls.Add(panel3);
@@ -217,9 +217,9 @@
         private Panel panel3;
         private Panel panel4;
         private Label label1;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_correo_electronico;
         private Label label5;
         private Guna.UI2.WinForms.Guna2Button btn_ingresar;
-        private LinkLabel linkLabel1;
+        private LinkLabel linklbl_volver;
     }
 }

@@ -29,5 +29,25 @@ namespace NK_COLLECTION.Presentacion.Catalogos
         {
 
         }
+
+        private void btn_buscar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_mostrartodo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_guardar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_limpiar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

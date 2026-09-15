@@ -28,21 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_cierre_caja));
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_cierre_caja));
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             panel1 = new Panel();
             panel3 = new Panel();
             panel2 = new Panel();
             panel4 = new Panel();
-            guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
             groupBox2 = new GroupBox();
-            guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             label9 = new Label();
             label4 = new Label();
             txtEfectivodolar = new TextBox();
@@ -74,12 +70,13 @@
             label8 = new Label();
             guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             pictureBox4 = new PictureBox();
-            label5 = new Label();
+            lbl_fecha = new Label();
             pictureBox3 = new PictureBox();
             guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             label6 = new Label();
             label10 = new Label();
-            label11 = new Label();
+            lbl_usuario = new Label();
+            btn_guardar_movimiento = new Guna.UI2.WinForms.Guna2Button();
             groupBox2.SuspendLayout();
             groupBox1.SuspendLayout();
             guna2Panel1.SuspendLayout();
@@ -124,30 +121,10 @@
             panel4.Size = new Size(1536, 10);
             panel4.TabIndex = 161;
             // 
-            // guna2Button2
-            // 
-            guna2Button2.BorderColor = Color.White;
-            guna2Button2.BorderRadius = 8;
-            guna2Button2.CustomizableEdges = customizableEdges1;
-            guna2Button2.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button2.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button2.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button2.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button2.FillColor = Color.FromArgb(110, 18, 32);
-            guna2Button2.Font = new Font("Segoe UI", 9F);
-            guna2Button2.ForeColor = Color.White;
-            guna2Button2.Location = new Point(781, 591);
-            guna2Button2.Margin = new Padding(4, 5, 4, 5);
-            guna2Button2.Name = "guna2Button2";
-            guna2Button2.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            guna2Button2.Size = new Size(213, 57);
-            guna2Button2.TabIndex = 197;
-            guna2Button2.Text = "Regresar a caja";
-            // 
             // groupBox2
             // 
             groupBox2.BackColor = Color.White;
-            groupBox2.Controls.Add(guna2Button1);
+            groupBox2.Controls.Add(btn_guardar_movimiento);
             groupBox2.Controls.Add(label9);
             groupBox2.Controls.Add(label4);
             groupBox2.Controls.Add(txtEfectivodolar);
@@ -164,172 +141,152 @@
             groupBox2.Controls.Add(txtArqueodecaja);
             groupBox2.Font = new Font("PMingLiU-ExtB", 14F, FontStyle.Regular, GraphicsUnit.Point, 0);
             groupBox2.ForeColor = Color.FromArgb(64, 0, 0);
-            groupBox2.Location = new Point(107, 479);
+            groupBox2.Location = new Point(28, 468);
             groupBox2.Margin = new Padding(2);
             groupBox2.Name = "groupBox2";
             groupBox2.Padding = new Padding(2);
-            groupBox2.Size = new Size(582, 293);
+            groupBox2.Size = new Size(1491, 304);
             groupBox2.TabIndex = 195;
             groupBox2.TabStop = false;
-            // 
-            // guna2Button1
-            // 
-            guna2Button1.BorderColor = Color.White;
-            guna2Button1.BorderRadius = 8;
-            guna2Button1.CustomizableEdges = customizableEdges3;
-            guna2Button1.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button1.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button1.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button1.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button1.FillColor = Color.FromArgb(110, 18, 32);
-            guna2Button1.Font = new Font("Segoe UI", 9F);
-            guna2Button1.ForeColor = Color.White;
-            guna2Button1.Location = new Point(271, 197);
-            guna2Button1.Margin = new Padding(4, 5, 4, 5);
-            guna2Button1.Name = "guna2Button1";
-            guna2Button1.ShadowDecoration.CustomizableEdges = customizableEdges4;
-            guna2Button1.Size = new Size(226, 53);
-            guna2Button1.TabIndex = 157;
-            guna2Button1.Text = "Guardar Movimiento";
             // 
             // label9
             // 
             label9.AutoSize = true;
-            label9.Font = new Font("PMingLiU-ExtB", 10F);
-            label9.Location = new Point(31, 206);
+            label9.Font = new Font("Book Antiqua", 11F);
+            label9.Location = new Point(248, 212);
             label9.Margin = new Padding(2, 0, 2, 0);
             label9.Name = "label9";
-            label9.Size = new Size(112, 20);
+            label9.Size = new Size(147, 27);
             label9.TabIndex = 156;
             label9.Text = "Efectivo dolar";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("PMingLiU-ExtB", 10F);
-            label4.Location = new Point(263, 148);
+            label4.Font = new Font("Book Antiqua", 11F);
+            label4.Location = new Point(709, 174);
             label4.Margin = new Padding(2, 0, 2, 0);
             label4.Name = "label4";
-            label4.Size = new Size(133, 20);
+            label4.Size = new Size(175, 27);
             label4.TabIndex = 155;
             label4.Text = "Efectivo córdoba";
             // 
             // txtEfectivodolar
             // 
             txtEfectivodolar.Font = new Font("PMingLiU-ExtB", 9F);
-            txtEfectivodolar.Location = new Point(151, 206);
+            txtEfectivodolar.Location = new Point(429, 210);
             txtEfectivodolar.Margin = new Padding(2);
             txtEfectivodolar.Name = "txtEfectivodolar";
-            txtEfectivodolar.Size = new Size(94, 29);
+            txtEfectivodolar.Size = new Size(116, 29);
             txtEfectivodolar.TabIndex = 154;
             // 
             // txtEfectivocordoba
             // 
             txtEfectivocordoba.Font = new Font("PMingLiU-ExtB", 9F);
-            txtEfectivocordoba.Location = new Point(427, 149);
+            txtEfectivocordoba.Location = new Point(952, 173);
             txtEfectivocordoba.Margin = new Padding(2);
             txtEfectivocordoba.Name = "txtEfectivocordoba";
-            txtEfectivocordoba.Size = new Size(94, 29);
+            txtEfectivocordoba.Size = new Size(116, 29);
             txtEfectivocordoba.TabIndex = 153;
             // 
             // txtMontotarjeta
             // 
             txtMontotarjeta.Font = new Font("PMingLiU-ExtB", 9F);
-            txtMontotarjeta.Location = new Point(151, 148);
+            txtMontotarjeta.Location = new Point(429, 152);
             txtMontotarjeta.Margin = new Padding(2);
             txtMontotarjeta.Name = "txtMontotarjeta";
-            txtMontotarjeta.Size = new Size(94, 29);
+            txtMontotarjeta.Size = new Size(116, 29);
             txtMontotarjeta.TabIndex = 152;
             // 
             // txtSaldosobrante
             // 
             txtSaldosobrante.Font = new Font("PMingLiU-ExtB", 9F);
-            txtSaldosobrante.Location = new Point(427, 88);
+            txtSaldosobrante.Location = new Point(952, 112);
             txtSaldosobrante.Margin = new Padding(2);
             txtSaldosobrante.Name = "txtSaldosobrante";
-            txtSaldosobrante.Size = new Size(94, 29);
+            txtSaldosobrante.Size = new Size(116, 29);
             txtSaldosobrante.TabIndex = 151;
             // 
             // label30
             // 
             label30.AutoSize = true;
-            label30.Font = new Font("PMingLiU-ExtB", 10F);
-            label30.Location = new Point(263, 88);
+            label30.Font = new Font("Book Antiqua", 11F);
+            label30.Location = new Point(709, 114);
             label30.Margin = new Padding(2, 0, 2, 0);
             label30.Name = "label30";
-            label30.Size = new Size(116, 20);
+            label30.Size = new Size(156, 27);
             label30.TabIndex = 56;
             label30.Text = "Saldo sobrante";
             // 
             // label29
             // 
             label29.AutoSize = true;
-            label29.Font = new Font("PMingLiU-ExtB", 10F);
-            label29.Location = new Point(263, 33);
+            label29.Font = new Font("Book Antiqua", 11F);
+            label29.Location = new Point(709, 59);
             label29.Margin = new Padding(2, 0, 2, 0);
             label29.Name = "label29";
-            label29.Size = new Size(144, 20);
+            label29.Size = new Size(188, 27);
             label29.TabIndex = 54;
             label29.Text = "Saldo final de caja";
             // 
             // txtSaldofaltante
             // 
             txtSaldofaltante.Font = new Font("PMingLiU-ExtB", 9F);
-            txtSaldofaltante.Location = new Point(151, 88);
+            txtSaldofaltante.Location = new Point(429, 92);
             txtSaldofaltante.Margin = new Padding(2);
             txtSaldofaltante.Name = "txtSaldofaltante";
-            txtSaldofaltante.Size = new Size(94, 29);
+            txtSaldofaltante.Size = new Size(116, 29);
             txtSaldofaltante.TabIndex = 150;
             // 
             // label28
             // 
             label28.AutoSize = true;
-            label28.Font = new Font("PMingLiU-ExtB", 10F);
-            label28.Location = new Point(31, 148);
+            label28.Font = new Font("Book Antiqua", 11F);
+            label28.Location = new Point(248, 154);
             label28.Margin = new Padding(2, 0, 2, 0);
             label28.Name = "label28";
-            label28.Size = new Size(108, 20);
+            label28.Size = new Size(144, 27);
             label28.TabIndex = 51;
             label28.Text = "Monto tarjeta";
             // 
             // txtSaldofinal
             // 
             txtSaldofinal.Font = new Font("PMingLiU-ExtB", 9F);
-            txtSaldofinal.Location = new Point(427, 33);
+            txtSaldofinal.Location = new Point(952, 57);
             txtSaldofinal.Margin = new Padding(2);
             txtSaldofinal.Name = "txtSaldofinal";
-            txtSaldofinal.Size = new Size(94, 29);
+            txtSaldofinal.Size = new Size(116, 29);
             txtSaldofinal.TabIndex = 149;
             // 
             // label27
             // 
             label27.AutoSize = true;
-            label27.Font = new Font("PMingLiU-ExtB", 10F);
-            label27.Location = new Point(20, 34);
+            label27.Font = new Font("Book Antiqua", 11F);
+            label27.Location = new Point(237, 40);
             label27.Margin = new Padding(2, 0, 2, 0);
             label27.Name = "label27";
-            label27.Size = new Size(120, 20);
+            label27.Size = new Size(159, 27);
             label27.TabIndex = 50;
             label27.Text = "Arqueo de caja";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("PMingLiU-ExtB", 10F);
-            label3.Location = new Point(31, 88);
+            label3.Font = new Font("Book Antiqua", 11F);
+            label3.Location = new Point(248, 94);
             label3.Margin = new Padding(2, 0, 2, 0);
             label3.Name = "label3";
-            label3.Size = new Size(109, 20);
+            label3.Size = new Size(145, 27);
             label3.TabIndex = 47;
             label3.Text = "Saldo faltante";
             // 
             // txtArqueodecaja
             // 
             txtArqueodecaja.Font = new Font("PMingLiU-ExtB", 9F);
-            txtArqueodecaja.Location = new Point(154, 34);
+            txtArqueodecaja.Location = new Point(432, 38);
             txtArqueodecaja.Margin = new Padding(2);
             txtArqueodecaja.Name = "txtArqueodecaja";
-            txtArqueodecaja.Size = new Size(94, 29);
+            txtArqueodecaja.Size = new Size(116, 29);
             txtArqueodecaja.TabIndex = 53;
             // 
             // groupBox1
@@ -351,21 +308,21 @@
             groupBox1.Controls.Add(label8);
             groupBox1.Font = new Font("PMingLiU-ExtB", 14F, FontStyle.Regular, GraphicsUnit.Point, 0);
             groupBox1.ForeColor = Color.FromArgb(64, 0, 0);
-            groupBox1.Location = new Point(90, 181);
+            groupBox1.Location = new Point(28, 153);
             groupBox1.Margin = new Padding(2);
             groupBox1.Name = "groupBox1";
             groupBox1.Padding = new Padding(2);
-            groupBox1.Size = new Size(1182, 268);
+            groupBox1.Size = new Size(1491, 296);
             groupBox1.TabIndex = 194;
             groupBox1.TabStop = false;
             // 
             // txtSaldoinicial
             // 
             txtSaldoinicial.Font = new Font("PMingLiU-ExtB", 9F);
-            txtSaldoinicial.Location = new Point(151, 28);
+            txtSaldoinicial.Location = new Point(160, 34);
             txtSaldoinicial.Margin = new Padding(2);
             txtSaldoinicial.Name = "txtSaldoinicial";
-            txtSaldoinicial.Size = new Size(94, 29);
+            txtSaldoinicial.Size = new Size(126, 29);
             txtSaldoinicial.TabIndex = 164;
             // 
             // label7
@@ -373,7 +330,7 @@
             label7.AutoSize = true;
             label7.Font = new Font("PMingLiU-ExtB", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label7.ForeColor = Color.FromArgb(64, 0, 0);
-            label7.Location = new Point(47, 61);
+            label7.Location = new Point(189, 59);
             label7.Margin = new Padding(2, 0, 2, 0);
             label7.Name = "label7";
             label7.Size = new Size(1054, 32);
@@ -383,7 +340,7 @@
             // txtPagos
             // 
             txtPagos.Font = new Font("PMingLiU-ExtB", 9F);
-            txtPagos.Location = new Point(920, 190);
+            txtPagos.Location = new Point(1062, 188);
             txtPagos.Margin = new Padding(2);
             txtPagos.Name = "txtPagos";
             txtPagos.Size = new Size(94, 29);
@@ -394,7 +351,7 @@
             label2.AutoSize = true;
             label2.Font = new Font("PMingLiU-ExtB", 16F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.FromArgb(64, 0, 0);
-            label2.Location = new Point(810, 103);
+            label2.Location = new Point(952, 101);
             label2.Margin = new Padding(2, 0, 2, 0);
             label2.Name = "label2";
             label2.Size = new Size(116, 32);
@@ -406,7 +363,7 @@
             label1.AutoSize = true;
             label1.Font = new Font("PMingLiU-ExtB", 16F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.FromArgb(64, 0, 0);
-            label1.Location = new Point(160, 104);
+            label1.Location = new Point(302, 102);
             label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
             label1.Size = new Size(124, 32);
@@ -416,7 +373,7 @@
             // txtAbonos
             // 
             txtAbonos.Font = new Font("PMingLiU-ExtB", 9F);
-            txtAbonos.Location = new Point(342, 191);
+            txtAbonos.Location = new Point(506, 195);
             txtAbonos.Margin = new Padding(2);
             txtAbonos.Name = "txtAbonos";
             txtAbonos.Size = new Size(94, 29);
@@ -425,19 +382,19 @@
             // label22
             // 
             label22.AutoSize = true;
-            label22.Font = new Font("PMingLiU-ExtB", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label22.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label22.ForeColor = Color.FromArgb(64, 0, 0);
             label22.Location = new Point(20, 36);
             label22.Margin = new Padding(2, 0, 2, 0);
             label22.Name = "label22";
-            label22.Size = new Size(105, 20);
+            label22.Size = new Size(136, 27);
             label22.TabIndex = 169;
             label22.Text = "Saldo inicial ";
             // 
             // txtCompras
             // 
             txtCompras.Font = new Font("PMingLiU-ExtB", 9F);
-            txtCompras.Location = new Point(920, 146);
+            txtCompras.Location = new Point(1062, 144);
             txtCompras.Margin = new Padding(2);
             txtCompras.Name = "txtCompras";
             txtCompras.Size = new Size(94, 29);
@@ -446,55 +403,55 @@
             // label21
             // 
             label21.AutoSize = true;
-            label21.Font = new Font("PMingLiU-ExtB", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label21.Font = new Font("Book Antiqua", 11F);
             label21.ForeColor = Color.FromArgb(64, 0, 0);
-            label21.Location = new Point(160, 155);
+            label21.Location = new Point(302, 153);
             label21.Margin = new Padding(2, 0, 2, 0);
             label21.Name = "label21";
-            label21.Size = new Size(60, 20);
+            label21.Size = new Size(79, 27);
             label21.TabIndex = 168;
             label21.Text = "Ventas";
             // 
             // label19
             // 
             label19.AutoSize = true;
-            label19.Font = new Font("PMingLiU-ExtB", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label19.Font = new Font("Book Antiqua", 11F);
             label19.ForeColor = Color.FromArgb(64, 0, 0);
-            label19.Location = new Point(810, 154);
+            label19.Location = new Point(952, 152);
             label19.Margin = new Padding(2, 0, 2, 0);
             label19.Name = "label19";
-            label19.Size = new Size(76, 20);
+            label19.Size = new Size(101, 27);
             label19.TabIndex = 167;
             label19.Text = "Compras";
             // 
             // label18
             // 
             label18.AutoSize = true;
-            label18.Font = new Font("PMingLiU-ExtB", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label18.Font = new Font("Book Antiqua", 11F);
             label18.ForeColor = Color.FromArgb(64, 0, 0);
-            label18.Location = new Point(160, 199);
+            label18.Location = new Point(302, 197);
             label18.Margin = new Padding(2, 0, 2, 0);
             label18.Name = "label18";
-            label18.Size = new Size(143, 20);
+            label18.Size = new Size(191, 27);
             label18.TabIndex = 166;
             label18.Text = "Abonos de credito";
             // 
             // label17
             // 
             label17.AutoSize = true;
-            label17.Font = new Font("PMingLiU-ExtB", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label17.Font = new Font("Book Antiqua", 11F);
             label17.ForeColor = Color.FromArgb(64, 0, 0);
-            label17.Location = new Point(810, 198);
+            label17.Location = new Point(952, 196);
             label17.Margin = new Padding(2, 0, 2, 0);
             label17.Name = "label17";
-            label17.Size = new Size(51, 20);
+            label17.Size = new Size(69, 27);
             label17.TabIndex = 165;
-            label17.Text = "pagos";
+            label17.Text = "Pagos";
             // 
             // txtventas
             // 
             txtventas.Font = new Font("PMingLiU-ExtB", 9F);
-            txtventas.Location = new Point(271, 147);
+            txtventas.Location = new Point(413, 145);
             txtventas.Margin = new Padding(2);
             txtventas.Name = "txtventas";
             txtventas.Size = new Size(94, 29);
@@ -505,7 +462,7 @@
             label8.AutoSize = true;
             label8.Font = new Font("PMingLiU-ExtB", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label8.ForeColor = Color.FromArgb(64, 0, 0);
-            label8.Location = new Point(47, 208);
+            label8.Location = new Point(189, 206);
             label8.Margin = new Padding(2, 0, 2, 0);
             label8.Name = "label8";
             label8.Size = new Size(1070, 32);
@@ -517,18 +474,18 @@
             guna2Panel1.BackColor = Color.FromArgb(217, 154, 170);
             guna2Panel1.BorderRadius = 15;
             guna2Panel1.Controls.Add(pictureBox4);
-            guna2Panel1.Controls.Add(label5);
+            guna2Panel1.Controls.Add(lbl_fecha);
             guna2Panel1.Controls.Add(pictureBox3);
             guna2Panel1.Controls.Add(guna2CirclePictureBox1);
             guna2Panel1.Controls.Add(label6);
             guna2Panel1.Controls.Add(label10);
-            guna2Panel1.Controls.Add(label11);
-            guna2Panel1.CustomizableEdges = customizableEdges6;
+            guna2Panel1.Controls.Add(lbl_usuario);
+            guna2Panel1.CustomizableEdges = customizableEdges4;
             guna2Panel1.FillColor = Color.White;
             guna2Panel1.Location = new Point(28, 30);
             guna2Panel1.Name = "guna2Panel1";
-            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges7;
-            guna2Panel1.Size = new Size(1484, 99);
+            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges5;
+            guna2Panel1.Size = new Size(1491, 99);
             guna2Panel1.TabIndex = 238;
             // 
             // pictureBox4
@@ -542,16 +499,16 @@
             pictureBox4.TabIndex = 55;
             pictureBox4.TabStop = false;
             // 
-            // label5
+            // lbl_fecha
             // 
-            label5.AutoSize = true;
-            label5.BackColor = Color.Transparent;
-            label5.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label5.Location = new Point(1319, 36);
-            label5.Name = "label5";
-            label5.Size = new Size(62, 24);
-            label5.TabIndex = 54;
-            label5.Text = "Fecha";
+            lbl_fecha.AutoSize = true;
+            lbl_fecha.BackColor = Color.Transparent;
+            lbl_fecha.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_fecha.Location = new Point(1319, 36);
+            lbl_fecha.Name = "lbl_fecha";
+            lbl_fecha.Size = new Size(62, 24);
+            lbl_fecha.TabIndex = 54;
+            lbl_fecha.Text = "Fecha";
             // 
             // pictureBox3
             // 
@@ -571,7 +528,7 @@
             guna2CirclePictureBox1.ImageRotate = 0F;
             guna2CirclePictureBox1.Location = new Point(7, 8);
             guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
-            guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges5;
+            guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges3;
             guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             guna2CirclePictureBox1.Size = new Size(83, 83);
             guna2CirclePictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
@@ -598,20 +555,40 @@
             label10.ForeColor = Color.FromArgb(110, 18, 32);
             label10.Location = new Point(96, 8);
             label10.Name = "label10";
-            label10.Size = new Size(104, 49);
+            label10.Size = new Size(277, 49);
             label10.TabIndex = 0;
-            label10.Text = "Caja";
+            label10.Text = "Cierre de caja";
             // 
-            // label11
+            // lbl_usuario
             // 
-            label11.AutoSize = true;
-            label11.BackColor = Color.Transparent;
-            label11.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label11.Location = new Point(1119, 36);
-            label11.Name = "label11";
-            label11.Size = new Size(81, 24);
-            label11.TabIndex = 43;
-            label11.Text = "Usuario";
+            lbl_usuario.AutoSize = true;
+            lbl_usuario.BackColor = Color.Transparent;
+            lbl_usuario.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_usuario.Location = new Point(1119, 36);
+            lbl_usuario.Name = "lbl_usuario";
+            lbl_usuario.Size = new Size(81, 24);
+            lbl_usuario.TabIndex = 43;
+            lbl_usuario.Text = "Usuario";
+            // 
+            // btn_guardar_movimiento
+            // 
+            btn_guardar_movimiento.BorderColor = Color.White;
+            btn_guardar_movimiento.BorderRadius = 8;
+            btn_guardar_movimiento.CustomizableEdges = customizableEdges1;
+            btn_guardar_movimiento.DisabledState.BorderColor = Color.DarkGray;
+            btn_guardar_movimiento.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_guardar_movimiento.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_guardar_movimiento.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_guardar_movimiento.FillColor = Color.FromArgb(110, 18, 32);
+            btn_guardar_movimiento.Font = new Font("Book Antiqua", 11F);
+            btn_guardar_movimiento.ForeColor = Color.White;
+            btn_guardar_movimiento.Location = new Point(1190, 173);
+            btn_guardar_movimiento.Margin = new Padding(4, 5, 4, 5);
+            btn_guardar_movimiento.Name = "btn_guardar_movimiento";
+            btn_guardar_movimiento.ShadowDecoration.CustomizableEdges = customizableEdges2;
+            btn_guardar_movimiento.Size = new Size(262, 38);
+            btn_guardar_movimiento.TabIndex = 267;
+            btn_guardar_movimiento.Text = "Guardar movimiento";
             // 
             // Frm_cierre_caja
             // 
@@ -620,7 +597,6 @@
             BackColor = Color.FromArgb(248, 241, 242);
             ClientSize = new Size(1556, 863);
             Controls.Add(guna2Panel1);
-            Controls.Add(guna2Button2);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Controls.Add(panel4);
@@ -649,9 +625,7 @@
         private Panel panel3;
         private Panel panel2;
         private Panel panel4;
-        private Guna.UI2.WinForms.Guna2Button guna2Button2;
         private GroupBox groupBox2;
-        private Guna.UI2.WinForms.Guna2Button guna2Button1;
         private Label label9;
         private Label label4;
         private TextBox txtEfectivodolar;
@@ -683,11 +657,12 @@
         private Label label8;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
         private PictureBox pictureBox4;
-        private Label label5;
+        private Label lbl_fecha;
         private PictureBox pictureBox3;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
         private Label label6;
         private Label label10;
-        private Label label11;
+        private Label lbl_usuario;
+        private Guna.UI2.WinForms.Guna2Button btn_guardar_movimiento;
     }
 }

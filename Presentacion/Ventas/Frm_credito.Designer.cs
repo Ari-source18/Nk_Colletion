@@ -28,27 +28,27 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_credito));
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             panel1 = new Panel();
             panel2 = new Panel();
             panel4 = new Panel();
             panel3 = new Panel();
             guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             pictureBox4 = new PictureBox();
-            label1 = new Label();
+            lbl_fecha = new Label();
             pictureBox3 = new PictureBox();
             guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             label2 = new Label();
             label6 = new Label();
-            label11 = new Label();
+            lbl_usuario = new Label();
             guna2ShadowPanel1 = new Guna.UI2.WinForms.Guna2ShadowPanel();
             tabControl1 = new TabControl();
-            tabPage1 = new TabPage();
-            tabPage2 = new TabPage();
-            tabPage3 = new TabPage();
+            tabpag_credito = new TabPage();
+            tabpag_credito_nuevo = new TabPage();
+            tabpag_credito_editar = new TabPage();
             guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -98,17 +98,17 @@
             guna2Panel1.BackColor = Color.FromArgb(244, 246, 249);
             guna2Panel1.BorderRadius = 15;
             guna2Panel1.Controls.Add(pictureBox4);
-            guna2Panel1.Controls.Add(label1);
+            guna2Panel1.Controls.Add(lbl_fecha);
             guna2Panel1.Controls.Add(pictureBox3);
             guna2Panel1.Controls.Add(guna2CirclePictureBox1);
             guna2Panel1.Controls.Add(label2);
             guna2Panel1.Controls.Add(label6);
-            guna2Panel1.Controls.Add(label11);
-            guna2Panel1.CustomizableEdges = customizableEdges2;
+            guna2Panel1.Controls.Add(lbl_usuario);
+            guna2Panel1.CustomizableEdges = customizableEdges5;
             guna2Panel1.FillColor = Color.White;
             guna2Panel1.Location = new Point(25, 16);
             guna2Panel1.Name = "guna2Panel1";
-            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges3;
+            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges6;
             guna2Panel1.Size = new Size(1506, 99);
             guna2Panel1.TabIndex = 239;
             // 
@@ -123,16 +123,16 @@
             pictureBox4.TabIndex = 55;
             pictureBox4.TabStop = false;
             // 
-            // label1
+            // lbl_fecha
             // 
-            label1.AutoSize = true;
-            label1.BackColor = Color.Transparent;
-            label1.Font = new Font("PMingLiU-ExtB", 10F);
-            label1.Location = new Point(1369, 36);
-            label1.Name = "label1";
-            label1.Size = new Size(57, 20);
-            label1.TabIndex = 54;
-            label1.Text = "Fecha:";
+            lbl_fecha.AutoSize = true;
+            lbl_fecha.BackColor = Color.Transparent;
+            lbl_fecha.Font = new Font("PMingLiU-ExtB", 10F);
+            lbl_fecha.Location = new Point(1369, 36);
+            lbl_fecha.Name = "lbl_fecha";
+            lbl_fecha.Size = new Size(57, 20);
+            lbl_fecha.TabIndex = 54;
+            lbl_fecha.Text = "Fecha:";
             // 
             // pictureBox3
             // 
@@ -152,7 +152,7 @@
             guna2CirclePictureBox1.ImageRotate = 0F;
             guna2CirclePictureBox1.Location = new Point(7, 8);
             guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
-            guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges1;
+            guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges4;
             guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             guna2CirclePictureBox1.Size = new Size(83, 83);
             guna2CirclePictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
@@ -182,16 +182,16 @@
             label6.TabIndex = 0;
             label6.Text = "Crédito";
             // 
-            // label11
+            // lbl_usuario
             // 
-            label11.AutoSize = true;
-            label11.BackColor = Color.Transparent;
-            label11.Font = new Font("PMingLiU-ExtB", 10F);
-            label11.Location = new Point(1164, 36);
-            label11.Name = "label11";
-            label11.Size = new Size(67, 20);
-            label11.TabIndex = 43;
-            label11.Text = "Usuario";
+            lbl_usuario.AutoSize = true;
+            lbl_usuario.BackColor = Color.Transparent;
+            lbl_usuario.Font = new Font("PMingLiU-ExtB", 10F);
+            lbl_usuario.Location = new Point(1164, 36);
+            lbl_usuario.Name = "lbl_usuario";
+            lbl_usuario.Size = new Size(67, 20);
+            lbl_usuario.TabIndex = 43;
+            lbl_usuario.Text = "Usuario";
             // 
             // guna2ShadowPanel1
             // 
@@ -211,9 +211,9 @@
             // 
             // tabControl1
             // 
-            tabControl1.Controls.Add(tabPage1);
-            tabControl1.Controls.Add(tabPage2);
-            tabControl1.Controls.Add(tabPage3);
+            tabControl1.Controls.Add(tabpag_credito);
+            tabControl1.Controls.Add(tabpag_credito_nuevo);
+            tabControl1.Controls.Add(tabpag_credito_editar);
             tabControl1.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             tabControl1.Location = new Point(25, 21);
             tabControl1.Name = "tabControl1";
@@ -221,35 +221,35 @@
             tabControl1.Size = new Size(1460, 683);
             tabControl1.TabIndex = 174;
             // 
-            // tabPage1
+            // tabpag_credito
             // 
-            tabPage1.Location = new Point(4, 33);
-            tabPage1.Name = "tabPage1";
-            tabPage1.Padding = new Padding(3);
-            tabPage1.Size = new Size(1452, 646);
-            tabPage1.TabIndex = 0;
-            tabPage1.Text = "Crédito";
-            tabPage1.UseVisualStyleBackColor = true;
+            tabpag_credito.Location = new Point(4, 33);
+            tabpag_credito.Name = "tabpag_credito";
+            tabpag_credito.Padding = new Padding(3);
+            tabpag_credito.Size = new Size(1452, 646);
+            tabpag_credito.TabIndex = 0;
+            tabpag_credito.Text = "Crédito";
+            tabpag_credito.UseVisualStyleBackColor = true;
             // 
-            // tabPage2
+            // tabpag_credito_nuevo
             // 
-            tabPage2.Location = new Point(4, 33);
-            tabPage2.Name = "tabPage2";
-            tabPage2.Padding = new Padding(3);
-            tabPage2.Size = new Size(1452, 646);
-            tabPage2.TabIndex = 1;
-            tabPage2.Text = "Nuevo crédito";
-            tabPage2.UseVisualStyleBackColor = true;
+            tabpag_credito_nuevo.Location = new Point(4, 33);
+            tabpag_credito_nuevo.Name = "tabpag_credito_nuevo";
+            tabpag_credito_nuevo.Padding = new Padding(3);
+            tabpag_credito_nuevo.Size = new Size(1452, 646);
+            tabpag_credito_nuevo.TabIndex = 1;
+            tabpag_credito_nuevo.Text = "Nuevo crédito";
+            tabpag_credito_nuevo.UseVisualStyleBackColor = true;
             // 
-            // tabPage3
+            // tabpag_credito_editar
             // 
-            tabPage3.Location = new Point(4, 33);
-            tabPage3.Name = "tabPage3";
-            tabPage3.Padding = new Padding(3);
-            tabPage3.Size = new Size(1452, 646);
-            tabPage3.TabIndex = 2;
-            tabPage3.Text = "Editar";
-            tabPage3.UseVisualStyleBackColor = true;
+            tabpag_credito_editar.Location = new Point(4, 33);
+            tabpag_credito_editar.Name = "tabpag_credito_editar";
+            tabpag_credito_editar.Padding = new Padding(3);
+            tabpag_credito_editar.Size = new Size(1452, 646);
+            tabpag_credito_editar.TabIndex = 2;
+            tabpag_credito_editar.Text = "Editar";
+            tabpag_credito_editar.UseVisualStyleBackColor = true;
             // 
             // Frm_credito
             // 
@@ -283,16 +283,16 @@
         private Panel panel3;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
         private PictureBox pictureBox4;
-        private Label label1;
+        private Label lbl_fecha;
         private PictureBox pictureBox3;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
         private Label label2;
         private Label label6;
-        private Label label11;
+        private Label lbl_usuario;
         private Guna.UI2.WinForms.Guna2ShadowPanel guna2ShadowPanel1;
         private TabControl tabControl1;
-        private TabPage tabPage1;
-        private TabPage tabPage2;
-        private TabPage tabPage3;
+        private TabPage tabpag_credito;
+        private TabPage tabpag_credito_nuevo;
+        private TabPage tabpag_credito_editar;
     }
 }

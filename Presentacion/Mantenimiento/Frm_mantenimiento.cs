@@ -14,5 +14,10 @@ namespace NK_COLLECTION.Presentacion.Mantenimiento
         {
             InitializeComponent();
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

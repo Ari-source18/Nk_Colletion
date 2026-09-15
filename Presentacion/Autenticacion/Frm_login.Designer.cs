@@ -40,11 +40,11 @@
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
-            guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
+            txtbox_usuario = new Guna.UI2.WinForms.Guna2TextBox();
+            txtbox_contrasena = new Guna.UI2.WinForms.Guna2TextBox();
             btn_ingresar = new Guna.UI2.WinForms.Guna2Button();
             label4 = new Label();
-            linkLabel1 = new LinkLabel();
+            linklbl_contrasena = new LinkLabel();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -105,55 +105,55 @@
             label3.TabIndex = 4;
             label3.Text = "Ingresa tus credenciales para continuar";
             // 
-            // guna2TextBox1
+            // txtbox_usuario
             // 
-            guna2TextBox1.BackColor = Color.Transparent;
-            guna2TextBox1.CustomizableEdges = customizableEdges1;
-            guna2TextBox1.DefaultText = "Usuario";
-            guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.FillColor = Color.FromArgb(248, 241, 242);
-            guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.IconLeft = global::NK_COLLECTION.Properties.Resources.icons8_usuario_32;
-            guna2TextBox1.IconLeftSize = new Size(30, 30);
-            guna2TextBox1.Location = new Point(350, 287);
-            guna2TextBox1.Margin = new Padding(4, 6, 4, 6);
-            guna2TextBox1.Name = "guna2TextBox1";
-            guna2TextBox1.PlaceholderText = "";
-            guna2TextBox1.SelectedText = "";
-            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            guna2TextBox1.Size = new Size(349, 60);
-            guna2TextBox1.TabIndex = 5;
-            guna2TextBox1.TextOffset = new Point(10, 0);
+            txtbox_usuario.BackColor = Color.Transparent;
+            txtbox_usuario.CustomizableEdges = customizableEdges1;
+            txtbox_usuario.DefaultText = "Usuario";
+            txtbox_usuario.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_usuario.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_usuario.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_usuario.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_usuario.FillColor = Color.FromArgb(248, 241, 242);
+            txtbox_usuario.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_usuario.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_usuario.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_usuario.IconLeft = Properties.Resources.icons8_usuario_32;
+            txtbox_usuario.IconLeftSize = new Size(30, 30);
+            txtbox_usuario.Location = new Point(350, 287);
+            txtbox_usuario.Margin = new Padding(4, 6, 4, 6);
+            txtbox_usuario.Name = "txtbox_usuario";
+            txtbox_usuario.PlaceholderText = "";
+            txtbox_usuario.SelectedText = "";
+            txtbox_usuario.ShadowDecoration.CustomizableEdges = customizableEdges2;
+            txtbox_usuario.Size = new Size(349, 60);
+            txtbox_usuario.TabIndex = 5;
+            txtbox_usuario.TextOffset = new Point(10, 0);
             // 
-            // guna2TextBox2
+            // txtbox_contrasena
             // 
-            guna2TextBox2.BackColor = Color.Transparent;
-            guna2TextBox2.CustomizableEdges = customizableEdges3;
-            guna2TextBox2.DefaultText = "Contraseña";
-            guna2TextBox2.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox2.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox2.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox2.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox2.FillColor = Color.FromArgb(248, 241, 242);
-            guna2TextBox2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox2.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            guna2TextBox2.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox2.IconLeft = Properties.Resources.icons8_candado_24;
-            guna2TextBox2.IconLeftSize = new Size(30, 30);
-            guna2TextBox2.Location = new Point(350, 369);
-            guna2TextBox2.Margin = new Padding(4, 6, 4, 6);
-            guna2TextBox2.Name = "guna2TextBox2";
-            guna2TextBox2.PlaceholderText = "";
-            guna2TextBox2.SelectedText = "";
-            guna2TextBox2.ShadowDecoration.CustomizableEdges = customizableEdges4;
-            guna2TextBox2.Size = new Size(349, 60);
-            guna2TextBox2.TabIndex = 6;
-            guna2TextBox2.TextOffset = new Point(10, 0);
+            txtbox_contrasena.BackColor = Color.Transparent;
+            txtbox_contrasena.CustomizableEdges = customizableEdges3;
+            txtbox_contrasena.DefaultText = "Contraseña";
+            txtbox_contrasena.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_contrasena.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_contrasena.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_contrasena.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_contrasena.FillColor = Color.FromArgb(248, 241, 242);
+            txtbox_contrasena.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_contrasena.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_contrasena.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_contrasena.IconLeft = Properties.Resources.icons8_candado_24;
+            txtbox_contrasena.IconLeftSize = new Size(30, 30);
+            txtbox_contrasena.Location = new Point(350, 369);
+            txtbox_contrasena.Margin = new Padding(4, 6, 4, 6);
+            txtbox_contrasena.Name = "txtbox_contrasena";
+            txtbox_contrasena.PlaceholderText = "";
+            txtbox_contrasena.SelectedText = "";
+            txtbox_contrasena.ShadowDecoration.CustomizableEdges = customizableEdges4;
+            txtbox_contrasena.Size = new Size(349, 60);
+            txtbox_contrasena.TabIndex = 6;
+            txtbox_contrasena.TextOffset = new Point(10, 0);
             // 
             // btn_ingresar
             // 
@@ -171,6 +171,7 @@
             btn_ingresar.Size = new Size(200, 44);
             btn_ingresar.TabIndex = 7;
             btn_ingresar.Text = "Ingresar   →";
+            btn_ingresar.Click += btn_ingresar_Click;
             // 
             // label4
             // 
@@ -184,17 +185,17 @@
             label4.TabIndex = 8;
             label4.Text = "-------------- NK Collection --------------";
             // 
-            // linkLabel1
+            // linklbl_contrasena
             // 
-            linkLabel1.AutoSize = true;
-            linkLabel1.Font = new Font("Book Antiqua", 8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            linkLabel1.LinkColor = Color.FromArgb(64, 0, 0);
-            linkLabel1.Location = new Point(433, 541);
-            linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(192, 20);
-            linkLabel1.TabIndex = 9;
-            linkLabel1.TabStop = true;
-            linkLabel1.Text = "¿Olvidaste tu contraseña?";
+            linklbl_contrasena.AutoSize = true;
+            linklbl_contrasena.Font = new Font("Book Antiqua", 8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            linklbl_contrasena.LinkColor = Color.FromArgb(64, 0, 0);
+            linklbl_contrasena.Location = new Point(433, 541);
+            linklbl_contrasena.Name = "linklbl_contrasena";
+            linklbl_contrasena.Size = new Size(192, 20);
+            linklbl_contrasena.TabIndex = 9;
+            linklbl_contrasena.TabStop = true;
+            linklbl_contrasena.Text = "¿Olvidaste tu contraseña?";
             // 
             // Frm_login
             // 
@@ -202,11 +203,11 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(248, 241, 242);
             ClientSize = new Size(733, 670);
-            Controls.Add(linkLabel1);
+            Controls.Add(linklbl_contrasena);
             Controls.Add(label4);
             Controls.Add(btn_ingresar);
-            Controls.Add(guna2TextBox2);
-            Controls.Add(guna2TextBox1);
+            Controls.Add(txtbox_contrasena);
+            Controls.Add(txtbox_usuario);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -216,6 +217,7 @@
             FormBorderStyle = FormBorderStyle.None;
             Name = "Frm_login";
             Text = "Form1";
+            Load += Frm_login_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -228,10 +230,10 @@
         private Label label1;
         private Label label2;
         private Label label3;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_usuario;
+        private Guna.UI2.WinForms.Guna2TextBox txtbox_contrasena;
         private Guna.UI2.WinForms.Guna2Button btn_ingresar;
         private Label label4;
-        private LinkLabel linkLabel1;
+        private LinkLabel linklbl_contrasena;
     }
 }

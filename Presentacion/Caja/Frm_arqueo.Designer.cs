@@ -28,21 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_arqueo));
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges11 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges12 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges13 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges14 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             label36 = new Label();
-            numericUpDown14 = new NumericUpDown();
-            numericUpDown13 = new NumericUpDown();
-            numericUpDown12 = new NumericUpDown();
-            numericUpDown11 = new NumericUpDown();
-            numericUpDown10 = new NumericUpDown();
-            numericUpDown9 = new NumericUpDown();
+            numeric_100_dolares = new NumericUpDown();
+            numeric_50_dolares = new NumericUpDown();
+            numeric_20_dolares = new NumericUpDown();
+            numeric_10_dolares = new NumericUpDown();
+            numeric_5_dolares = new NumericUpDown();
+            numeric_1_dolar = new NumericUpDown();
             label26 = new Label();
             label25 = new Label();
             label24 = new Label();
@@ -67,69 +67,69 @@
             panel4 = new Panel();
             guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             pictureBox4 = new PictureBox();
-            label3 = new Label();
+            lbl_fecha = new Label();
             pictureBox3 = new PictureBox();
             guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             label4 = new Label();
             label5 = new Label();
-            label6 = new Label();
+            lbl_usuario = new Label();
             guna2ShadowPanel2 = new Guna.UI2.WinForms.Guna2ShadowPanel();
+            btn_generar_arqueo = new Guna.UI2.WinForms.Guna2Button();
+            numeric_5_monedas = new NumericUpDown();
+            numeric_1_moneda = new NumericUpDown();
+            numeric_centavos = new NumericUpDown();
+            numeric_centavos_2 = new NumericUpDown();
+            numeric_10_cordobas = new NumericUpDown();
+            numeric_1000_cordobas = new NumericUpDown();
+            numeric_500_cordobas = new NumericUpDown();
+            numeric_200_cordobas = new NumericUpDown();
+            numeric_100_cordobas = new NumericUpDown();
+            numeric_50_cordobas = new NumericUpDown();
+            numeric_20_cordobas = new NumericUpDown();
+            label30 = new Label();
+            label28 = new Label();
+            label27 = new Label();
             label20 = new Label();
             label29 = new Label();
-            label27 = new Label();
-            label28 = new Label();
-            label30 = new Label();
-            numericUpDown1 = new NumericUpDown();
-            numericUpDown2 = new NumericUpDown();
-            numericUpDown3 = new NumericUpDown();
-            numericUpDown4 = new NumericUpDown();
-            numericUpDown5 = new NumericUpDown();
-            numericUpDown6 = new NumericUpDown();
-            numericUpDown7 = new NumericUpDown();
-            numericUpDown8 = new NumericUpDown();
-            numericUpDown15 = new NumericUpDown();
-            numericUpDown16 = new NumericUpDown();
-            numericUpDown17 = new NumericUpDown();
             guna2ShadowPanel3 = new Guna.UI2.WinForms.Guna2ShadowPanel();
+            lbl_efectivo_cordobas = new Label();
+            lbl_efectivo_monedas = new Label();
+            lbl_efectivo_otros = new Label();
+            lbl_efectivo_dolares = new Label();
+            guna2ShadowPanel4 = new Guna.UI2.WinForms.Guna2ShadowPanel();
+            label40 = new Label();
+            label47 = new Label();
+            label48 = new Label();
+            lbl_total_caja = new Label();
+            label32 = new Label();
+            label7 = new Label();
+            label2 = new Label();
             label9 = new Label();
             label31 = new Label();
             label41 = new Label();
-            label2 = new Label();
-            label7 = new Label();
-            label32 = new Label();
-            label40 = new Label();
-            guna2ShadowPanel4 = new Guna.UI2.WinForms.Guna2ShadowPanel();
-            label47 = new Label();
-            label48 = new Label();
-            lbl_cambioF = new Label();
-            label33 = new Label();
-            label34 = new Label();
-            label35 = new Label();
-            label37 = new Label();
-            guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown14).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown13).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown12).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown11).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown10).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown9).BeginInit();
+            btn_imprimir_arqueo = new Guna.UI2.WinForms.Guna2Button();
+            ((System.ComponentModel.ISupportInitialize)numeric_100_dolares).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_50_dolares).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_20_dolares).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_10_dolares).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_5_dolares).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_1_dolar).BeginInit();
             guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             ((System.ComponentModel.ISupportInitialize)guna2CirclePictureBox1).BeginInit();
             guna2ShadowPanel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown2).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown3).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown4).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown5).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown6).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown7).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown8).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown15).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown16).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown17).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_5_monedas).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_1_moneda).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_centavos).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_centavos_2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_10_cordobas).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_1000_cordobas).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_500_cordobas).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_200_cordobas).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_100_cordobas).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_50_cordobas).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_20_cordobas).BeginInit();
             guna2ShadowPanel3.SuspendLayout();
             guna2ShadowPanel4.SuspendLayout();
             SuspendLayout();
@@ -146,77 +146,77 @@
             label36.TabIndex = 61;
             label36.Text = "Efectivo en dólares";
             // 
-            // numericUpDown14
+            // numeric_100_dolares
             // 
-            numericUpDown14.AccessibleRole = AccessibleRole.None;
-            numericUpDown14.BackColor = Color.White;
-            numericUpDown14.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown14.Location = new Point(96, 133);
-            numericUpDown14.Margin = new Padding(4);
-            numericUpDown14.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown14.Name = "numericUpDown14";
-            numericUpDown14.Size = new Size(117, 26);
-            numericUpDown14.TabIndex = 186;
+            numeric_100_dolares.AccessibleRole = AccessibleRole.None;
+            numeric_100_dolares.BackColor = Color.White;
+            numeric_100_dolares.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_100_dolares.Location = new Point(96, 133);
+            numeric_100_dolares.Margin = new Padding(4);
+            numeric_100_dolares.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_100_dolares.Name = "numeric_100_dolares";
+            numeric_100_dolares.Size = new Size(117, 26);
+            numeric_100_dolares.TabIndex = 186;
             // 
-            // numericUpDown13
+            // numeric_50_dolares
             // 
-            numericUpDown13.AccessibleRole = AccessibleRole.None;
-            numericUpDown13.BackColor = Color.White;
-            numericUpDown13.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown13.Location = new Point(96, 174);
-            numericUpDown13.Margin = new Padding(4);
-            numericUpDown13.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown13.Name = "numericUpDown13";
-            numericUpDown13.Size = new Size(117, 26);
-            numericUpDown13.TabIndex = 185;
+            numeric_50_dolares.AccessibleRole = AccessibleRole.None;
+            numeric_50_dolares.BackColor = Color.White;
+            numeric_50_dolares.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_50_dolares.Location = new Point(96, 174);
+            numeric_50_dolares.Margin = new Padding(4);
+            numeric_50_dolares.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_50_dolares.Name = "numeric_50_dolares";
+            numeric_50_dolares.Size = new Size(117, 26);
+            numeric_50_dolares.TabIndex = 185;
             // 
-            // numericUpDown12
+            // numeric_20_dolares
             // 
-            numericUpDown12.AccessibleRole = AccessibleRole.None;
-            numericUpDown12.BackColor = Color.White;
-            numericUpDown12.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown12.Location = new Point(96, 214);
-            numericUpDown12.Margin = new Padding(4);
-            numericUpDown12.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown12.Name = "numericUpDown12";
-            numericUpDown12.Size = new Size(117, 26);
-            numericUpDown12.TabIndex = 184;
+            numeric_20_dolares.AccessibleRole = AccessibleRole.None;
+            numeric_20_dolares.BackColor = Color.White;
+            numeric_20_dolares.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_20_dolares.Location = new Point(96, 214);
+            numeric_20_dolares.Margin = new Padding(4);
+            numeric_20_dolares.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_20_dolares.Name = "numeric_20_dolares";
+            numeric_20_dolares.Size = new Size(117, 26);
+            numeric_20_dolares.TabIndex = 184;
             // 
-            // numericUpDown11
+            // numeric_10_dolares
             // 
-            numericUpDown11.AccessibleRole = AccessibleRole.None;
-            numericUpDown11.BackColor = Color.White;
-            numericUpDown11.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown11.Location = new Point(96, 256);
-            numericUpDown11.Margin = new Padding(4);
-            numericUpDown11.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown11.Name = "numericUpDown11";
-            numericUpDown11.Size = new Size(117, 26);
-            numericUpDown11.TabIndex = 183;
+            numeric_10_dolares.AccessibleRole = AccessibleRole.None;
+            numeric_10_dolares.BackColor = Color.White;
+            numeric_10_dolares.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_10_dolares.Location = new Point(96, 256);
+            numeric_10_dolares.Margin = new Padding(4);
+            numeric_10_dolares.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_10_dolares.Name = "numeric_10_dolares";
+            numeric_10_dolares.Size = new Size(117, 26);
+            numeric_10_dolares.TabIndex = 183;
             // 
-            // numericUpDown10
+            // numeric_5_dolares
             // 
-            numericUpDown10.AccessibleRole = AccessibleRole.None;
-            numericUpDown10.BackColor = Color.White;
-            numericUpDown10.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown10.Location = new Point(96, 300);
-            numericUpDown10.Margin = new Padding(4);
-            numericUpDown10.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown10.Name = "numericUpDown10";
-            numericUpDown10.Size = new Size(117, 26);
-            numericUpDown10.TabIndex = 182;
+            numeric_5_dolares.AccessibleRole = AccessibleRole.None;
+            numeric_5_dolares.BackColor = Color.White;
+            numeric_5_dolares.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_5_dolares.Location = new Point(96, 300);
+            numeric_5_dolares.Margin = new Padding(4);
+            numeric_5_dolares.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_5_dolares.Name = "numeric_5_dolares";
+            numeric_5_dolares.Size = new Size(117, 26);
+            numeric_5_dolares.TabIndex = 182;
             // 
-            // numericUpDown9
+            // numeric_1_dolar
             // 
-            numericUpDown9.AccessibleRole = AccessibleRole.None;
-            numericUpDown9.BackColor = Color.White;
-            numericUpDown9.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown9.Location = new Point(96, 348);
-            numericUpDown9.Margin = new Padding(4);
-            numericUpDown9.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown9.Name = "numericUpDown9";
-            numericUpDown9.Size = new Size(117, 26);
-            numericUpDown9.TabIndex = 181;
+            numeric_1_dolar.AccessibleRole = AccessibleRole.None;
+            numeric_1_dolar.BackColor = Color.White;
+            numeric_1_dolar.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_1_dolar.Location = new Point(96, 348);
+            numeric_1_dolar.Margin = new Padding(4);
+            numeric_1_dolar.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_1_dolar.Name = "numeric_1_dolar";
+            numeric_1_dolar.Size = new Size(117, 26);
+            numeric_1_dolar.TabIndex = 181;
             // 
             // label26
             // 
@@ -479,17 +479,17 @@
             guna2Panel1.BackColor = Color.FromArgb(217, 154, 170);
             guna2Panel1.BorderRadius = 15;
             guna2Panel1.Controls.Add(pictureBox4);
-            guna2Panel1.Controls.Add(label3);
+            guna2Panel1.Controls.Add(lbl_fecha);
             guna2Panel1.Controls.Add(pictureBox3);
             guna2Panel1.Controls.Add(guna2CirclePictureBox1);
             guna2Panel1.Controls.Add(label4);
             guna2Panel1.Controls.Add(label5);
-            guna2Panel1.Controls.Add(label6);
-            guna2Panel1.CustomizableEdges = customizableEdges2;
+            guna2Panel1.Controls.Add(lbl_usuario);
+            guna2Panel1.CustomizableEdges = customizableEdges9;
             guna2Panel1.FillColor = Color.White;
             guna2Panel1.Location = new Point(29, 24);
             guna2Panel1.Name = "guna2Panel1";
-            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges3;
+            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges10;
             guna2Panel1.Size = new Size(1494, 99);
             guna2Panel1.TabIndex = 238;
             // 
@@ -504,16 +504,16 @@
             pictureBox4.TabIndex = 55;
             pictureBox4.TabStop = false;
             // 
-            // label3
+            // lbl_fecha
             // 
-            label3.AutoSize = true;
-            label3.BackColor = Color.Transparent;
-            label3.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label3.Location = new Point(1319, 36);
-            label3.Name = "label3";
-            label3.Size = new Size(62, 24);
-            label3.TabIndex = 54;
-            label3.Text = "Fecha";
+            lbl_fecha.AutoSize = true;
+            lbl_fecha.BackColor = Color.Transparent;
+            lbl_fecha.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_fecha.Location = new Point(1319, 36);
+            lbl_fecha.Name = "lbl_fecha";
+            lbl_fecha.Size = new Size(62, 24);
+            lbl_fecha.TabIndex = 54;
+            lbl_fecha.Text = "Fecha";
             // 
             // pictureBox3
             // 
@@ -533,7 +533,7 @@
             guna2CirclePictureBox1.ImageRotate = 0F;
             guna2CirclePictureBox1.Location = new Point(7, 8);
             guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
-            guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges1;
+            guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges8;
             guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             guna2CirclePictureBox1.Size = new Size(83, 83);
             guna2CirclePictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
@@ -564,32 +564,32 @@
             label5.TabIndex = 0;
             label5.Text = "Caja";
             // 
-            // label6
+            // lbl_usuario
             // 
-            label6.AutoSize = true;
-            label6.BackColor = Color.Transparent;
-            label6.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label6.Location = new Point(1119, 36);
-            label6.Name = "label6";
-            label6.Size = new Size(81, 24);
-            label6.TabIndex = 43;
-            label6.Text = "Usuario";
+            lbl_usuario.AutoSize = true;
+            lbl_usuario.BackColor = Color.Transparent;
+            lbl_usuario.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_usuario.Location = new Point(1119, 36);
+            lbl_usuario.Name = "lbl_usuario";
+            lbl_usuario.Size = new Size(81, 24);
+            lbl_usuario.TabIndex = 43;
+            lbl_usuario.Text = "Usuario";
             // 
             // guna2ShadowPanel2
             // 
             guna2ShadowPanel2.BackColor = Color.Transparent;
-            guna2ShadowPanel2.Controls.Add(guna2Button1);
-            guna2ShadowPanel2.Controls.Add(numericUpDown7);
-            guna2ShadowPanel2.Controls.Add(numericUpDown8);
-            guna2ShadowPanel2.Controls.Add(numericUpDown15);
-            guna2ShadowPanel2.Controls.Add(numericUpDown16);
-            guna2ShadowPanel2.Controls.Add(numericUpDown17);
-            guna2ShadowPanel2.Controls.Add(numericUpDown1);
-            guna2ShadowPanel2.Controls.Add(numericUpDown2);
-            guna2ShadowPanel2.Controls.Add(numericUpDown3);
-            guna2ShadowPanel2.Controls.Add(numericUpDown4);
-            guna2ShadowPanel2.Controls.Add(numericUpDown5);
-            guna2ShadowPanel2.Controls.Add(numericUpDown6);
+            guna2ShadowPanel2.Controls.Add(btn_generar_arqueo);
+            guna2ShadowPanel2.Controls.Add(numeric_5_monedas);
+            guna2ShadowPanel2.Controls.Add(numeric_1_moneda);
+            guna2ShadowPanel2.Controls.Add(numeric_centavos);
+            guna2ShadowPanel2.Controls.Add(numeric_centavos_2);
+            guna2ShadowPanel2.Controls.Add(numeric_10_cordobas);
+            guna2ShadowPanel2.Controls.Add(numeric_1000_cordobas);
+            guna2ShadowPanel2.Controls.Add(numeric_500_cordobas);
+            guna2ShadowPanel2.Controls.Add(numeric_200_cordobas);
+            guna2ShadowPanel2.Controls.Add(numeric_100_cordobas);
+            guna2ShadowPanel2.Controls.Add(numeric_50_cordobas);
+            guna2ShadowPanel2.Controls.Add(numeric_20_cordobas);
             guna2ShadowPanel2.Controls.Add(label30);
             guna2ShadowPanel2.Controls.Add(label28);
             guna2ShadowPanel2.Controls.Add(label27);
@@ -600,16 +600,16 @@
             guna2ShadowPanel2.Controls.Add(label24);
             guna2ShadowPanel2.Controls.Add(label1);
             guna2ShadowPanel2.Controls.Add(label23);
-            guna2ShadowPanel2.Controls.Add(numericUpDown14);
-            guna2ShadowPanel2.Controls.Add(numericUpDown13);
+            guna2ShadowPanel2.Controls.Add(numeric_100_dolares);
+            guna2ShadowPanel2.Controls.Add(numeric_50_dolares);
             guna2ShadowPanel2.Controls.Add(label22);
-            guna2ShadowPanel2.Controls.Add(numericUpDown12);
+            guna2ShadowPanel2.Controls.Add(numeric_20_dolares);
             guna2ShadowPanel2.Controls.Add(label8);
-            guna2ShadowPanel2.Controls.Add(numericUpDown11);
+            guna2ShadowPanel2.Controls.Add(numeric_10_dolares);
             guna2ShadowPanel2.Controls.Add(label17);
-            guna2ShadowPanel2.Controls.Add(numericUpDown10);
+            guna2ShadowPanel2.Controls.Add(numeric_5_dolares);
             guna2ShadowPanel2.Controls.Add(label18);
-            guna2ShadowPanel2.Controls.Add(numericUpDown9);
+            guna2ShadowPanel2.Controls.Add(numeric_1_dolar);
             guna2ShadowPanel2.Controls.Add(label16);
             guna2ShadowPanel2.Controls.Add(label15);
             guna2ShadowPanel2.Controls.Add(label19);
@@ -629,6 +629,195 @@
             guna2ShadowPanel2.Size = new Size(773, 576);
             guna2ShadowPanel2.TabIndex = 239;
             guna2ShadowPanel2.Paint += guna2ShadowPanel2_Paint;
+            // 
+            // btn_generar_arqueo
+            // 
+            btn_generar_arqueo.BorderColor = Color.White;
+            btn_generar_arqueo.BorderRadius = 8;
+            btn_generar_arqueo.BorderThickness = 2;
+            btn_generar_arqueo.CustomizableEdges = customizableEdges11;
+            btn_generar_arqueo.DisabledState.BorderColor = Color.DarkGray;
+            btn_generar_arqueo.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_generar_arqueo.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_generar_arqueo.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_generar_arqueo.FillColor = Color.FromArgb(110, 18, 32);
+            btn_generar_arqueo.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btn_generar_arqueo.ForeColor = Color.White;
+            btn_generar_arqueo.Location = new Point(251, 482);
+            btn_generar_arqueo.Margin = new Padding(4, 5, 4, 5);
+            btn_generar_arqueo.Name = "btn_generar_arqueo";
+            btn_generar_arqueo.ShadowDecoration.CustomizableEdges = customizableEdges12;
+            btn_generar_arqueo.Size = new Size(226, 43);
+            btn_generar_arqueo.TabIndex = 201;
+            btn_generar_arqueo.Text = "Generar arqueo";
+            // 
+            // numeric_5_monedas
+            // 
+            numeric_5_monedas.AccessibleRole = AccessibleRole.None;
+            numeric_5_monedas.BackColor = Color.White;
+            numeric_5_monedas.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_5_monedas.Location = new Point(608, 139);
+            numeric_5_monedas.Margin = new Padding(4);
+            numeric_5_monedas.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_5_monedas.Name = "numeric_5_monedas";
+            numeric_5_monedas.Size = new Size(117, 26);
+            numeric_5_monedas.TabIndex = 200;
+            // 
+            // numeric_1_moneda
+            // 
+            numeric_1_moneda.AccessibleRole = AccessibleRole.None;
+            numeric_1_moneda.BackColor = Color.White;
+            numeric_1_moneda.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_1_moneda.Location = new Point(608, 180);
+            numeric_1_moneda.Margin = new Padding(4);
+            numeric_1_moneda.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_1_moneda.Name = "numeric_1_moneda";
+            numeric_1_moneda.Size = new Size(117, 26);
+            numeric_1_moneda.TabIndex = 199;
+            // 
+            // numeric_centavos
+            // 
+            numeric_centavos.AccessibleRole = AccessibleRole.None;
+            numeric_centavos.BackColor = Color.White;
+            numeric_centavos.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_centavos.Location = new Point(608, 220);
+            numeric_centavos.Margin = new Padding(4);
+            numeric_centavos.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_centavos.Name = "numeric_centavos";
+            numeric_centavos.Size = new Size(117, 26);
+            numeric_centavos.TabIndex = 198;
+            // 
+            // numeric_centavos_2
+            // 
+            numeric_centavos_2.AccessibleRole = AccessibleRole.None;
+            numeric_centavos_2.BackColor = Color.White;
+            numeric_centavos_2.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_centavos_2.Location = new Point(608, 262);
+            numeric_centavos_2.Margin = new Padding(4);
+            numeric_centavos_2.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_centavos_2.Name = "numeric_centavos_2";
+            numeric_centavos_2.Size = new Size(117, 26);
+            numeric_centavos_2.TabIndex = 197;
+            // 
+            // numeric_10_cordobas
+            // 
+            numeric_10_cordobas.AccessibleRole = AccessibleRole.None;
+            numeric_10_cordobas.BackColor = Color.White;
+            numeric_10_cordobas.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_10_cordobas.Location = new Point(360, 386);
+            numeric_10_cordobas.Margin = new Padding(4);
+            numeric_10_cordobas.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_10_cordobas.Name = "numeric_10_cordobas";
+            numeric_10_cordobas.Size = new Size(117, 26);
+            numeric_10_cordobas.TabIndex = 196;
+            // 
+            // numeric_1000_cordobas
+            // 
+            numeric_1000_cordobas.AccessibleRole = AccessibleRole.None;
+            numeric_1000_cordobas.BackColor = Color.White;
+            numeric_1000_cordobas.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_1000_cordobas.Location = new Point(360, 132);
+            numeric_1000_cordobas.Margin = new Padding(4);
+            numeric_1000_cordobas.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_1000_cordobas.Name = "numeric_1000_cordobas";
+            numeric_1000_cordobas.Size = new Size(117, 26);
+            numeric_1000_cordobas.TabIndex = 194;
+            // 
+            // numeric_500_cordobas
+            // 
+            numeric_500_cordobas.AccessibleRole = AccessibleRole.None;
+            numeric_500_cordobas.BackColor = Color.White;
+            numeric_500_cordobas.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_500_cordobas.Location = new Point(360, 173);
+            numeric_500_cordobas.Margin = new Padding(4);
+            numeric_500_cordobas.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_500_cordobas.Name = "numeric_500_cordobas";
+            numeric_500_cordobas.Size = new Size(117, 26);
+            numeric_500_cordobas.TabIndex = 193;
+            // 
+            // numeric_200_cordobas
+            // 
+            numeric_200_cordobas.AccessibleRole = AccessibleRole.None;
+            numeric_200_cordobas.BackColor = Color.White;
+            numeric_200_cordobas.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_200_cordobas.Location = new Point(360, 213);
+            numeric_200_cordobas.Margin = new Padding(4);
+            numeric_200_cordobas.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_200_cordobas.Name = "numeric_200_cordobas";
+            numeric_200_cordobas.Size = new Size(117, 26);
+            numeric_200_cordobas.TabIndex = 192;
+            // 
+            // numeric_100_cordobas
+            // 
+            numeric_100_cordobas.AccessibleRole = AccessibleRole.None;
+            numeric_100_cordobas.BackColor = Color.White;
+            numeric_100_cordobas.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_100_cordobas.Location = new Point(360, 255);
+            numeric_100_cordobas.Margin = new Padding(4);
+            numeric_100_cordobas.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_100_cordobas.Name = "numeric_100_cordobas";
+            numeric_100_cordobas.Size = new Size(117, 26);
+            numeric_100_cordobas.TabIndex = 191;
+            // 
+            // numeric_50_cordobas
+            // 
+            numeric_50_cordobas.AccessibleRole = AccessibleRole.None;
+            numeric_50_cordobas.BackColor = Color.White;
+            numeric_50_cordobas.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_50_cordobas.Location = new Point(360, 299);
+            numeric_50_cordobas.Margin = new Padding(4);
+            numeric_50_cordobas.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_50_cordobas.Name = "numeric_50_cordobas";
+            numeric_50_cordobas.Size = new Size(117, 26);
+            numeric_50_cordobas.TabIndex = 190;
+            // 
+            // numeric_20_cordobas
+            // 
+            numeric_20_cordobas.AccessibleRole = AccessibleRole.None;
+            numeric_20_cordobas.BackColor = Color.White;
+            numeric_20_cordobas.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numeric_20_cordobas.Location = new Point(360, 347);
+            numeric_20_cordobas.Margin = new Padding(4);
+            numeric_20_cordobas.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
+            numeric_20_cordobas.Name = "numeric_20_cordobas";
+            numeric_20_cordobas.Size = new Size(117, 26);
+            numeric_20_cordobas.TabIndex = 189;
+            // 
+            // label30
+            // 
+            label30.AutoSize = true;
+            label30.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label30.ForeColor = Color.FromArgb(64, 0, 0);
+            label30.Location = new Point(567, 85);
+            label30.Margin = new Padding(2, 0, 2, 0);
+            label30.Name = "label30";
+            label30.Size = new Size(111, 28);
+            label30.TabIndex = 188;
+            label30.Text = "Monedas";
+            // 
+            // label28
+            // 
+            label28.AutoSize = true;
+            label28.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label28.ForeColor = Color.FromArgb(64, 0, 0);
+            label28.Location = new Point(333, 85);
+            label28.Margin = new Padding(2, 0, 2, 0);
+            label28.Name = "label28";
+            label28.Size = new Size(114, 28);
+            label28.TabIndex = 187;
+            label28.Text = "Córdobas";
+            // 
+            // label27
+            // 
+            label27.AutoSize = true;
+            label27.BackColor = Color.Transparent;
+            label27.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label27.ForeColor = Color.FromArgb(110, 18, 32);
+            label27.Location = new Point(25, 25);
+            label27.Name = "label27";
+            label27.Size = new Size(193, 28);
+            label27.TabIndex = 69;
+            label27.Text = "Datos del arqueo";
             // 
             // label20
             // 
@@ -650,181 +839,13 @@
             label29.Size = new Size(0, 20);
             label29.TabIndex = 61;
             // 
-            // label27
-            // 
-            label27.AutoSize = true;
-            label27.BackColor = Color.Transparent;
-            label27.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label27.ForeColor = Color.FromArgb(110, 18, 32);
-            label27.Location = new Point(25, 25);
-            label27.Name = "label27";
-            label27.Size = new Size(193, 28);
-            label27.TabIndex = 69;
-            label27.Text = "Datos del arqueo";
-            // 
-            // label28
-            // 
-            label28.AutoSize = true;
-            label28.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label28.ForeColor = Color.FromArgb(64, 0, 0);
-            label28.Location = new Point(333, 85);
-            label28.Margin = new Padding(2, 0, 2, 0);
-            label28.Name = "label28";
-            label28.Size = new Size(114, 28);
-            label28.TabIndex = 187;
-            label28.Text = "Córdobas";
-            // 
-            // label30
-            // 
-            label30.AutoSize = true;
-            label30.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label30.ForeColor = Color.FromArgb(64, 0, 0);
-            label30.Location = new Point(567, 85);
-            label30.Margin = new Padding(2, 0, 2, 0);
-            label30.Name = "label30";
-            label30.Size = new Size(111, 28);
-            label30.TabIndex = 188;
-            label30.Text = "Monedas";
-            // 
-            // numericUpDown1
-            // 
-            numericUpDown1.AccessibleRole = AccessibleRole.None;
-            numericUpDown1.BackColor = Color.White;
-            numericUpDown1.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown1.Location = new Point(360, 132);
-            numericUpDown1.Margin = new Padding(4);
-            numericUpDown1.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown1.Name = "numericUpDown1";
-            numericUpDown1.Size = new Size(117, 26);
-            numericUpDown1.TabIndex = 194;
-            // 
-            // numericUpDown2
-            // 
-            numericUpDown2.AccessibleRole = AccessibleRole.None;
-            numericUpDown2.BackColor = Color.White;
-            numericUpDown2.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown2.Location = new Point(360, 173);
-            numericUpDown2.Margin = new Padding(4);
-            numericUpDown2.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown2.Name = "numericUpDown2";
-            numericUpDown2.Size = new Size(117, 26);
-            numericUpDown2.TabIndex = 193;
-            // 
-            // numericUpDown3
-            // 
-            numericUpDown3.AccessibleRole = AccessibleRole.None;
-            numericUpDown3.BackColor = Color.White;
-            numericUpDown3.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown3.Location = new Point(360, 213);
-            numericUpDown3.Margin = new Padding(4);
-            numericUpDown3.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown3.Name = "numericUpDown3";
-            numericUpDown3.Size = new Size(117, 26);
-            numericUpDown3.TabIndex = 192;
-            // 
-            // numericUpDown4
-            // 
-            numericUpDown4.AccessibleRole = AccessibleRole.None;
-            numericUpDown4.BackColor = Color.White;
-            numericUpDown4.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown4.Location = new Point(360, 255);
-            numericUpDown4.Margin = new Padding(4);
-            numericUpDown4.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown4.Name = "numericUpDown4";
-            numericUpDown4.Size = new Size(117, 26);
-            numericUpDown4.TabIndex = 191;
-            // 
-            // numericUpDown5
-            // 
-            numericUpDown5.AccessibleRole = AccessibleRole.None;
-            numericUpDown5.BackColor = Color.White;
-            numericUpDown5.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown5.Location = new Point(360, 299);
-            numericUpDown5.Margin = new Padding(4);
-            numericUpDown5.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown5.Name = "numericUpDown5";
-            numericUpDown5.Size = new Size(117, 26);
-            numericUpDown5.TabIndex = 190;
-            // 
-            // numericUpDown6
-            // 
-            numericUpDown6.AccessibleRole = AccessibleRole.None;
-            numericUpDown6.BackColor = Color.White;
-            numericUpDown6.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown6.Location = new Point(360, 347);
-            numericUpDown6.Margin = new Padding(4);
-            numericUpDown6.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown6.Name = "numericUpDown6";
-            numericUpDown6.Size = new Size(117, 26);
-            numericUpDown6.TabIndex = 189;
-            // 
-            // numericUpDown7
-            // 
-            numericUpDown7.AccessibleRole = AccessibleRole.None;
-            numericUpDown7.BackColor = Color.White;
-            numericUpDown7.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown7.Location = new Point(608, 139);
-            numericUpDown7.Margin = new Padding(4);
-            numericUpDown7.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown7.Name = "numericUpDown7";
-            numericUpDown7.Size = new Size(117, 26);
-            numericUpDown7.TabIndex = 200;
-            // 
-            // numericUpDown8
-            // 
-            numericUpDown8.AccessibleRole = AccessibleRole.None;
-            numericUpDown8.BackColor = Color.White;
-            numericUpDown8.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown8.Location = new Point(608, 180);
-            numericUpDown8.Margin = new Padding(4);
-            numericUpDown8.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown8.Name = "numericUpDown8";
-            numericUpDown8.Size = new Size(117, 26);
-            numericUpDown8.TabIndex = 199;
-            // 
-            // numericUpDown15
-            // 
-            numericUpDown15.AccessibleRole = AccessibleRole.None;
-            numericUpDown15.BackColor = Color.White;
-            numericUpDown15.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown15.Location = new Point(608, 220);
-            numericUpDown15.Margin = new Padding(4);
-            numericUpDown15.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown15.Name = "numericUpDown15";
-            numericUpDown15.Size = new Size(117, 26);
-            numericUpDown15.TabIndex = 198;
-            // 
-            // numericUpDown16
-            // 
-            numericUpDown16.AccessibleRole = AccessibleRole.None;
-            numericUpDown16.BackColor = Color.White;
-            numericUpDown16.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown16.Location = new Point(608, 262);
-            numericUpDown16.Margin = new Padding(4);
-            numericUpDown16.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown16.Name = "numericUpDown16";
-            numericUpDown16.Size = new Size(117, 26);
-            numericUpDown16.TabIndex = 197;
-            // 
-            // numericUpDown17
-            // 
-            numericUpDown17.AccessibleRole = AccessibleRole.None;
-            numericUpDown17.BackColor = Color.White;
-            numericUpDown17.Font = new Font("PMingLiU-ExtB", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numericUpDown17.Location = new Point(360, 386);
-            numericUpDown17.Margin = new Padding(4);
-            numericUpDown17.Maximum = new decimal(new int[] { 70, 0, 0, 0 });
-            numericUpDown17.Name = "numericUpDown17";
-            numericUpDown17.Size = new Size(117, 26);
-            numericUpDown17.TabIndex = 196;
-            // 
             // guna2ShadowPanel3
             // 
             guna2ShadowPanel3.BackColor = Color.Transparent;
-            guna2ShadowPanel3.Controls.Add(label37);
-            guna2ShadowPanel3.Controls.Add(label35);
-            guna2ShadowPanel3.Controls.Add(label34);
-            guna2ShadowPanel3.Controls.Add(lbl_cambioF);
+            guna2ShadowPanel3.Controls.Add(lbl_efectivo_cordobas);
+            guna2ShadowPanel3.Controls.Add(lbl_efectivo_monedas);
+            guna2ShadowPanel3.Controls.Add(lbl_efectivo_otros);
+            guna2ShadowPanel3.Controls.Add(lbl_efectivo_dolares);
             guna2ShadowPanel3.Controls.Add(guna2ShadowPanel4);
             guna2ShadowPanel3.Controls.Add(label32);
             guna2ShadowPanel3.Controls.Add(label7);
@@ -843,6 +864,157 @@
             guna2ShadowPanel3.Size = new Size(694, 464);
             guna2ShadowPanel3.TabIndex = 240;
             guna2ShadowPanel3.Paint += guna2ShadowPanel3_Paint;
+            // 
+            // lbl_efectivo_cordobas
+            // 
+            lbl_efectivo_cordobas.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
+            lbl_efectivo_cordobas.AutoSize = true;
+            lbl_efectivo_cordobas.Font = new Font("PMingLiU-ExtB", 11F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            lbl_efectivo_cordobas.ForeColor = Color.FromArgb(64, 0, 0);
+            lbl_efectivo_cordobas.Location = new Point(593, 158);
+            lbl_efectivo_cordobas.Margin = new Padding(2, 0, 2, 0);
+            lbl_efectivo_cordobas.Name = "lbl_efectivo_cordobas";
+            lbl_efectivo_cordobas.Size = new Size(55, 22);
+            lbl_efectivo_cordobas.TabIndex = 249;
+            lbl_efectivo_cordobas.Text = "00.00";
+            // 
+            // lbl_efectivo_monedas
+            // 
+            lbl_efectivo_monedas.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
+            lbl_efectivo_monedas.AutoSize = true;
+            lbl_efectivo_monedas.Font = new Font("PMingLiU-ExtB", 11F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            lbl_efectivo_monedas.ForeColor = Color.FromArgb(64, 0, 0);
+            lbl_efectivo_monedas.Location = new Point(593, 217);
+            lbl_efectivo_monedas.Margin = new Padding(2, 0, 2, 0);
+            lbl_efectivo_monedas.Name = "lbl_efectivo_monedas";
+            lbl_efectivo_monedas.Size = new Size(55, 22);
+            lbl_efectivo_monedas.TabIndex = 248;
+            lbl_efectivo_monedas.Text = "00.00";
+            // 
+            // lbl_efectivo_otros
+            // 
+            lbl_efectivo_otros.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
+            lbl_efectivo_otros.AutoSize = true;
+            lbl_efectivo_otros.Font = new Font("PMingLiU-ExtB", 11F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            lbl_efectivo_otros.ForeColor = Color.FromArgb(64, 0, 0);
+            lbl_efectivo_otros.Location = new Point(593, 297);
+            lbl_efectivo_otros.Margin = new Padding(2, 0, 2, 0);
+            lbl_efectivo_otros.Name = "lbl_efectivo_otros";
+            lbl_efectivo_otros.Size = new Size(55, 22);
+            lbl_efectivo_otros.TabIndex = 247;
+            lbl_efectivo_otros.Text = "00.00";
+            // 
+            // lbl_efectivo_dolares
+            // 
+            lbl_efectivo_dolares.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
+            lbl_efectivo_dolares.AutoSize = true;
+            lbl_efectivo_dolares.Font = new Font("PMingLiU-ExtB", 11F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            lbl_efectivo_dolares.ForeColor = Color.FromArgb(64, 0, 0);
+            lbl_efectivo_dolares.Location = new Point(593, 91);
+            lbl_efectivo_dolares.Margin = new Padding(2, 0, 2, 0);
+            lbl_efectivo_dolares.Name = "lbl_efectivo_dolares";
+            lbl_efectivo_dolares.Size = new Size(55, 22);
+            lbl_efectivo_dolares.TabIndex = 245;
+            lbl_efectivo_dolares.Text = "00.00";
+            // 
+            // guna2ShadowPanel4
+            // 
+            guna2ShadowPanel4.BackColor = Color.Transparent;
+            guna2ShadowPanel4.Controls.Add(label40);
+            guna2ShadowPanel4.Controls.Add(label47);
+            guna2ShadowPanel4.Controls.Add(label48);
+            guna2ShadowPanel4.Controls.Add(lbl_total_caja);
+            guna2ShadowPanel4.FillColor = Color.FromArgb(217, 154, 170);
+            guna2ShadowPanel4.ForeColor = Color.FromArgb(110, 18, 32);
+            guna2ShadowPanel4.Location = new Point(4, 373);
+            guna2ShadowPanel4.Margin = new Padding(4, 5, 4, 5);
+            guna2ShadowPanel4.Name = "guna2ShadowPanel4";
+            guna2ShadowPanel4.Radius = 12;
+            guna2ShadowPanel4.ShadowColor = Color.Black;
+            guna2ShadowPanel4.Size = new Size(686, 86);
+            guna2ShadowPanel4.TabIndex = 241;
+            // 
+            // label40
+            // 
+            label40.AutoSize = true;
+            label40.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label40.ForeColor = Color.FromArgb(64, 0, 0);
+            label40.Location = new Point(22, 26);
+            label40.Margin = new Padding(4, 0, 4, 0);
+            label40.Name = "label40";
+            label40.Size = new Size(152, 28);
+            label40.TabIndex = 73;
+            label40.Text = "Total en caja ";
+            // 
+            // label47
+            // 
+            label47.AutoSize = true;
+            label47.Font = new Font("PMingLiU-ExtB", 10F);
+            label47.Location = new Point(421, -4);
+            label47.Margin = new Padding(4, 0, 4, 0);
+            label47.Name = "label47";
+            label47.Size = new Size(0, 20);
+            label47.TabIndex = 68;
+            // 
+            // label48
+            // 
+            label48.AutoSize = true;
+            label48.Font = new Font("PMingLiU-ExtB", 10F);
+            label48.Location = new Point(427, 52);
+            label48.Margin = new Padding(4, 0, 4, 0);
+            label48.Name = "label48";
+            label48.Size = new Size(0, 20);
+            label48.TabIndex = 61;
+            // 
+            // lbl_total_caja
+            // 
+            lbl_total_caja.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
+            lbl_total_caja.AutoSize = true;
+            lbl_total_caja.Font = new Font("PMingLiU-ExtB", 11F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            lbl_total_caja.ForeColor = Color.FromArgb(64, 0, 0);
+            lbl_total_caja.Location = new Point(589, 32);
+            lbl_total_caja.Margin = new Padding(2, 0, 2, 0);
+            lbl_total_caja.Name = "lbl_total_caja";
+            lbl_total_caja.Size = new Size(55, 22);
+            lbl_total_caja.TabIndex = 246;
+            lbl_total_caja.Text = "00.00";
+            // 
+            // label32
+            // 
+            label32.AutoSize = true;
+            label32.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label32.ForeColor = Color.Black;
+            label32.Location = new Point(26, 291);
+            label32.Margin = new Padding(4, 0, 4, 0);
+            label32.Name = "label32";
+            label32.Size = new Size(71, 28);
+            label32.TabIndex = 72;
+            label32.Text = "Otros";
+            label32.Click += label32_Click;
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label7.ForeColor = Color.Black;
+            label7.Location = new Point(25, 221);
+            label7.Margin = new Padding(4, 0, 4, 0);
+            label7.Name = "label7";
+            label7.Size = new Size(235, 28);
+            label7.TabIndex = 71;
+            label7.Text = "Efectivo en monedas";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label2.ForeColor = Color.Black;
+            label2.Location = new Point(25, 154);
+            label2.Margin = new Padding(4, 0, 4, 0);
+            label2.Name = "label2";
+            label2.Size = new Size(234, 28);
+            label2.TabIndex = 70;
+            label2.Text = "Efectivo en córdobas";
             // 
             // label9
             // 
@@ -876,199 +1048,27 @@
             label41.Size = new Size(0, 20);
             label41.TabIndex = 61;
             // 
-            // label2
+            // btn_imprimir_arqueo
             // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.ForeColor = Color.Black;
-            label2.Location = new Point(25, 154);
-            label2.Margin = new Padding(4, 0, 4, 0);
-            label2.Name = "label2";
-            label2.Size = new Size(234, 28);
-            label2.TabIndex = 70;
-            label2.Text = "Efectivo en córdobas";
-            // 
-            // label7
-            // 
-            label7.AutoSize = true;
-            label7.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label7.ForeColor = Color.Black;
-            label7.Location = new Point(25, 221);
-            label7.Margin = new Padding(4, 0, 4, 0);
-            label7.Name = "label7";
-            label7.Size = new Size(235, 28);
-            label7.TabIndex = 71;
-            label7.Text = "Efectivo en monedas";
-            // 
-            // label32
-            // 
-            label32.AutoSize = true;
-            label32.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label32.ForeColor = Color.Black;
-            label32.Location = new Point(26, 291);
-            label32.Margin = new Padding(4, 0, 4, 0);
-            label32.Name = "label32";
-            label32.Size = new Size(71, 28);
-            label32.TabIndex = 72;
-            label32.Text = "Otros";
-            label32.Click += label32_Click;
-            // 
-            // label40
-            // 
-            label40.AutoSize = true;
-            label40.Font = new Font("Book Antiqua", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label40.ForeColor = Color.FromArgb(64, 0, 0);
-            label40.Location = new Point(22, 26);
-            label40.Margin = new Padding(4, 0, 4, 0);
-            label40.Name = "label40";
-            label40.Size = new Size(152, 28);
-            label40.TabIndex = 73;
-            label40.Text = "Total en caja ";
-            // 
-            // guna2ShadowPanel4
-            // 
-            guna2ShadowPanel4.BackColor = Color.Transparent;
-            guna2ShadowPanel4.Controls.Add(label40);
-            guna2ShadowPanel4.Controls.Add(label47);
-            guna2ShadowPanel4.Controls.Add(label48);
-            guna2ShadowPanel4.Controls.Add(label33);
-            guna2ShadowPanel4.FillColor = Color.FromArgb(217, 154, 170);
-            guna2ShadowPanel4.ForeColor = Color.FromArgb(110, 18, 32);
-            guna2ShadowPanel4.Location = new Point(4, 373);
-            guna2ShadowPanel4.Margin = new Padding(4, 5, 4, 5);
-            guna2ShadowPanel4.Name = "guna2ShadowPanel4";
-            guna2ShadowPanel4.Radius = 12;
-            guna2ShadowPanel4.ShadowColor = Color.Black;
-            guna2ShadowPanel4.Size = new Size(686, 86);
-            guna2ShadowPanel4.TabIndex = 241;
-            // 
-            // label47
-            // 
-            label47.AutoSize = true;
-            label47.Font = new Font("PMingLiU-ExtB", 10F);
-            label47.Location = new Point(421, -4);
-            label47.Margin = new Padding(4, 0, 4, 0);
-            label47.Name = "label47";
-            label47.Size = new Size(0, 20);
-            label47.TabIndex = 68;
-            // 
-            // label48
-            // 
-            label48.AutoSize = true;
-            label48.Font = new Font("PMingLiU-ExtB", 10F);
-            label48.Location = new Point(427, 52);
-            label48.Margin = new Padding(4, 0, 4, 0);
-            label48.Name = "label48";
-            label48.Size = new Size(0, 20);
-            label48.TabIndex = 61;
-            // 
-            // lbl_cambioF
-            // 
-            lbl_cambioF.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
-            lbl_cambioF.AutoSize = true;
-            lbl_cambioF.Font = new Font("PMingLiU-ExtB", 11F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            lbl_cambioF.ForeColor = Color.FromArgb(64, 0, 0);
-            lbl_cambioF.Location = new Point(593, 91);
-            lbl_cambioF.Margin = new Padding(2, 0, 2, 0);
-            lbl_cambioF.Name = "lbl_cambioF";
-            lbl_cambioF.Size = new Size(55, 22);
-            lbl_cambioF.TabIndex = 245;
-            lbl_cambioF.Text = "00.00";
-            // 
-            // label33
-            // 
-            label33.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
-            label33.AutoSize = true;
-            label33.Font = new Font("PMingLiU-ExtB", 11F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label33.ForeColor = Color.FromArgb(64, 0, 0);
-            label33.Location = new Point(589, 32);
-            label33.Margin = new Padding(2, 0, 2, 0);
-            label33.Name = "label33";
-            label33.Size = new Size(55, 22);
-            label33.TabIndex = 246;
-            label33.Text = "00.00";
-            // 
-            // label34
-            // 
-            label34.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
-            label34.AutoSize = true;
-            label34.Font = new Font("PMingLiU-ExtB", 11F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label34.ForeColor = Color.FromArgb(64, 0, 0);
-            label34.Location = new Point(593, 297);
-            label34.Margin = new Padding(2, 0, 2, 0);
-            label34.Name = "label34";
-            label34.Size = new Size(55, 22);
-            label34.TabIndex = 247;
-            label34.Text = "00.00";
-            // 
-            // label35
-            // 
-            label35.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
-            label35.AutoSize = true;
-            label35.Font = new Font("PMingLiU-ExtB", 11F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label35.ForeColor = Color.FromArgb(64, 0, 0);
-            label35.Location = new Point(593, 217);
-            label35.Margin = new Padding(2, 0, 2, 0);
-            label35.Name = "label35";
-            label35.Size = new Size(55, 22);
-            label35.TabIndex = 248;
-            label35.Text = "00.00";
-            // 
-            // label37
-            // 
-            label37.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
-            label37.AutoSize = true;
-            label37.Font = new Font("PMingLiU-ExtB", 11F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label37.ForeColor = Color.FromArgb(64, 0, 0);
-            label37.Location = new Point(593, 158);
-            label37.Margin = new Padding(2, 0, 2, 0);
-            label37.Name = "label37";
-            label37.Size = new Size(55, 22);
-            label37.TabIndex = 249;
-            label37.Text = "00.00";
-            // 
-            // guna2Button1
-            // 
-            guna2Button1.BorderColor = Color.White;
-            guna2Button1.BorderRadius = 8;
-            guna2Button1.BorderThickness = 2;
-            guna2Button1.CustomizableEdges = customizableEdges4;
-            guna2Button1.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button1.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button1.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button1.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button1.FillColor = Color.FromArgb(110, 18, 32);
-            guna2Button1.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            guna2Button1.ForeColor = Color.White;
-            guna2Button1.Location = new Point(251, 482);
-            guna2Button1.Margin = new Padding(4, 5, 4, 5);
-            guna2Button1.Name = "guna2Button1";
-            guna2Button1.ShadowDecoration.CustomizableEdges = customizableEdges5;
-            guna2Button1.Size = new Size(226, 43);
-            guna2Button1.TabIndex = 201;
-            guna2Button1.Text = "Generar arqueo";
-            // 
-            // guna2Button2
-            // 
-            guna2Button2.BorderColor = Color.FromArgb(217, 154, 170);
-            guna2Button2.BorderRadius = 8;
-            guna2Button2.BorderThickness = 2;
-            guna2Button2.CustomizableEdges = customizableEdges6;
-            guna2Button2.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button2.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button2.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button2.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button2.FillColor = Color.FromArgb(248, 241, 242);
-            guna2Button2.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            guna2Button2.ForeColor = Color.Black;
-            guna2Button2.Location = new Point(1297, 678);
-            guna2Button2.Margin = new Padding(4, 5, 4, 5);
-            guna2Button2.Name = "guna2Button2";
-            guna2Button2.PressedColor = Color.FromArgb(64, 0, 0);
-            guna2Button2.ShadowDecoration.CustomizableEdges = customizableEdges7;
-            guna2Button2.Size = new Size(226, 72);
-            guna2Button2.TabIndex = 202;
-            guna2Button2.Text = "Imprimir arqueo";
+            btn_imprimir_arqueo.BorderColor = Color.FromArgb(217, 154, 170);
+            btn_imprimir_arqueo.BorderRadius = 8;
+            btn_imprimir_arqueo.BorderThickness = 2;
+            btn_imprimir_arqueo.CustomizableEdges = customizableEdges13;
+            btn_imprimir_arqueo.DisabledState.BorderColor = Color.DarkGray;
+            btn_imprimir_arqueo.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_imprimir_arqueo.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_imprimir_arqueo.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_imprimir_arqueo.FillColor = Color.FromArgb(248, 241, 242);
+            btn_imprimir_arqueo.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btn_imprimir_arqueo.ForeColor = Color.Black;
+            btn_imprimir_arqueo.Location = new Point(1297, 678);
+            btn_imprimir_arqueo.Margin = new Padding(4, 5, 4, 5);
+            btn_imprimir_arqueo.Name = "btn_imprimir_arqueo";
+            btn_imprimir_arqueo.PressedColor = Color.FromArgb(64, 0, 0);
+            btn_imprimir_arqueo.ShadowDecoration.CustomizableEdges = customizableEdges14;
+            btn_imprimir_arqueo.Size = new Size(226, 72);
+            btn_imprimir_arqueo.TabIndex = 202;
+            btn_imprimir_arqueo.Text = "Imprimir arqueo";
             // 
             // Frm_arqueo
             // 
@@ -1076,7 +1076,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(248, 241, 242);
             ClientSize = new Size(1556, 863);
-            Controls.Add(guna2Button2);
+            Controls.Add(btn_imprimir_arqueo);
             Controls.Add(guna2ShadowPanel3);
             Controls.Add(guna2ShadowPanel2);
             Controls.Add(guna2Panel1);
@@ -1088,12 +1088,12 @@
             Name = "Frm_arqueo";
             Text = "Frm_arqueo";
             Load += Frm_arqueo_Load;
-            ((System.ComponentModel.ISupportInitialize)numericUpDown14).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown13).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown12).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown11).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown10).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown9).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_100_dolares).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_50_dolares).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_20_dolares).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_10_dolares).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_5_dolares).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_1_dolar).EndInit();
             guna2Panel1.ResumeLayout(false);
             guna2Panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
@@ -1101,17 +1101,17 @@
             ((System.ComponentModel.ISupportInitialize)guna2CirclePictureBox1).EndInit();
             guna2ShadowPanel2.ResumeLayout(false);
             guna2ShadowPanel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown2).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown3).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown4).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown5).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown6).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown7).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown8).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown15).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown16).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown17).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_5_monedas).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_1_moneda).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_centavos).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_centavos_2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_10_cordobas).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_1000_cordobas).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_500_cordobas).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_200_cordobas).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_100_cordobas).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_50_cordobas).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_20_cordobas).EndInit();
             guna2ShadowPanel3.ResumeLayout(false);
             guna2ShadowPanel3.PerformLayout();
             guna2ShadowPanel4.ResumeLayout(false);
@@ -1121,12 +1121,12 @@
 
         #endregion
         private Label label36;
-        private NumericUpDown numericUpDown14;
-        private NumericUpDown numericUpDown13;
-        private NumericUpDown numericUpDown12;
-        private NumericUpDown numericUpDown11;
-        private NumericUpDown numericUpDown10;
-        private NumericUpDown numericUpDown9;
+        private NumericUpDown numeric_100_dolares;
+        private NumericUpDown numeric_50_dolares;
+        private NumericUpDown numeric_20_dolares;
+        private NumericUpDown numeric_10_dolares;
+        private NumericUpDown numeric_5_dolares;
+        private NumericUpDown numeric_1_dolar;
         private Label label26;
         private Label label25;
         private Label label24;
@@ -1151,29 +1151,29 @@
         private Panel panel4;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
         private PictureBox pictureBox4;
-        private Label label3;
+        private Label lbl_fecha;
         private PictureBox pictureBox3;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
         private Label label4;
         private Label label5;
-        private Label label6;
+        private Label lbl_usuario;
         private Guna.UI2.WinForms.Guna2ShadowPanel guna2ShadowPanel2;
         private Label label20;
         private Label label29;
         private Label label27;
         private Label label30;
         private Label label28;
-        private NumericUpDown numericUpDown1;
-        private NumericUpDown numericUpDown2;
-        private NumericUpDown numericUpDown3;
-        private NumericUpDown numericUpDown4;
-        private NumericUpDown numericUpDown5;
-        private NumericUpDown numericUpDown6;
-        private NumericUpDown numericUpDown7;
-        private NumericUpDown numericUpDown8;
-        private NumericUpDown numericUpDown15;
-        private NumericUpDown numericUpDown16;
-        private NumericUpDown numericUpDown17;
+        private NumericUpDown numeric_1000_cordobas;
+        private NumericUpDown numeric_500_cordobas;
+        private NumericUpDown numeric_200_cordobas;
+        private NumericUpDown numeric_100_cordobas;
+        private NumericUpDown numeric_50_cordobas;
+        private NumericUpDown numeric_20_cordobas;
+        private NumericUpDown numeric_5_monedas;
+        private NumericUpDown numeric_1_moneda;
+        private NumericUpDown numeric_centavos;
+        private NumericUpDown numeric_centavos_2;
+        private NumericUpDown numeric_10_cordobas;
         private Guna.UI2.WinForms.Guna2ShadowPanel guna2ShadowPanel3;
         private Label label9;
         private Label label31;
@@ -1185,12 +1185,12 @@
         private Guna.UI2.WinForms.Guna2ShadowPanel guna2ShadowPanel4;
         private Label label47;
         private Label label48;
-        private Label label37;
-        private Label label35;
-        private Label label34;
-        private Label lbl_cambioF;
-        private Label label33;
-        private Guna.UI2.WinForms.Guna2Button guna2Button1;
-        private Guna.UI2.WinForms.Guna2Button guna2Button2;
+        private Label lbl_efectivo_cordobas;
+        private Label lbl_efectivo_monedas;
+        private Label lbl_efectivo_otros;
+        private Label lbl_efectivo_dolares;
+        private Label lbl_total_caja;
+        private Guna.UI2.WinForms.Guna2Button btn_generar_arqueo;
+        private Guna.UI2.WinForms.Guna2Button btn_imprimir_arqueo;
     }
 }
