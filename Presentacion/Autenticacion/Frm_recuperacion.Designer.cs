@@ -138,7 +138,7 @@
             txtbox_correo_electronico.Size = new Size(511, 45);
             txtbox_correo_electronico.TabIndex = 26;
             txtbox_correo_electronico.TextOffset = new Point(10, 0);
-            txtbox_correo_electronico.TextChanged += guna2TextBox1_TextChanged;
+           
             // 
             // label5
             // 

@@ -35,7 +35,13 @@
 
   <ItemGroup>
     <Folder Include="Datos\" />
-    <Folder Include="Negocios\" />
+    <Folder Include="Negocios\Caja\" />
+    <Folder Include="Negocios\Compras\" />
+    <Folder Include="Negocios\Mantenimiento\" />
+    <Folder Include="Negocios\Ventas\" />
+    <Folder Include="Negocios\Reportes\" />
+    <Folder Include="Negocios\Productos\" />
+    <Folder Include="Negocios\Principal\" />
   </ItemGroup>
 
 </Project>
