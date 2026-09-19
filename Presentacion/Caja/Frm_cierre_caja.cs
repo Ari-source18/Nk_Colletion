@@ -13,6 +13,7 @@ namespace NK_COLLECTION.Presentacion.Caja
         public Frm_cierre_caja()
         {
             InitializeComponent();
+            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
         }
 
         private void Frm_cierre_caja_Load(object sender, EventArgs e)

@@ -13,6 +13,7 @@ namespace NK_COLLECTION.Presentacion.Ventas
         public Frm_credito()
         {
             InitializeComponent();
+            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
         }
     }
 }

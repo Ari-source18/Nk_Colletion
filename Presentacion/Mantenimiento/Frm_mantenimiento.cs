@@ -13,6 +13,7 @@ namespace NK_COLLECTION.Presentacion.Mantenimiento
         public Frm_mantenimiento()
         {
             InitializeComponent();
+            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
         }
 
         private void label6_Click(object sender, EventArgs e)

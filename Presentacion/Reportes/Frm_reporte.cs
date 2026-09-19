@@ -13,6 +13,7 @@ namespace NK_COLLECTION.Presentacion.Reportes
         public Frm_reporte()
         {
             InitializeComponent();
+            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
         }
     }
 }

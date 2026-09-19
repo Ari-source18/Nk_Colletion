@@ -1,4 +1,4 @@
-﻿namespace NK_COLLECTION.Presentacion.Catalogos
+namespace NK_COLLECTION.Presentacion.Catalogos
 {
     partial class Frm_clientes
     {
@@ -705,6 +705,7 @@
             cmb_estado.Font = new Font("Segoe UI", 10F);
             cmb_estado.ForeColor = Color.FromArgb(68, 88, 112);
             cmb_estado.ItemHeight = 30;
+            cmb_estado.Items.AddRange(new object[] { "Activo", "Inactivo" });
             cmb_estado.Location = new Point(932, 188);
             cmb_estado.Margin = new Padding(4, 5, 4, 5);
             cmb_estado.Name = "cmb_estado";
@@ -1119,6 +1120,7 @@
             cmb_estado_editar.Font = new Font("Segoe UI", 10F);
             cmb_estado_editar.ForeColor = Color.FromArgb(68, 88, 112);
             cmb_estado_editar.ItemHeight = 30;
+            cmb_estado_editar.Items.AddRange(new object[] { "Activo", "Inactivo" });
             cmb_estado_editar.Location = new Point(900, 188);
             cmb_estado_editar.Margin = new Padding(4, 5, 4, 5);
             cmb_estado_editar.Name = "cmb_estado_editar";

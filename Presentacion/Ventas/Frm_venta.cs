@@ -13,6 +13,7 @@ namespace NK_COLLECTION.Presentacion.Ventas
         public Frm_venta()
         {
             InitializeComponent();
+            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
         }
 
         private void Frm_venta_Load(object sender, EventArgs e)

@@ -13,6 +13,7 @@ namespace NK_COLLECTION.Presentacion.Caja
         public Frm_control_egresos()
         {
             InitializeComponent();
+            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
         }
     }
 }

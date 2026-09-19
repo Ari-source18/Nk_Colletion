@@ -13,6 +13,7 @@ namespace NK_COLLECTION.Presentacion.Caja
         public Frm_arqueo()
         {
             InitializeComponent();
+            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)

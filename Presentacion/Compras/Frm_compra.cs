@@ -13,6 +13,7 @@ namespace NK_COLLECTION.Presentacion.Compras
         public Frm_compra()
         {
             InitializeComponent();
+            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
         }
 
         private void guna2TextBox3_TextChanged(object sender, EventArgs e)

@@ -1,4 +1,4 @@
-using Guna.UI2.WinForms;
+﻿using Guna.UI2.WinForms;
 using NK_COLLECTION.Datos.Modelos;
 using NK_COLLECTION.Datos;
 using NK_COLLECTION.Negocios.Catalogos;
@@ -22,6 +22,7 @@ namespace NK_COLLECTION.Presentacion.Catalogos
         public Frm_usuario(UsuarioService usuarioServicio)
         {
             InitializeComponent();
+            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
 
             _usuarioServicio = usuarioServicio;
 

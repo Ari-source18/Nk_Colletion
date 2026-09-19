@@ -13,6 +13,7 @@ namespace NK_COLLECTION.Presentacion.Caja
         public Caja_principal()
         {
             InitializeComponent();
+            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
         }
 
         private void Caja_principal_Load(object sender, EventArgs e)
