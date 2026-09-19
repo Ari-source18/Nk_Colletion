@@ -1,5 +1,6 @@
-﻿using Guna.UI2.WinForms;
+using Guna.UI2.WinForms;
 using NK_COLLECTION.Datos.Modelos;
+using NK_COLLECTION.Datos;
 using NK_COLLECTION.Negocios.Catalogos;
 
 namespace NK_COLLECTION.Presentacion.Catalogos
@@ -13,6 +14,10 @@ namespace NK_COLLECTION.Presentacion.Catalogos
 
         private int _idUsuarioEditar = 0;
         private bool _estadoActualEditar = true;
+
+        public Frm_usuario() : this(new UsuarioService(DbConfiguracion.Options))
+        {
+        }
 
         public Frm_usuario(UsuarioService usuarioServicio)
         {

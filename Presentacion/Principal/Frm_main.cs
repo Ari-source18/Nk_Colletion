@@ -1,4 +1,3 @@
-﻿using NK_COLLECTION.Negocios.Catalogos;
 using NK_COLLECTION.Presentacion.Caja;
 using NK_COLLECTION.Presentacion.Catalogos;
 using NK_COLLECTION.Presentacion.Compras;
@@ -6,32 +5,21 @@ using NK_COLLECTION.Presentacion.Mantenimiento;
 using NK_COLLECTION.Presentacion.Productos;
 using NK_COLLECTION.Presentacion.Reportes;
 using NK_COLLECTION.Presentacion.Ventas;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Text;
-using System.Windows.Forms;
+
 
 
 namespace NK_COLLECTION.Presentacion.Principal
 {
-    
+
     public partial class Frm_main : Form
     {
-        private readonly UsuarioService _usuarioService;
+       
+
+ 
+        // Nuevo constructor que recibe el servicio de usuarios
         public Frm_main()
         {
             InitializeComponent();
-        }
-
-        // Nuevo constructor que recibe el servicio de usuarios
-        public Frm_main(UsuarioService usuarioService)
-        {
-            InitializeComponent();
-
-            _usuarioService = usuarioService;
         }
 
         public void AbrirFormularioEnPanel(Form formulario)
@@ -65,7 +53,8 @@ namespace NK_COLLECTION.Presentacion.Principal
 
         private void btn_usuarios_Click(object sender, EventArgs e)
         {
-            AbrirFormularioEnPanel(new Frm_usuario(_usuarioService));
+           
+            AbrirFormularioEnPanel(new Frm_usuario());
         }
 
         private void btn_clientes_Click(object sender, EventArgs e)
@@ -80,7 +69,8 @@ namespace NK_COLLECTION.Presentacion.Principal
 
         private void btncategoria_Click(object sender, EventArgs e)
         {
-            AbrirFormularioEnPanel(new Frm_categoria());
+         
+           //AbrirFormularioEnPanel(new Frm_categoria());
         }
 
         private void btncompras_Click(object sender, EventArgs e)

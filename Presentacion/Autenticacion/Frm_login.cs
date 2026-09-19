@@ -101,7 +101,7 @@ namespace NK_COLLECTION
                     MessageBoxIcon.Information
                 );
 
-                var principal = new Frm_main(_usuarioService);
+                var principal = new Frm_main();
 
                 principal.FormClosed += (_, _) => Close();
 

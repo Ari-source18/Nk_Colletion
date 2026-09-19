@@ -22,6 +22,8 @@ namespace NK_COLLECTION
                     )
                     .Options;
 
+            DbConfiguracion.Inicializar(options);
+
             var servicioAuth =
                 new ServicioAuth(options);
 
@@ -30,6 +32,7 @@ namespace NK_COLLECTION
 
             var usuarioService =
                 new NK_COLLECTION.Negocios.Catalogos.UsuarioService(options);
+         
 
             Application.Run(
                 new Frm_login(
