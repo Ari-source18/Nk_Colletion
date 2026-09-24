@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_recuperacion));
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             label4 = new Label();
             pictureBox2 = new PictureBox();
             panel1 = new Panel();
@@ -117,7 +117,7 @@
             // txtbox_correo_electronico
             // 
             txtbox_correo_electronico.BackColor = Color.Transparent;
-            txtbox_correo_electronico.CustomizableEdges = customizableEdges5;
+            txtbox_correo_electronico.CustomizableEdges = customizableEdges1;
             txtbox_correo_electronico.DefaultText = "Correo electrónico";
             txtbox_correo_electronico.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txtbox_correo_electronico.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
@@ -134,11 +134,10 @@
             txtbox_correo_electronico.Name = "txtbox_correo_electronico";
             txtbox_correo_electronico.PlaceholderText = "";
             txtbox_correo_electronico.SelectedText = "";
-            txtbox_correo_electronico.ShadowDecoration.CustomizableEdges = customizableEdges6;
+            txtbox_correo_electronico.ShadowDecoration.CustomizableEdges = customizableEdges2;
             txtbox_correo_electronico.Size = new Size(511, 45);
             txtbox_correo_electronico.TabIndex = 26;
             txtbox_correo_electronico.TextOffset = new Point(10, 0);
-            txtbox_correo_electronico.TextChanged += guna2TextBox1_TextChanged;
             // 
             // label5
             // 
@@ -154,7 +153,7 @@
             // 
             // btn_ingresar
             // 
-            btn_ingresar.CustomizableEdges = customizableEdges7;
+            btn_ingresar.CustomizableEdges = customizableEdges3;
             btn_ingresar.DisabledState.BorderColor = Color.DarkGray;
             btn_ingresar.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_ingresar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
@@ -165,7 +164,7 @@
             btn_ingresar.ImageAlign = HorizontalAlignment.Left;
             btn_ingresar.Location = new Point(251, 421);
             btn_ingresar.Name = "btn_ingresar";
-            btn_ingresar.ShadowDecoration.CustomizableEdges = customizableEdges8;
+            btn_ingresar.ShadowDecoration.CustomizableEdges = customizableEdges4;
             btn_ingresar.Size = new Size(200, 44);
             btn_ingresar.TabIndex = 28;
             btn_ingresar.Text = "Enviar enlace";
@@ -181,6 +180,7 @@
             linklbl_volver.TabIndex = 29;
             linklbl_volver.TabStop = true;
             linklbl_volver.Text = "←     Volver a la pantalla anterior";
+            linklbl_volver.LinkClicked += linklbl_volver_LinkClicked_1;
             // 
             // Frm_recuperacion
             // 

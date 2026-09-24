@@ -2,1439 +2,997 @@
 {
     partial class Frm_producto
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
-            {
                 components.Dispose();
-            }
             base.Dispose(disposing);
         }
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges54 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges55 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_producto));
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges53 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges56 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges57 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges58 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges59 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges60 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges61 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges62 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges63 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            DataGridViewCellStyle dataGridViewCellStyle10 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle11 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle12 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle13 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle14 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle15 = new DataGridViewCellStyle();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges64 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges65 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges66 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges67 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges68 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges69 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges70 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges71 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges72 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges73 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges74 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges75 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges76 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges77 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges78 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges79 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges80 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges81 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges82 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges83 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges84 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            DataGridViewCellStyle dataGridViewCellStyle16 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle17 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle18 = new DataGridViewCellStyle();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges85 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges86 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges87 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges88 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges89 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges90 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges91 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges92 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges93 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges94 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges95 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges96 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges97 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges98 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges99 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges100 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges101 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges102 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges103 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges104 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            panel1 = new Panel();
-            panel2 = new Panel();
-            panel3 = new Panel();
-            panel4 = new Panel();
-            guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
-            pictureBox4 = new PictureBox();
-            label1 = new Label();
-            pictureBox3 = new PictureBox();
-            guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            label2 = new Label();
-            label6 = new Label();
-            label11 = new Label();
-            guna2ShadowPanel1 = new Guna.UI2.WinForms.Guna2ShadowPanel();
-            tabControl1 = new TabControl();
-            tabpag_producto = new TabPage();
-            lbl_total_productos = new Label();
-            btn_mostrar = new Guna.UI2.WinForms.Guna2Button();
-            btn_guardar_producto = new Guna.UI2.WinForms.Guna2Button();
-            btn_buscar = new Guna.UI2.WinForms.Guna2Button();
-            lbl_buscar = new Label();
-            CBbuscarpor = new ComboBox();
-            btn_limpiar = new Guna.UI2.WinForms.Guna2Button();
-            dgw_producto = new Guna.UI2.WinForms.Guna2DataGridView();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges11 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges12 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges13 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges14 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges15 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges16 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges23 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges24 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges17 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges18 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges19 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges20 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges21 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges22 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges25 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges26 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges27 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges28 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges29 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges30 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges31 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges32 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges33 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges34 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges35 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges36 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges37 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges38 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
+            pnlEncabezado = new Guna.UI2.WinForms.Guna2Panel();
+            btnVerTodos = new Guna.UI2.WinForms.Guna2Button();
+            btnColores = new Guna.UI2.WinForms.Guna2Button();
+            btnTallas = new Guna.UI2.WinForms.Guna2Button();
+            btnMarcas = new Guna.UI2.WinForms.Guna2Button();
+            btnCategorias = new Guna.UI2.WinForms.Guna2Button();
+            lblSubtitulo = new Label();
+            lblTitulo = new Label();
+            pnlRegistro = new Guna.UI2.WinForms.Guna2ShadowPanel();
+            btnGuardarProducto = new Guna.UI2.WinForms.Guna2Button();
+            btnLimpiar = new Guna.UI2.WinForms.Guna2Button();
+            pnlVariante = new Guna.UI2.WinForms.Guna2Panel();
+            btnAgregarVariante = new Guna.UI2.WinForms.Guna2Button();
+            nudPrecioVenta = new NumericUpDown();
+            nudPrecioCompra = new NumericUpDown();
+            nudStockMinimo = new NumericUpDown();
+            nudStock = new NumericUpDown();
+            cmbColor = new Guna.UI2.WinForms.Guna2ComboBox();
+            cmbTalla = new Guna.UI2.WinForms.Guna2ComboBox();
+            lblPrecioVenta = new Label();
+            lblPrecioCompra = new Label();
+            lblStockMinimo = new Label();
+            lblStock = new Label();
+            lblColor = new Label();
+            lblTalla = new Label();
+            lblVariante = new Label();
+            cmbMarca = new Guna.UI2.WinForms.Guna2ComboBox();
+            lblMarca = new Label();
+            cmbCategoria = new Guna.UI2.WinForms.Guna2ComboBox();
+            lblCategoria = new Label();
+            txtDescripcion = new Guna.UI2.WinForms.Guna2TextBox();
+            lblDescripcion = new Label();
+            txtNombre = new Guna.UI2.WinForms.Guna2TextBox();
+            lblNombre = new Label();
+            lblRegistrarAyuda = new Label();
+            lblRegistrar = new Label();
+            pnlResumen = new Guna.UI2.WinForms.Guna2ShadowPanel();
+            btnAgregarVariantesExistente = new Guna.UI2.WinForms.Guna2Button();
+            txtBuscarResumen = new Guna.UI2.WinForms.Guna2TextBox();
+            cmbOrdenResumen = new Guna.UI2.WinForms.Guna2ComboBox();
+            lblOrdenResumen = new Label();
+            lblResumenTotal = new Label();
+            lblResumen = new Label();
+            dgvResumen = new Guna.UI2.WinForms.Guna2DataGridView();
+            colIdProducto = new DataGridViewTextBoxColumn();
+            colProducto = new DataGridViewTextBoxColumn();
+            colMarcaResumen = new DataGridViewTextBoxColumn();
+            colCategoriaResumen = new DataGridViewTextBoxColumn();
+            colVariantesResumen = new DataGridViewTextBoxColumn();
+            colStockResumen = new DataGridViewTextBoxColumn();
+            colPrecioResumen = new DataGridViewTextBoxColumn();
             Column1 = new DataGridViewTextBoxColumn();
-            Column2 = new DataGridViewTextBoxColumn();
-            Column3 = new DataGridViewTextBoxColumn();
-            Column6 = new DataGridViewTextBoxColumn();
-            Column4 = new DataGridViewTextBoxColumn();
-            Column5 = new DataGridViewTextBoxColumn();
-            label3 = new Label();
-            tabpag_producto_nuevo = new TabPage();
-            dgvProductosnuevo = new Guna.UI2.WinForms.Guna2DataGridView();
-            label5 = new Label();
-            cmb_color = new Guna.UI2.WinForms.Guna2ComboBox();
-            txtproducto = new Guna.UI2.WinForms.Guna2TextBox();
-            cmb_talla = new Guna.UI2.WinForms.Guna2ComboBox();
-            label16 = new Label();
-            label15 = new Label();
-            cmbcategoria = new Guna.UI2.WinForms.Guna2ComboBox();
-            btnbuscar = new Guna.UI2.WinForms.Guna2CircleButton();
-            txtprecioventa = new Guna.UI2.WinForms.Guna2TextBox();
-            cmbmarca = new Guna.UI2.WinForms.Guna2ComboBox();
-            lbl_categoria = new Label();
-            btn_cancelar = new Guna.UI2.WinForms.Guna2Button();
-            btn_guardar = new Guna.UI2.WinForms.Guna2Button();
-            label9 = new Label();
-            lbl_stock_minimo = new Label();
-            lbl_tipo_producto = new Label();
-            lbl_codigo = new Label();
-            lbl_marca = new Label();
-            txtstockmin = new Guna.UI2.WinForms.Guna2TextBox();
-            txtcodigo = new Guna.UI2.WinForms.Guna2TextBox();
-            label17 = new Label();
-            tabpag_producto_editar = new TabPage();
-            dgw_producto_editar = new Guna.UI2.WinForms.Guna2DataGridView();
-            label14 = new Label();
-            cmb_color_editar = new Guna.UI2.WinForms.Guna2ComboBox();
-            cmb_tipo_producto_editar = new Guna.UI2.WinForms.Guna2TextBox();
-            cmb_talla_editar = new Guna.UI2.WinForms.Guna2ComboBox();
-            label18 = new Label();
-            label19 = new Label();
-            cmb_categoria_editar = new Guna.UI2.WinForms.Guna2ComboBox();
-            txtbox_precio_venta_editar = new Guna.UI2.WinForms.Guna2TextBox();
-            cmb_marca_editar = new Guna.UI2.WinForms.Guna2ComboBox();
-            label20 = new Label();
-            btn_cancelar_Editar = new Guna.UI2.WinForms.Guna2Button();
-            btn_guardar_editar = new Guna.UI2.WinForms.Guna2Button();
-            label21 = new Label();
-            label22 = new Label();
-            label23 = new Label();
-            lbl_codigo_editar = new Label();
-            label26 = new Label();
-            txtbox_stockmin_editar = new Guna.UI2.WinForms.Guna2TextBox();
-            txtbox_codigo_editar = new Guna.UI2.WinForms.Guna2TextBox();
-            label27 = new Label();
-            guna2Panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)guna2CirclePictureBox1).BeginInit();
-            guna2ShadowPanel1.SuspendLayout();
-            tabControl1.SuspendLayout();
-            tabpag_producto.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dgw_producto).BeginInit();
-            tabpag_producto_nuevo.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dgvProductosnuevo).BeginInit();
-            tabpag_producto_editar.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dgw_producto_editar).BeginInit();
+            colEstadoResumen = new DataGridViewTextBoxColumn();
+            pnlEncabezado.SuspendLayout();
+            pnlRegistro.SuspendLayout();
+            pnlVariante.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)nudPrecioVenta).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)nudPrecioCompra).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)nudStockMinimo).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)nudStock).BeginInit();
+            pnlResumen.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dgvResumen).BeginInit();
             SuspendLayout();
             // 
-            // panel1
+            // pnlEncabezado
             // 
-            panel1.BackColor = Color.FromArgb(64, 0, 0);
-            panel1.Dock = DockStyle.Top;
-            panel1.Location = new Point(0, 0);
-            panel1.Name = "panel1";
-            panel1.Size = new Size(1556, 10);
-            panel1.TabIndex = 166;
+            pnlEncabezado.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            pnlEncabezado.BackColor = Color.FromArgb(248, 241, 242);
+            pnlEncabezado.BorderRadius = 12;
+            pnlEncabezado.Controls.Add(btnVerTodos);
+            pnlEncabezado.Controls.Add(btnColores);
+            pnlEncabezado.Controls.Add(btnTallas);
+            pnlEncabezado.Controls.Add(btnMarcas);
+            pnlEncabezado.Controls.Add(btnCategorias);
+            pnlEncabezado.Controls.Add(lblSubtitulo);
+            pnlEncabezado.Controls.Add(lblTitulo);
+            pnlEncabezado.CustomizableEdges = customizableEdges11;
+            pnlEncabezado.FillColor = Color.White;
+            pnlEncabezado.Location = new Point(0, 0);
+            pnlEncabezado.Name = "pnlEncabezado";
+            pnlEncabezado.ShadowDecoration.CustomizableEdges = customizableEdges12;
+            pnlEncabezado.Size = new Size(1556, 105);
+            pnlEncabezado.TabIndex = 2;
             // 
-            // panel2
+            // btnVerTodos
             // 
-            panel2.BackColor = Color.FromArgb(64, 0, 0);
-            panel2.Dock = DockStyle.Right;
-            panel2.Location = new Point(1546, 10);
-            panel2.Name = "panel2";
-            panel2.Size = new Size(10, 853);
-            panel2.TabIndex = 167;
+            btnVerTodos.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            btnVerTodos.BorderRadius = 8;
+            btnVerTodos.CustomizableEdges = customizableEdges1;
+            btnVerTodos.FillColor = Color.FromArgb(64, 0, 0);
+            btnVerTodos.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnVerTodos.ForeColor = Color.White;
+            btnVerTodos.HoverState.FillColor = Color.FromArgb(88, 18, 24);
+            btnVerTodos.HoverState.ForeColor = Color.White;
+            btnVerTodos.Location = new Point(1307, 34);
+            btnVerTodos.Name = "btnVerTodos";
+            btnVerTodos.ShadowDecoration.CustomizableEdges = customizableEdges2;
+            btnVerTodos.Size = new Size(237, 45);
+            btnVerTodos.TabIndex = 0;
+            btnVerTodos.Text = "Ver todos los productos";
+            btnVerTodos.Click += btnVerTodos_Click;
             // 
-            // panel3
+            // btnColores
             // 
-            panel3.BackColor = Color.FromArgb(64, 0, 0);
-            panel3.Dock = DockStyle.Left;
-            panel3.Location = new Point(0, 10);
-            panel3.Name = "panel3";
-            panel3.Size = new Size(10, 853);
-            panel3.TabIndex = 169;
+            btnColores.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            btnColores.BorderRadius = 8;
+            btnColores.CustomizableEdges = customizableEdges3;
+            btnColores.FillColor = Color.FromArgb(103, 53, 62);
+            btnColores.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnColores.ForeColor = Color.White;
+            btnColores.HoverState.FillColor = Color.FromArgb(119, 68, 76);
+            btnColores.HoverState.ForeColor = Color.White;
+            btnColores.Location = new Point(1169, 34);
+            btnColores.Name = "btnColores";
+            btnColores.ShadowDecoration.CustomizableEdges = customizableEdges4;
+            btnColores.Size = new Size(132, 45);
+            btnColores.TabIndex = 1;
+            btnColores.Text = "Nuevo color";
+            btnColores.Click += btnColores_Click;
             // 
-            // panel4
+            // btnTallas
             // 
-            panel4.BackColor = Color.FromArgb(64, 0, 0);
-            panel4.Dock = DockStyle.Bottom;
-            panel4.Location = new Point(10, 853);
-            panel4.Name = "panel4";
-            panel4.Size = new Size(1536, 10);
-            panel4.TabIndex = 170;
+            btnTallas.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            btnTallas.BorderRadius = 8;
+            btnTallas.CustomizableEdges = customizableEdges5;
+            btnTallas.FillColor = Color.FromArgb(103, 53, 62);
+            btnTallas.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnTallas.ForeColor = Color.White;
+            btnTallas.HoverState.FillColor = Color.FromArgb(119, 68, 76);
+            btnTallas.HoverState.ForeColor = Color.White;
+            btnTallas.Location = new Point(1037, 34);
+            btnTallas.Name = "btnTallas";
+            btnTallas.ShadowDecoration.CustomizableEdges = customizableEdges6;
+            btnTallas.Size = new Size(126, 45);
+            btnTallas.TabIndex = 2;
+            btnTallas.Text = "Nueva talla";
+            btnTallas.Click += btnTallas_Click;
             // 
-            // guna2Panel1
+            // btnMarcas
             // 
-            guna2Panel1.BackColor = Color.FromArgb(244, 246, 249);
-            guna2Panel1.BorderRadius = 15;
-            guna2Panel1.Controls.Add(pictureBox4);
-            guna2Panel1.Controls.Add(label1);
-            guna2Panel1.Controls.Add(pictureBox3);
-            guna2Panel1.Controls.Add(guna2CirclePictureBox1);
-            guna2Panel1.Controls.Add(label2);
-            guna2Panel1.Controls.Add(label6);
-            guna2Panel1.Controls.Add(label11);
-            guna2Panel1.CustomizableEdges = customizableEdges54;
-            guna2Panel1.FillColor = Color.White;
-            guna2Panel1.Location = new Point(25, 16);
-            guna2Panel1.Name = "guna2Panel1";
-            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges55;
-            guna2Panel1.Size = new Size(1506, 99);
-            guna2Panel1.TabIndex = 238;
+            btnMarcas.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            btnMarcas.BorderRadius = 8;
+            btnMarcas.CustomizableEdges = customizableEdges7;
+            btnMarcas.FillColor = Color.FromArgb(103, 53, 62);
+            btnMarcas.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnMarcas.ForeColor = Color.White;
+            btnMarcas.HoverState.FillColor = Color.FromArgb(119, 68, 76);
+            btnMarcas.HoverState.ForeColor = Color.White;
+            btnMarcas.Location = new Point(873, 34);
+            btnMarcas.Name = "btnMarcas";
+            btnMarcas.ShadowDecoration.CustomizableEdges = customizableEdges8;
+            btnMarcas.Size = new Size(154, 45);
+            btnMarcas.TabIndex = 3;
+            btnMarcas.Text = "Nueva marca";
+            btnMarcas.Click += btnMarcas_Click;
             // 
-            // pictureBox4
+            // btnCategorias
             // 
-            pictureBox4.BackColor = Color.Transparent;
-            pictureBox4.Image = Properties.Resources.icons8_fecha_50;
-            pictureBox4.Location = new Point(1311, 31);
-            pictureBox4.Name = "pictureBox4";
-            pictureBox4.Size = new Size(36, 33);
-            pictureBox4.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox4.TabIndex = 55;
-            pictureBox4.TabStop = false;
+            btnCategorias.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            btnCategorias.BorderRadius = 8;
+            btnCategorias.CustomizableEdges = customizableEdges9;
+            btnCategorias.FillColor = Color.FromArgb(103, 53, 62);
+            btnCategorias.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnCategorias.ForeColor = Color.White;
+            btnCategorias.HoverState.FillColor = Color.FromArgb(119, 68, 76);
+            btnCategorias.HoverState.ForeColor = Color.White;
+            btnCategorias.Location = new Point(689, 34);
+            btnCategorias.Name = "btnCategorias";
+            btnCategorias.ShadowDecoration.CustomizableEdges = customizableEdges10;
+            btnCategorias.Size = new Size(178, 45);
+            btnCategorias.TabIndex = 4;
+            btnCategorias.Text = "Nueva categoría";
+            btnCategorias.Click += btnCategorias_Click;
             // 
-            // label1
+            // lblSubtitulo
             // 
-            label1.AutoSize = true;
-            label1.BackColor = Color.Transparent;
-            label1.Font = new Font("PMingLiU-ExtB", 10F);
-            label1.Location = new Point(1369, 36);
-            label1.Name = "label1";
-            label1.Size = new Size(57, 20);
-            label1.TabIndex = 54;
-            label1.Text = "Fecha:";
+            lblSubtitulo.AutoSize = true;
+            lblSubtitulo.Font = new Font("Book Antiqua", 9.5F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblSubtitulo.ForeColor = Color.FromArgb(100, 83, 86);
+            lblSubtitulo.Location = new Point(38, 65);
+            lblSubtitulo.Name = "lblSubtitulo";
+            lblSubtitulo.Size = new Size(550, 23);
+            lblSubtitulo.TabIndex = 5;
+            lblSubtitulo.Text = "Registra productos y consulta la vista general agrupada por ID.";
             // 
-            // pictureBox3
+            // lblTitulo
             // 
-            pictureBox3.BackColor = Color.Transparent;
-            pictureBox3.Image = Properties.Resources.icons8_usuario_32;
-            pictureBox3.Location = new Point(1122, 22);
-            pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(36, 42);
-            pictureBox3.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox3.TabIndex = 53;
-            pictureBox3.TabStop = false;
+            lblTitulo.AutoSize = true;
+            lblTitulo.Font = new Font("Book Antiqua", 20F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblTitulo.ForeColor = Color.FromArgb(64, 0, 0);
+            lblTitulo.Location = new Point(33, 17);
+            lblTitulo.Name = "lblTitulo";
+            lblTitulo.Size = new Size(203, 49);
+            lblTitulo.TabIndex = 6;
+            lblTitulo.Text = "Productos";
             // 
-            // guna2CirclePictureBox1
+            // pnlRegistro
             // 
-            guna2CirclePictureBox1.BackColor = Color.Transparent;
-            guna2CirclePictureBox1.Image = (Image)resources.GetObject("guna2CirclePictureBox1.Image");
-            guna2CirclePictureBox1.ImageRotate = 0F;
-            guna2CirclePictureBox1.Location = new Point(7, 8);
-            guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
-            guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges53;
-            guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            guna2CirclePictureBox1.Size = new Size(83, 83);
-            guna2CirclePictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
-            guna2CirclePictureBox1.TabIndex = 2;
-            guna2CirclePictureBox1.TabStop = false;
+            pnlRegistro.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            pnlRegistro.BackColor = Color.Transparent;
+            pnlRegistro.Controls.Add(btnGuardarProducto);
+            pnlRegistro.Controls.Add(btnLimpiar);
+            pnlRegistro.Controls.Add(pnlVariante);
+            pnlRegistro.Controls.Add(cmbMarca);
+            pnlRegistro.Controls.Add(lblMarca);
+            pnlRegistro.Controls.Add(cmbCategoria);
+            pnlRegistro.Controls.Add(lblCategoria);
+            pnlRegistro.Controls.Add(txtDescripcion);
+            pnlRegistro.Controls.Add(lblDescripcion);
+            pnlRegistro.Controls.Add(txtNombre);
+            pnlRegistro.Controls.Add(lblNombre);
+            pnlRegistro.Controls.Add(lblRegistrarAyuda);
+            pnlRegistro.Controls.Add(lblRegistrar);
+            pnlRegistro.FillColor = Color.White;
+            pnlRegistro.Location = new Point(28, 110);
+            pnlRegistro.Name = "pnlRegistro";
+            pnlRegistro.Radius = 12;
+            pnlRegistro.ShadowColor = Color.FromArgb(150, 205, 192, 195);
+            pnlRegistro.ShadowDepth = 16;
+            pnlRegistro.ShadowShift = 2;
+            pnlRegistro.Size = new Size(1500, 355);
+            pnlRegistro.TabIndex = 1;
             // 
-            // label2
+            // btnGuardarProducto
             // 
-            label2.AutoSize = true;
-            label2.BackColor = Color.Transparent;
-            label2.ForeColor = Color.Gray;
-            label2.Location = new Point(106, 57);
-            label2.Name = "label2";
-            label2.Size = new Size(299, 25);
-            label2.TabIndex = 1;
-            label2.Text = "Gestiona el inventario de productos ";
+            btnGuardarProducto.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            btnGuardarProducto.BorderRadius = 8;
+            btnGuardarProducto.CustomizableEdges = customizableEdges13;
+            btnGuardarProducto.FillColor = Color.FromArgb(64, 0, 0);
+            btnGuardarProducto.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnGuardarProducto.ForeColor = Color.White;
+            btnGuardarProducto.HoverState.FillColor = Color.FromArgb(88, 18, 24);
+            btnGuardarProducto.HoverState.ForeColor = Color.White;
+            btnGuardarProducto.Location = new Point(1274, 297);
+            btnGuardarProducto.Name = "btnGuardarProducto";
+            btnGuardarProducto.ShadowDecoration.CustomizableEdges = customizableEdges14;
+            btnGuardarProducto.Size = new Size(185, 42);
+            btnGuardarProducto.TabIndex = 0;
+            btnGuardarProducto.Text = "Guardar producto";
+            btnGuardarProducto.Click += btnGuardarProducto_Click;
             // 
-            // label6
+            // btnLimpiar
             // 
-            label6.AutoSize = true;
-            label6.BackColor = Color.Transparent;
-            label6.Font = new Font("Georgia", 21F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label6.ForeColor = Color.FromArgb(110, 18, 32);
-            label6.Location = new Point(96, 8);
-            label6.Name = "label6";
-            label6.Size = new Size(192, 48);
-            label6.TabIndex = 0;
-            label6.Text = "Producto";
+            btnLimpiar.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            btnLimpiar.BorderRadius = 8;
+            btnLimpiar.CustomizableEdges = customizableEdges15;
+            btnLimpiar.FillColor = Color.FromArgb(103, 53, 62);
+            btnLimpiar.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnLimpiar.ForeColor = Color.White;
+            btnLimpiar.HoverState.FillColor = Color.FromArgb(119, 68, 76);
+            btnLimpiar.HoverState.ForeColor = Color.White;
+            btnLimpiar.Location = new Point(1110, 297);
+            btnLimpiar.Name = "btnLimpiar";
+            btnLimpiar.ShadowDecoration.CustomizableEdges = customizableEdges16;
+            btnLimpiar.Size = new Size(145, 42);
+            btnLimpiar.TabIndex = 1;
+            btnLimpiar.Text = "Limpiar";
+            btnLimpiar.Click += btnLimpiar_Click;
             // 
-            // label11
+            // pnlVariante
             // 
-            label11.AutoSize = true;
-            label11.BackColor = Color.Transparent;
-            label11.Font = new Font("PMingLiU-ExtB", 10F);
-            label11.Location = new Point(1164, 36);
-            label11.Name = "label11";
-            label11.Size = new Size(67, 20);
-            label11.TabIndex = 43;
-            label11.Text = "Usuario";
+            pnlVariante.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            pnlVariante.BorderColor = Color.FromArgb(230, 214, 217);
+            pnlVariante.BorderRadius = 12;
+            pnlVariante.BorderThickness = 1;
+            pnlVariante.Controls.Add(btnAgregarVariante);
+            pnlVariante.Controls.Add(nudPrecioVenta);
+            pnlVariante.Controls.Add(nudPrecioCompra);
+            pnlVariante.Controls.Add(nudStockMinimo);
+            pnlVariante.Controls.Add(nudStock);
+            pnlVariante.Controls.Add(cmbColor);
+            pnlVariante.Controls.Add(cmbTalla);
+            pnlVariante.Controls.Add(lblPrecioVenta);
+            pnlVariante.Controls.Add(lblPrecioCompra);
+            pnlVariante.Controls.Add(lblStockMinimo);
+            pnlVariante.Controls.Add(lblStock);
+            pnlVariante.Controls.Add(lblColor);
+            pnlVariante.Controls.Add(lblTalla);
+            pnlVariante.Controls.Add(lblVariante);
+            pnlVariante.CustomizableEdges = customizableEdges23;
+            pnlVariante.FillColor = Color.White;
+            pnlVariante.Location = new Point(31, 164);
+            pnlVariante.Name = "pnlVariante";
+            pnlVariante.ShadowDecoration.CustomizableEdges = customizableEdges24;
+            pnlVariante.Size = new Size(1428, 122);
+            pnlVariante.TabIndex = 2;
             // 
-            // guna2ShadowPanel1
+            // btnAgregarVariante
             // 
-            guna2ShadowPanel1.BackColor = Color.Transparent;
-            guna2ShadowPanel1.Controls.Add(tabControl1);
-            guna2ShadowPanel1.FillColor = Color.White;
-            guna2ShadowPanel1.ForeColor = Color.FromArgb(110, 18, 32);
-            guna2ShadowPanel1.Location = new Point(25, 123);
-            guna2ShadowPanel1.Margin = new Padding(4, 5, 4, 5);
-            guna2ShadowPanel1.Name = "guna2ShadowPanel1";
-            guna2ShadowPanel1.Radius = 12;
-            guna2ShadowPanel1.ShadowColor = Color.LightGray;
-            guna2ShadowPanel1.ShadowDepth = 20;
-            guna2ShadowPanel1.ShadowShift = 3;
-            guna2ShadowPanel1.Size = new Size(1506, 722);
-            guna2ShadowPanel1.TabIndex = 242;
+            btnAgregarVariante.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            btnAgregarVariante.BorderRadius = 8;
+            btnAgregarVariante.CustomizableEdges = customizableEdges17;
+            btnAgregarVariante.FillColor = Color.FromArgb(64, 0, 0);
+            btnAgregarVariante.Font = new Font("Book Antiqua", 8.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnAgregarVariante.ForeColor = Color.White;
+            btnAgregarVariante.HoverState.FillColor = Color.FromArgb(88, 18, 24);
+            btnAgregarVariante.HoverState.ForeColor = Color.White;
+            btnAgregarVariante.Location = new Point(1232, 60);
+            btnAgregarVariante.Name = "btnAgregarVariante";
+            btnAgregarVariante.ShadowDecoration.CustomizableEdges = customizableEdges18;
+            btnAgregarVariante.Size = new Size(174, 43);
+            btnAgregarVariante.TabIndex = 0;
+            btnAgregarVariante.Text = "+ Agregar variante";
+            btnAgregarVariante.Visible = false;
+            btnAgregarVariante.Click += btnAgregarVariante_Click;
             // 
-            // tabControl1
+            // nudPrecioVenta
             // 
-            tabControl1.Controls.Add(tabpag_producto);
-            tabControl1.Controls.Add(tabpag_producto_nuevo);
-            tabControl1.Controls.Add(tabpag_producto_editar);
-            tabControl1.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            tabControl1.Location = new Point(25, 21);
-            tabControl1.Name = "tabControl1";
-            tabControl1.SelectedIndex = 0;
-            tabControl1.Size = new Size(1460, 683);
-            tabControl1.TabIndex = 174;
+            nudPrecioVenta.BackColor = Color.FromArgb(252, 248, 249);
+            nudPrecioVenta.BorderStyle = BorderStyle.FixedSingle;
+            nudPrecioVenta.DecimalPlaces = 2;
+            nudPrecioVenta.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            nudPrecioVenta.ForeColor = Color.FromArgb(55, 43, 45);
+            nudPrecioVenta.Location = new Point(1070, 66);
+            nudPrecioVenta.Maximum = new decimal(new int[] { 10000000, 0, 0, 0 });
+            nudPrecioVenta.Name = "nudPrecioVenta";
+            nudPrecioVenta.Size = new Size(142, 30);
+            nudPrecioVenta.TabIndex = 1;
+            nudPrecioVenta.ThousandsSeparator = true;
             // 
-            // tabpag_producto
+            // nudPrecioCompra
             // 
-            tabpag_producto.Controls.Add(lbl_total_productos);
-            tabpag_producto.Controls.Add(btn_mostrar);
-            tabpag_producto.Controls.Add(btn_guardar_producto);
-            tabpag_producto.Controls.Add(btn_buscar);
-            tabpag_producto.Controls.Add(lbl_buscar);
-            tabpag_producto.Controls.Add(CBbuscarpor);
-            tabpag_producto.Controls.Add(btn_limpiar);
-            tabpag_producto.Controls.Add(dgw_producto);
-            tabpag_producto.Controls.Add(label3);
-            tabpag_producto.Location = new Point(4, 33);
-            tabpag_producto.Name = "tabpag_producto";
-            tabpag_producto.Padding = new Padding(3);
-            tabpag_producto.Size = new Size(1452, 646);
-            tabpag_producto.TabIndex = 0;
-            tabpag_producto.Text = "Productos";
-            tabpag_producto.UseVisualStyleBackColor = true;
+            nudPrecioCompra.BackColor = Color.FromArgb(252, 248, 249);
+            nudPrecioCompra.BorderStyle = BorderStyle.FixedSingle;
+            nudPrecioCompra.DecimalPlaces = 2;
+            nudPrecioCompra.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            nudPrecioCompra.ForeColor = Color.FromArgb(55, 43, 45);
+            nudPrecioCompra.Location = new Point(904, 66);
+            nudPrecioCompra.Maximum = new decimal(new int[] { 10000000, 0, 0, 0 });
+            nudPrecioCompra.Name = "nudPrecioCompra";
+            nudPrecioCompra.Size = new Size(142, 30);
+            nudPrecioCompra.TabIndex = 2;
+            nudPrecioCompra.ThousandsSeparator = true;
             // 
-            // lbl_total_productos
+            // nudStockMinimo
             // 
-            lbl_total_productos.AutoSize = true;
-            lbl_total_productos.BackColor = Color.Transparent;
-            lbl_total_productos.Font = new Font("PMingLiU-ExtB", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lbl_total_productos.ForeColor = Color.FromArgb(110, 18, 32);
-            lbl_total_productos.Location = new Point(40, 592);
-            lbl_total_productos.Name = "lbl_total_productos";
-            lbl_total_productos.Size = new Size(169, 20);
-            lbl_total_productos.TabIndex = 275;
-            lbl_total_productos.Text = "Total de productos:";
+            nudStockMinimo.BackColor = Color.FromArgb(252, 248, 249);
+            nudStockMinimo.BorderStyle = BorderStyle.FixedSingle;
+            nudStockMinimo.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            nudStockMinimo.ForeColor = Color.FromArgb(55, 43, 45);
+            nudStockMinimo.Location = new Point(766, 66);
+            nudStockMinimo.Maximum = new decimal(new int[] { 100000, 0, 0, 0 });
+            nudStockMinimo.Name = "nudStockMinimo";
+            nudStockMinimo.Size = new Size(116, 30);
+            nudStockMinimo.TabIndex = 3;
             // 
-            // btn_mostrar
+            // nudStock
             // 
-            btn_mostrar.BorderColor = Color.White;
-            btn_mostrar.BorderRadius = 8;
-            btn_mostrar.CustomizableEdges = customizableEdges56;
-            btn_mostrar.DisabledState.BorderColor = Color.DarkGray;
-            btn_mostrar.DisabledState.CustomBorderColor = Color.DarkGray;
-            btn_mostrar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btn_mostrar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_mostrar.FillColor = Color.FromArgb(110, 18, 32);
-            btn_mostrar.Font = new Font("Book Antiqua", 11F);
-            btn_mostrar.ForeColor = Color.White;
-            btn_mostrar.Location = new Point(692, 33);
-            btn_mostrar.Margin = new Padding(4, 5, 4, 5);
-            btn_mostrar.Name = "btn_mostrar";
-            btn_mostrar.ShadowDecoration.CustomizableEdges = customizableEdges57;
-            btn_mostrar.Size = new Size(228, 38);
-            btn_mostrar.TabIndex = 270;
-            btn_mostrar.Text = "Mostrar todo";
+            nudStock.BackColor = Color.FromArgb(252, 248, 249);
+            nudStock.BorderStyle = BorderStyle.FixedSingle;
+            nudStock.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            nudStock.ForeColor = Color.FromArgb(55, 43, 45);
+            nudStock.Location = new Point(645, 66);
+            nudStock.Maximum = new decimal(new int[] { 100000, 0, 0, 0 });
+            nudStock.Name = "nudStock";
+            nudStock.Size = new Size(99, 30);
+            nudStock.TabIndex = 4;
             // 
-            // btn_guardar_producto
+            // cmbColor
             // 
-            btn_guardar_producto.BorderColor = Color.White;
-            btn_guardar_producto.BorderRadius = 8;
-            btn_guardar_producto.CustomizableEdges = customizableEdges58;
-            btn_guardar_producto.DisabledState.BorderColor = Color.DarkGray;
-            btn_guardar_producto.DisabledState.CustomBorderColor = Color.DarkGray;
-            btn_guardar_producto.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btn_guardar_producto.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_guardar_producto.FillColor = Color.FromArgb(110, 18, 32);
-            btn_guardar_producto.Font = new Font("Book Antiqua", 11F);
-            btn_guardar_producto.ForeColor = Color.White;
-            btn_guardar_producto.Location = new Point(1100, 33);
-            btn_guardar_producto.Margin = new Padding(4, 5, 4, 5);
-            btn_guardar_producto.Name = "btn_guardar_producto";
-            btn_guardar_producto.ShadowDecoration.CustomizableEdges = customizableEdges59;
-            btn_guardar_producto.Size = new Size(159, 38);
-            btn_guardar_producto.TabIndex = 271;
-            btn_guardar_producto.Text = "Guardar";
+            cmbColor.BackColor = Color.Transparent;
+            cmbColor.BorderColor = Color.FromArgb(224, 210, 213);
+            cmbColor.BorderRadius = 8;
+            cmbColor.CustomizableEdges = customizableEdges19;
+            cmbColor.DrawMode = DrawMode.OwnerDrawFixed;
+            cmbColor.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmbColor.FillColor = Color.FromArgb(252, 248, 249);
+            cmbColor.FocusedColor = Color.Empty;
+            cmbColor.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmbColor.ForeColor = Color.FromArgb(55, 43, 45);
+            cmbColor.ItemHeight = 30;
+            cmbColor.Location = new Point(316, 59);
+            cmbColor.Name = "cmbColor";
+            cmbColor.ShadowDecoration.CustomizableEdges = customizableEdges20;
+            cmbColor.Size = new Size(210, 36);
+            cmbColor.TabIndex = 5;
             // 
-            // btn_buscar
+            // cmbTalla
             // 
-            btn_buscar.BorderColor = Color.White;
-            btn_buscar.BorderRadius = 8;
-            btn_buscar.CustomizableEdges = customizableEdges60;
-            btn_buscar.DisabledState.BorderColor = Color.DarkGray;
-            btn_buscar.DisabledState.CustomBorderColor = Color.DarkGray;
-            btn_buscar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btn_buscar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_buscar.FillColor = Color.FromArgb(110, 18, 32);
-            btn_buscar.Font = new Font("Book Antiqua", 11F);
-            btn_buscar.ForeColor = Color.White;
-            btn_buscar.Location = new Point(524, 33);
-            btn_buscar.Margin = new Padding(4, 5, 4, 5);
-            btn_buscar.Name = "btn_buscar";
-            btn_buscar.ShadowDecoration.CustomizableEdges = customizableEdges61;
-            btn_buscar.Size = new Size(130, 38);
-            btn_buscar.TabIndex = 272;
-            btn_buscar.Text = "Buscar";
+            cmbTalla.BackColor = Color.Transparent;
+            cmbTalla.BorderColor = Color.FromArgb(224, 210, 213);
+            cmbTalla.BorderRadius = 8;
+            cmbTalla.CustomizableEdges = customizableEdges21;
+            cmbTalla.DrawMode = DrawMode.OwnerDrawFixed;
+            cmbTalla.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmbTalla.FillColor = Color.FromArgb(252, 248, 249);
+            cmbTalla.FocusedColor = Color.Empty;
+            cmbTalla.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmbTalla.ForeColor = Color.FromArgb(55, 43, 45);
+            cmbTalla.ItemHeight = 30;
+            cmbTalla.Location = new Point(24, 59);
+            cmbTalla.Name = "cmbTalla";
+            cmbTalla.ShadowDecoration.CustomizableEdges = customizableEdges22;
+            cmbTalla.Size = new Size(270, 36);
+            cmbTalla.TabIndex = 6;
             // 
-            // lbl_buscar
+            // lblPrecioVenta
             // 
-            lbl_buscar.AutoSize = true;
-            lbl_buscar.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lbl_buscar.ForeColor = Color.FromArgb(64, 0, 0);
-            lbl_buscar.Location = new Point(40, 44);
-            lbl_buscar.Margin = new Padding(1, 0, 1, 0);
-            lbl_buscar.Name = "lbl_buscar";
-            lbl_buscar.Size = new Size(218, 27);
-            lbl_buscar.TabIndex = 273;
-            lbl_buscar.Text = "Buscar producto por:";
+            lblPrecioVenta.AutoSize = true;
+            lblPrecioVenta.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblPrecioVenta.ForeColor = Color.FromArgb(64, 0, 0);
+            lblPrecioVenta.Location = new Point(1070, 41);
+            lblPrecioVenta.Name = "lblPrecioVenta";
+            lblPrecioVenta.Size = new Size(99, 21);
+            lblPrecioVenta.TabIndex = 7;
+            lblPrecioVenta.Text = "Precio venta";
             // 
-            // CBbuscarpor
+            // lblPrecioCompra
             // 
-            CBbuscarpor.Font = new Font("PMingLiU-ExtB", 9F);
-            CBbuscarpor.FormattingEnabled = true;
-            CBbuscarpor.Location = new Point(260, 44);
-            CBbuscarpor.Margin = new Padding(1, 2, 1, 2);
-            CBbuscarpor.Name = "CBbuscarpor";
-            CBbuscarpor.Size = new Size(237, 26);
-            CBbuscarpor.TabIndex = 274;
+            lblPrecioCompra.AutoSize = true;
+            lblPrecioCompra.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblPrecioCompra.ForeColor = Color.FromArgb(64, 0, 0);
+            lblPrecioCompra.Location = new Point(904, 41);
+            lblPrecioCompra.Name = "lblPrecioCompra";
+            lblPrecioCompra.Size = new Size(113, 21);
+            lblPrecioCompra.TabIndex = 8;
+            lblPrecioCompra.Text = "Precio compra";
             // 
-            // btn_limpiar
+            // lblStockMinimo
             // 
-            btn_limpiar.BorderColor = Color.White;
-            btn_limpiar.BorderRadius = 8;
-            btn_limpiar.CustomizableEdges = customizableEdges62;
-            btn_limpiar.DisabledState.BorderColor = Color.DarkGray;
-            btn_limpiar.DisabledState.CustomBorderColor = Color.DarkGray;
-            btn_limpiar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btn_limpiar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_limpiar.FillColor = Color.FromArgb(110, 18, 32);
-            btn_limpiar.Font = new Font("Book Antiqua", 11F);
-            btn_limpiar.ForeColor = Color.White;
-            btn_limpiar.Location = new Point(951, 33);
-            btn_limpiar.Margin = new Padding(4, 5, 4, 5);
-            btn_limpiar.Name = "btn_limpiar";
-            btn_limpiar.ShadowDecoration.CustomizableEdges = customizableEdges63;
-            btn_limpiar.Size = new Size(126, 38);
-            btn_limpiar.TabIndex = 269;
-            btn_limpiar.Text = "Limpiar";
+            lblStockMinimo.AutoSize = true;
+            lblStockMinimo.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblStockMinimo.ForeColor = Color.FromArgb(64, 0, 0);
+            lblStockMinimo.Location = new Point(766, 41);
+            lblStockMinimo.Name = "lblStockMinimo";
+            lblStockMinimo.Size = new Size(112, 21);
+            lblStockMinimo.TabIndex = 9;
+            lblStockMinimo.Text = "Stock mínimo";
             // 
-            // dgw_producto
+            // lblStock
             // 
-            dataGridViewCellStyle10.BackColor = Color.White;
-            dgw_producto.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle10;
-            dataGridViewCellStyle11.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle11.BackColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle11.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle11.ForeColor = Color.White;
-            dataGridViewCellStyle11.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle11.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle11.WrapMode = DataGridViewTriState.True;
-            dgw_producto.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle11;
-            dgw_producto.ColumnHeadersHeight = 27;
-            dgw_producto.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
-            dgw_producto.Columns.AddRange(new DataGridViewColumn[] { Column1, Column2, Column3, Column6, Column4, Column5 });
-            dataGridViewCellStyle12.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle12.BackColor = Color.White;
-            dataGridViewCellStyle12.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle12.ForeColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle12.SelectionBackColor = Color.FromArgb(231, 229, 255);
-            dataGridViewCellStyle12.SelectionForeColor = Color.FromArgb(71, 69, 94);
-            dataGridViewCellStyle12.WrapMode = DataGridViewTriState.False;
-            dgw_producto.DefaultCellStyle = dataGridViewCellStyle12;
-            dgw_producto.GridColor = Color.White;
-            dgw_producto.Location = new Point(34, 140);
-            dgw_producto.Margin = new Padding(4, 5, 4, 5);
-            dgw_producto.Name = "dgw_producto";
-            dgw_producto.RowHeadersVisible = false;
-            dgw_producto.RowHeadersWidth = 62;
-            dgw_producto.RowTemplate.Height = 22;
-            dgw_producto.Size = new Size(1391, 431);
-            dgw_producto.TabIndex = 58;
-            dgw_producto.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
-            dgw_producto.ThemeStyle.GridColor = Color.White;
-            dgw_producto.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
-            dgw_producto.ThemeStyle.HeaderStyle.Font = new Font("Segoe UI", 9F);
-            dgw_producto.ThemeStyle.HeaderStyle.Height = 27;
-            dgw_producto.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 9F);
-            dgw_producto.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
+            lblStock.AutoSize = true;
+            lblStock.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblStock.ForeColor = Color.FromArgb(64, 0, 0);
+            lblStock.Location = new Point(645, 41);
+            lblStock.Name = "lblStock";
+            lblStock.Size = new Size(51, 21);
+            lblStock.TabIndex = 10;
+            lblStock.Text = "Stock";
+            // 
+            // lblColor
+            // 
+            lblColor.AutoSize = true;
+            lblColor.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblColor.ForeColor = Color.FromArgb(64, 0, 0);
+            lblColor.Location = new Point(316, 35);
+            lblColor.Name = "lblColor";
+            lblColor.Size = new Size(51, 21);
+            lblColor.TabIndex = 11;
+            lblColor.Text = "Color";
+            // 
+            // lblTalla
+            // 
+            lblTalla.AutoSize = true;
+            lblTalla.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblTalla.ForeColor = Color.FromArgb(64, 0, 0);
+            lblTalla.Location = new Point(24, 35);
+            lblTalla.Name = "lblTalla";
+            lblTalla.Size = new Size(47, 21);
+            lblTalla.TabIndex = 12;
+            lblTalla.Text = "Talla";
+            // 
+            // lblVariante
+            // 
+            lblVariante.AutoSize = true;
+            lblVariante.Font = new Font("Book Antiqua", 9.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblVariante.ForeColor = Color.FromArgb(64, 0, 0);
+            lblVariante.Location = new Point(20, 8);
+            lblVariante.Name = "lblVariante";
+            lblVariante.Size = new Size(262, 23);
+            lblVariante.TabIndex = 13;
+            lblVariante.Text = "Variante inicial del producto";
+            // 
+            // cmbMarca
+            // 
+            cmbMarca.BackColor = Color.Transparent;
+            cmbMarca.BorderColor = Color.FromArgb(224, 210, 213);
+            cmbMarca.BorderRadius = 8;
+            cmbMarca.CustomizableEdges = customizableEdges25;
+            cmbMarca.DrawMode = DrawMode.OwnerDrawFixed;
+            cmbMarca.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmbMarca.FillColor = Color.FromArgb(252, 248, 249);
+            cmbMarca.FocusedColor = Color.Empty;
+            cmbMarca.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmbMarca.ForeColor = Color.FromArgb(55, 43, 45);
+            cmbMarca.ItemHeight = 30;
+            cmbMarca.Location = new Point(1120, 110);
+            cmbMarca.Name = "cmbMarca";
+            cmbMarca.ShadowDecoration.CustomizableEdges = customizableEdges26;
+            cmbMarca.Size = new Size(339, 36);
+            cmbMarca.TabIndex = 3;
+            // 
+            // lblMarca
+            // 
+            lblMarca.AutoSize = true;
+            lblMarca.Font = new Font("Book Antiqua", 8.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblMarca.ForeColor = Color.FromArgb(64, 0, 0);
+            lblMarca.Location = new Point(1120, 85);
+            lblMarca.Name = "lblMarca";
+            lblMarca.Size = new Size(60, 22);
+            lblMarca.TabIndex = 4;
+            lblMarca.Text = "Marca";
+            // 
+            // cmbCategoria
+            // 
+            cmbCategoria.BackColor = Color.Transparent;
+            cmbCategoria.BorderColor = Color.FromArgb(224, 210, 213);
+            cmbCategoria.BorderRadius = 8;
+            cmbCategoria.CustomizableEdges = customizableEdges27;
+            cmbCategoria.DrawMode = DrawMode.OwnerDrawFixed;
+            cmbCategoria.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmbCategoria.FillColor = Color.FromArgb(252, 248, 249);
+            cmbCategoria.FocusedColor = Color.Empty;
+            cmbCategoria.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmbCategoria.ForeColor = Color.FromArgb(55, 43, 45);
+            cmbCategoria.ItemHeight = 30;
+            cmbCategoria.Location = new Point(780, 110);
+            cmbCategoria.Name = "cmbCategoria";
+            cmbCategoria.ShadowDecoration.CustomizableEdges = customizableEdges28;
+            cmbCategoria.Size = new Size(318, 36);
+            cmbCategoria.TabIndex = 5;
+            // 
+            // lblCategoria
+            // 
+            lblCategoria.AutoSize = true;
+            lblCategoria.Font = new Font("Book Antiqua", 8.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblCategoria.ForeColor = Color.FromArgb(64, 0, 0);
+            lblCategoria.Location = new Point(780, 85);
+            lblCategoria.Name = "lblCategoria";
+            lblCategoria.Size = new Size(86, 22);
+            lblCategoria.TabIndex = 6;
+            lblCategoria.Text = "Categoría";
+            // 
+            // txtDescripcion
+            // 
+            txtDescripcion.BorderColor = Color.FromArgb(224, 210, 213);
+            txtDescripcion.BorderRadius = 8;
+            txtDescripcion.CustomizableEdges = customizableEdges29;
+            txtDescripcion.DefaultText = "";
+            txtDescripcion.FillColor = Color.FromArgb(252, 248, 249);
+            txtDescripcion.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtDescripcion.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtDescripcion.ForeColor = Color.FromArgb(55, 43, 45);
+            txtDescripcion.Location = new Point(391, 110);
+            txtDescripcion.Margin = new Padding(4, 5, 4, 5);
+            txtDescripcion.Name = "txtDescripcion";
+            txtDescripcion.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
+            txtDescripcion.PlaceholderText = "Descripción opcional";
+            txtDescripcion.SelectedText = "";
+            txtDescripcion.ShadowDecoration.CustomizableEdges = customizableEdges30;
+            txtDescripcion.Size = new Size(367, 36);
+            txtDescripcion.TabIndex = 7;
+            // 
+            // lblDescripcion
+            // 
+            lblDescripcion.AutoSize = true;
+            lblDescripcion.Font = new Font("Book Antiqua", 8.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblDescripcion.ForeColor = Color.FromArgb(64, 0, 0);
+            lblDescripcion.Location = new Point(391, 85);
+            lblDescripcion.Name = "lblDescripcion";
+            lblDescripcion.Size = new Size(105, 22);
+            lblDescripcion.TabIndex = 8;
+            lblDescripcion.Text = "Descripción";
+            // 
+            // txtNombre
+            // 
+            txtNombre.BorderColor = Color.FromArgb(224, 210, 213);
+            txtNombre.BorderRadius = 8;
+            txtNombre.CustomizableEdges = customizableEdges31;
+            txtNombre.DefaultText = "";
+            txtNombre.FillColor = Color.FromArgb(252, 248, 249);
+            txtNombre.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtNombre.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtNombre.ForeColor = Color.FromArgb(55, 43, 45);
+            txtNombre.Location = new Point(31, 110);
+            txtNombre.Margin = new Padding(4, 5, 4, 5);
+            txtNombre.Name = "txtNombre";
+            txtNombre.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
+            txtNombre.PlaceholderText = "Ej. Camisa deportiva Nike";
+            txtNombre.SelectedText = "";
+            txtNombre.ShadowDecoration.CustomizableEdges = customizableEdges32;
+            txtNombre.Size = new Size(338, 36);
+            txtNombre.TabIndex = 9;
+            // 
+            // lblNombre
+            // 
+            lblNombre.AutoSize = true;
+            lblNombre.Font = new Font("Book Antiqua", 8.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblNombre.ForeColor = Color.FromArgb(64, 0, 0);
+            lblNombre.Location = new Point(31, 85);
+            lblNombre.Name = "lblNombre";
+            lblNombre.Size = new Size(176, 22);
+            lblNombre.TabIndex = 10;
+            lblNombre.Text = "Nombre del producto";
+            // 
+            // lblRegistrarAyuda
+            // 
+            lblRegistrarAyuda.AutoSize = true;
+            lblRegistrarAyuda.Font = new Font("Book Antiqua", 8.5F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblRegistrarAyuda.ForeColor = Color.FromArgb(105, 88, 91);
+            lblRegistrarAyuda.Location = new Point(31, 49);
+            lblRegistrarAyuda.Name = "lblRegistrarAyuda";
+            lblRegistrarAyuda.Size = new Size(624, 22);
+            lblRegistrarAyuda.TabIndex = 11;
+            lblRegistrarAyuda.Text = "Completa los datos del producto y define su primera combinación de talla y color.";
+            // 
+            // lblRegistrar
+            // 
+            lblRegistrar.AutoSize = true;
+            lblRegistrar.Font = new Font("Book Antiqua", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblRegistrar.ForeColor = Color.FromArgb(64, 0, 0);
+            lblRegistrar.Location = new Point(26, 17);
+            lblRegistrar.Name = "lblRegistrar";
+            lblRegistrar.Size = new Size(216, 28);
+            lblRegistrar.TabIndex = 12;
+            lblRegistrar.Text = "Registrar producto";
+            // 
+            // pnlResumen
+            // 
+            pnlResumen.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            pnlResumen.BackColor = Color.Transparent;
+            pnlResumen.Controls.Add(btnAgregarVariantesExistente);
+            pnlResumen.Controls.Add(txtBuscarResumen);
+            pnlResumen.Controls.Add(cmbOrdenResumen);
+            pnlResumen.Controls.Add(lblOrdenResumen);
+            pnlResumen.Controls.Add(lblResumenTotal);
+            pnlResumen.Controls.Add(lblResumen);
+            pnlResumen.Controls.Add(dgvResumen);
+            pnlResumen.FillColor = Color.White;
+            pnlResumen.Location = new Point(28, 478);
+            pnlResumen.Name = "pnlResumen";
+            pnlResumen.Radius = 12;
+            pnlResumen.ShadowColor = Color.FromArgb(150, 205, 192, 195);
+            pnlResumen.ShadowDepth = 16;
+            pnlResumen.ShadowShift = 2;
+            pnlResumen.Size = new Size(1500, 363);
+            pnlResumen.TabIndex = 0;
+            // 
+            // btnAgregarVariantesExistente
+            // 
+            btnAgregarVariantesExistente.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            btnAgregarVariantesExistente.BorderRadius = 8;
+            btnAgregarVariantesExistente.CustomizableEdges = customizableEdges33;
+            btnAgregarVariantesExistente.Enabled = false;
+            btnAgregarVariantesExistente.FillColor = Color.FromArgb(64, 0, 0);
+            btnAgregarVariantesExistente.Font = new Font("Book Antiqua", 8.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnAgregarVariantesExistente.ForeColor = Color.White;
+            btnAgregarVariantesExistente.HoverState.FillColor = Color.FromArgb(88, 18, 24);
+            btnAgregarVariantesExistente.HoverState.ForeColor = Color.White;
+            btnAgregarVariantesExistente.Location = new Point(617, 23);
+            btnAgregarVariantesExistente.Name = "btnAgregarVariantesExistente";
+            btnAgregarVariantesExistente.ShadowDecoration.CustomizableEdges = customizableEdges34;
+            btnAgregarVariantesExistente.Size = new Size(223, 42);
+            btnAgregarVariantesExistente.TabIndex = 0;
+            btnAgregarVariantesExistente.Text = "+ Agregar variantes";
+            btnAgregarVariantesExistente.Click += btnAgregarVariantesExistente_Click;
+            // 
+            // txtBuscarResumen
+            // 
+            txtBuscarResumen.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            txtBuscarResumen.BorderColor = Color.FromArgb(224, 210, 213);
+            txtBuscarResumen.BorderRadius = 8;
+            txtBuscarResumen.CustomizableEdges = customizableEdges35;
+            txtBuscarResumen.DefaultText = "";
+            txtBuscarResumen.FillColor = Color.FromArgb(252, 248, 249);
+            txtBuscarResumen.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtBuscarResumen.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtBuscarResumen.ForeColor = Color.FromArgb(55, 43, 45);
+            txtBuscarResumen.Location = new Point(1043, 22);
+            txtBuscarResumen.Margin = new Padding(4, 5, 4, 5);
+            txtBuscarResumen.Name = "txtBuscarResumen";
+            txtBuscarResumen.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
+            txtBuscarResumen.PlaceholderText = "Buscar producto...";
+            txtBuscarResumen.SelectedText = "";
+            txtBuscarResumen.ShadowDecoration.CustomizableEdges = customizableEdges36;
+            txtBuscarResumen.Size = new Size(417, 42);
+            txtBuscarResumen.TabIndex = 1;
+            txtBuscarResumen.TextChanged += txtBuscarResumen_TextChanged;
+            // 
+            // cmbOrdenResumen
+            // 
+            cmbOrdenResumen.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            cmbOrdenResumen.BackColor = Color.Transparent;
+            cmbOrdenResumen.BorderColor = Color.FromArgb(224, 210, 213);
+            cmbOrdenResumen.BorderRadius = 8;
+            cmbOrdenResumen.CustomizableEdges = customizableEdges37;
+            cmbOrdenResumen.DrawMode = DrawMode.OwnerDrawFixed;
+            cmbOrdenResumen.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmbOrdenResumen.FillColor = Color.FromArgb(252, 248, 249);
+            cmbOrdenResumen.FocusedColor = Color.Empty;
+            cmbOrdenResumen.Font = new Font("Book Antiqua", 8.5F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmbOrdenResumen.ForeColor = Color.FromArgb(55, 43, 45);
+            cmbOrdenResumen.ItemHeight = 28;
+            cmbOrdenResumen.Location = new Point(860, 30);
+            cmbOrdenResumen.Name = "cmbOrdenResumen";
+            cmbOrdenResumen.ShadowDecoration.CustomizableEdges = customizableEdges38;
+            cmbOrdenResumen.Size = new Size(160, 34);
+            cmbOrdenResumen.TabIndex = 2;
+            cmbOrdenResumen.SelectedIndexChanged += cmbOrdenResumen_SelectedIndexChanged;
+            // 
+            // lblOrdenResumen
+            // 
+            lblOrdenResumen.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            lblOrdenResumen.AutoSize = true;
+            lblOrdenResumen.Font = new Font("Book Antiqua", 7.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblOrdenResumen.ForeColor = Color.FromArgb(64, 0, 0);
+            lblOrdenResumen.Location = new Point(860, 8);
+            lblOrdenResumen.Name = "lblOrdenResumen";
+            lblOrdenResumen.Size = new Size(54, 19);
+            lblOrdenResumen.TabIndex = 3;
+            lblOrdenResumen.Text = "Orden";
+            // 
+            // lblResumenTotal
+            // 
+            lblResumenTotal.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
+            lblResumenTotal.AutoSize = true;
+            lblResumenTotal.Font = new Font("Book Antiqua", 8.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblResumenTotal.ForeColor = Color.FromArgb(98, 48, 56);
+            lblResumenTotal.Location = new Point(31, 329);
+            lblResumenTotal.Name = "lblResumenTotal";
+            lblResumenTotal.Size = new Size(341, 22);
+            lblResumenTotal.TabIndex = 4;
+            lblResumenTotal.Text = "Mostrando 0 producto(s) agrupados por ID";
+            // 
+            // lblResumen
+            // 
+            lblResumen.AutoSize = true;
+            lblResumen.Font = new Font("Book Antiqua", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblResumen.ForeColor = Color.FromArgb(64, 0, 0);
+            lblResumen.Location = new Point(26, 16);
+            lblResumen.Name = "lblResumen";
+            lblResumen.Size = new Size(306, 28);
+            lblResumen.TabIndex = 6;
+            lblResumen.Text = "Vista general de productos";
+            // 
+            // dgvResumen
+            // 
+            dgvResumen.AllowUserToAddRows = false;
+            dgvResumen.AllowUserToDeleteRows = false;
+            dgvResumen.AllowUserToResizeRows = false;
+            dataGridViewCellStyle1.BackColor = Color.FromArgb(253, 249, 250);
+            dgvResumen.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dgvResumen.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle2.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle2.ForeColor = Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle2.SelectionForeColor = Color.White;
+            dataGridViewCellStyle2.WrapMode = DataGridViewTriState.True;
+            dgvResumen.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dgvResumen.ColumnHeadersHeight = 40;
+            dgvResumen.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
+            dgvResumen.Columns.AddRange(new DataGridViewColumn[] { colIdProducto, colProducto, colMarcaResumen, colCategoriaResumen, colVariantesResumen, colStockResumen, colPrecioResumen, Column1, colEstadoResumen });
+            dataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = Color.White;
+            dataGridViewCellStyle3.Font = new Font("Segoe UI", 8.5F);
+            dataGridViewCellStyle3.ForeColor = Color.FromArgb(45, 45, 45);
+            dataGridViewCellStyle3.SelectionBackColor = Color.FromArgb(241, 225, 228);
+            dataGridViewCellStyle3.SelectionForeColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle3.WrapMode = DataGridViewTriState.False;
+            dgvResumen.DefaultCellStyle = dataGridViewCellStyle3;
+            dgvResumen.GridColor = Color.FromArgb(239, 226, 229);
+            dgvResumen.Location = new Point(31, 82);
+            dgvResumen.MultiSelect = false;
+            dgvResumen.Name = "dgvResumen";
+            dgvResumen.ReadOnly = true;
+            dgvResumen.RowHeadersVisible = false;
+            dgvResumen.RowHeadersWidth = 62;
+            dgvResumen.RowTemplate.Height = 36;
+            dgvResumen.Size = new Size(1429, 232);
+            dgvResumen.TabIndex = 7;
+            dgvResumen.ThemeStyle.AlternatingRowsStyle.BackColor = Color.FromArgb(253, 249, 250);
+            dgvResumen.ThemeStyle.GridColor = Color.FromArgb(239, 226, 229);
+            dgvResumen.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(64, 0, 0);
+            dgvResumen.ThemeStyle.HeaderStyle.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dgvResumen.ThemeStyle.HeaderStyle.Height = 40;
+            dgvResumen.ThemeStyle.ReadOnly = true;
+            dgvResumen.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 8.5F);
+            dgvResumen.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(45, 45, 45);
+            dgvResumen.ThemeStyle.RowsStyle.Height = 36;
+            dgvResumen.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(241, 225, 228);
+            dgvResumen.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(64, 0, 0);
+            dgvResumen.CellDoubleClick += dgvResumen_CellDoubleClick;
+            dgvResumen.SelectionChanged += dgvResumen_SelectionChanged;
+            // 
+            // colIdProducto
+            // 
+            colIdProducto.HeaderText = "ID";
+            colIdProducto.MinimumWidth = 8;
+            colIdProducto.Name = "colIdProducto";
+            colIdProducto.ReadOnly = true;
+            // 
+            // colProducto
+            // 
+            colProducto.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            colProducto.FillWeight = 140F;
+            colProducto.HeaderText = "Producto";
+            colProducto.MinimumWidth = 8;
+            colProducto.Name = "colProducto";
+            colProducto.ReadOnly = true;
+            // 
+            // colMarcaResumen
+            // 
+            colMarcaResumen.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            colMarcaResumen.HeaderText = "Marca";
+            colMarcaResumen.MinimumWidth = 8;
+            colMarcaResumen.Name = "colMarcaResumen";
+            colMarcaResumen.ReadOnly = true;
+            // 
+            // colCategoriaResumen
+            // 
+            colCategoriaResumen.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            colCategoriaResumen.HeaderText = "Categoría";
+            colCategoriaResumen.MinimumWidth = 8;
+            colCategoriaResumen.Name = "colCategoriaResumen";
+            colCategoriaResumen.ReadOnly = true;
+            // 
+            // colVariantesResumen
+            // 
+            colVariantesResumen.HeaderText = "Variantes";
+            colVariantesResumen.MinimumWidth = 8;
+            colVariantesResumen.Name = "colVariantesResumen";
+            colVariantesResumen.ReadOnly = true;
+            // 
+            // colStockResumen
+            // 
+            colStockResumen.HeaderText = "Stock total";
+            colStockResumen.MinimumWidth = 8;
+            colStockResumen.Name = "colStockResumen";
+            colStockResumen.ReadOnly = true;
+            // 
+            // colPrecioResumen
+            // 
+            colPrecioResumen.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            colPrecioResumen.HeaderText = "Precio venta";
+            colPrecioResumen.MinimumWidth = 8;
+            colPrecioResumen.Name = "colPrecioResumen";
+            colPrecioResumen.ReadOnly = true;
             // 
             // Column1
             // 
-            Column1.HeaderText = "Código";
+            Column1.HeaderText = "Precio Compra";
             Column1.MinimumWidth = 8;
             Column1.Name = "Column1";
+            Column1.ReadOnly = true;
             // 
-            // Column2
+            // colEstadoResumen
             // 
-            Column2.HeaderText = "Tipo Producto";
-            Column2.MinimumWidth = 8;
-            Column2.Name = "Column2";
-            // 
-            // Column3
-            // 
-            Column3.HeaderText = "Categoría";
-            Column3.MinimumWidth = 8;
-            Column3.Name = "Column3";
-            // 
-            // Column6
-            // 
-            Column6.HeaderText = "Stock mínimo";
-            Column6.MinimumWidth = 8;
-            Column6.Name = "Column6";
-            // 
-            // Column4
-            // 
-            Column4.HeaderText = "Precio Venta";
-            Column4.MinimumWidth = 8;
-            Column4.Name = "Column4";
-            // 
-            // Column5
-            // 
-            Column5.HeaderText = "Estado";
-            Column5.MinimumWidth = 8;
-            Column5.Name = "Column5";
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label3.Location = new Point(24, 98);
-            label3.Name = "label3";
-            label3.Size = new Size(192, 27);
-            label3.TabIndex = 56;
-            label3.Text = "Lista de productos";
-            // 
-            // tabpag_producto_nuevo
-            // 
-            tabpag_producto_nuevo.Controls.Add(dgvProductosnuevo);
-            tabpag_producto_nuevo.Controls.Add(label5);
-            tabpag_producto_nuevo.Controls.Add(cmb_color);
-            tabpag_producto_nuevo.Controls.Add(txtproducto);
-            tabpag_producto_nuevo.Controls.Add(cmb_talla);
-            tabpag_producto_nuevo.Controls.Add(label16);
-            tabpag_producto_nuevo.Controls.Add(label15);
-            tabpag_producto_nuevo.Controls.Add(cmbcategoria);
-            tabpag_producto_nuevo.Controls.Add(btnbuscar);
-            tabpag_producto_nuevo.Controls.Add(txtprecioventa);
-            tabpag_producto_nuevo.Controls.Add(cmbmarca);
-            tabpag_producto_nuevo.Controls.Add(lbl_categoria);
-            tabpag_producto_nuevo.Controls.Add(btn_cancelar);
-            tabpag_producto_nuevo.Controls.Add(btn_guardar);
-            tabpag_producto_nuevo.Controls.Add(label9);
-            tabpag_producto_nuevo.Controls.Add(lbl_stock_minimo);
-            tabpag_producto_nuevo.Controls.Add(lbl_tipo_producto);
-            tabpag_producto_nuevo.Controls.Add(lbl_codigo);
-            tabpag_producto_nuevo.Controls.Add(lbl_marca);
-            tabpag_producto_nuevo.Controls.Add(txtstockmin);
-            tabpag_producto_nuevo.Controls.Add(txtcodigo);
-            tabpag_producto_nuevo.Controls.Add(label17);
-            tabpag_producto_nuevo.Location = new Point(4, 33);
-            tabpag_producto_nuevo.Name = "tabpag_producto_nuevo";
-            tabpag_producto_nuevo.Padding = new Padding(3);
-            tabpag_producto_nuevo.Size = new Size(1452, 646);
-            tabpag_producto_nuevo.TabIndex = 1;
-            tabpag_producto_nuevo.Text = "Nuevo producto";
-            tabpag_producto_nuevo.UseVisualStyleBackColor = true;
-            // 
-            // dgvProductosnuevo
-            // 
-            dataGridViewCellStyle13.BackColor = Color.White;
-            dgvProductosnuevo.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle13;
-            dataGridViewCellStyle14.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle14.BackColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle14.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle14.ForeColor = Color.White;
-            dataGridViewCellStyle14.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle14.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle14.WrapMode = DataGridViewTriState.True;
-            dgvProductosnuevo.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle14;
-            dgvProductosnuevo.ColumnHeadersHeight = 17;
-            dgvProductosnuevo.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
-            dataGridViewCellStyle15.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle15.BackColor = Color.White;
-            dataGridViewCellStyle15.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle15.ForeColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle15.SelectionBackColor = Color.FromArgb(231, 229, 255);
-            dataGridViewCellStyle15.SelectionForeColor = Color.FromArgb(71, 69, 94);
-            dataGridViewCellStyle15.WrapMode = DataGridViewTriState.False;
-            dgvProductosnuevo.DefaultCellStyle = dataGridViewCellStyle15;
-            dgvProductosnuevo.GridColor = Color.White;
-            dgvProductosnuevo.Location = new Point(35, 296);
-            dgvProductosnuevo.Name = "dgvProductosnuevo";
-            dgvProductosnuevo.RowHeadersVisible = false;
-            dgvProductosnuevo.RowHeadersWidth = 62;
-            dgvProductosnuevo.RowTemplate.Height = 22;
-            dgvProductosnuevo.Size = new Size(1388, 302);
-            dgvProductosnuevo.TabIndex = 94;
-            dgvProductosnuevo.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
-            dgvProductosnuevo.ThemeStyle.GridColor = Color.White;
-            dgvProductosnuevo.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
-            dgvProductosnuevo.ThemeStyle.HeaderStyle.Font = new Font("Segoe UI", 9F);
-            dgvProductosnuevo.ThemeStyle.HeaderStyle.Height = 17;
-            dgvProductosnuevo.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 9F);
-            dgvProductosnuevo.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
-            // 
-            // label5
-            // 
-            label5.AutoSize = true;
-            label5.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label5.Location = new Point(17, 252);
-            label5.Name = "label5";
-            label5.Size = new Size(192, 27);
-            label5.TabIndex = 92;
-            label5.Text = "Lista de productos";
-            // 
-            // cmb_color
-            // 
-            cmb_color.BackColor = Color.Transparent;
-            cmb_color.BorderRadius = 8;
-            cmb_color.CustomizableEdges = customizableEdges64;
-            cmb_color.DrawMode = DrawMode.OwnerDrawFixed;
-            cmb_color.DropDownStyle = ComboBoxStyle.DropDownList;
-            cmb_color.FocusedColor = Color.FromArgb(94, 148, 255);
-            cmb_color.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmb_color.Font = new Font("Segoe UI", 10F);
-            cmb_color.ForeColor = Color.FromArgb(68, 88, 112);
-            cmb_color.ItemHeight = 30;
-            cmb_color.Location = new Point(592, 164);
-            cmb_color.Name = "cmb_color";
-            cmb_color.ShadowDecoration.CustomizableEdges = customizableEdges65;
-            cmb_color.Size = new Size(137, 36);
-            cmb_color.TabIndex = 91;
-            // 
-            // txtproducto
-            // 
-            txtproducto.BorderColor = Color.FromArgb(216, 216, 216);
-            txtproducto.BorderRadius = 8;
-            txtproducto.CustomizableEdges = customizableEdges66;
-            txtproducto.DefaultText = "";
-            txtproducto.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtproducto.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtproducto.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtproducto.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtproducto.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtproducto.Font = new Font("Segoe UI", 9F);
-            txtproducto.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtproducto.Location = new Point(795, 53);
-            txtproducto.Margin = new Padding(6, 8, 6, 8);
-            txtproducto.Name = "txtproducto";
-            txtproducto.PlaceholderText = "";
-            txtproducto.SelectedText = "";
-            txtproducto.ShadowDecoration.CustomizableEdges = customizableEdges67;
-            txtproducto.Size = new Size(264, 55);
-            txtproducto.TabIndex = 87;
-            // 
-            // cmb_talla
-            // 
-            cmb_talla.BackColor = Color.Transparent;
-            cmb_talla.BorderRadius = 8;
-            cmb_talla.CustomizableEdges = customizableEdges68;
-            cmb_talla.DrawMode = DrawMode.OwnerDrawFixed;
-            cmb_talla.DropDownStyle = ComboBoxStyle.DropDownList;
-            cmb_talla.FocusedColor = Color.FromArgb(94, 148, 255);
-            cmb_talla.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmb_talla.Font = new Font("Segoe UI", 10F);
-            cmb_talla.ForeColor = Color.FromArgb(68, 88, 112);
-            cmb_talla.ItemHeight = 30;
-            cmb_talla.Location = new Point(416, 164);
-            cmb_talla.Name = "cmb_talla";
-            cmb_talla.ShadowDecoration.CustomizableEdges = customizableEdges69;
-            cmb_talla.Size = new Size(144, 36);
-            cmb_talla.TabIndex = 90;
-            // 
-            // label16
-            // 
-            label16.AutoSize = true;
-            label16.Font = new Font("Book Antiqua", 11F);
-            label16.Location = new Point(592, 137);
-            label16.Name = "label16";
-            label16.Size = new Size(73, 27);
-            label16.TabIndex = 88;
-            label16.Text = "Color:";
-            // 
-            // label15
-            // 
-            label15.AutoSize = true;
-            label15.Font = new Font("Book Antiqua", 11F);
-            label15.Location = new Point(416, 134);
-            label15.Name = "label15";
-            label15.Size = new Size(65, 27);
-            label15.TabIndex = 89;
-            label15.Text = "Talla:";
-            // 
-            // cmbcategoria
-            // 
-            cmbcategoria.BackColor = Color.Transparent;
-            cmbcategoria.BorderRadius = 8;
-            cmbcategoria.CustomizableEdges = customizableEdges70;
-            cmbcategoria.DrawMode = DrawMode.OwnerDrawFixed;
-            cmbcategoria.DropDownStyle = ComboBoxStyle.DropDownList;
-            cmbcategoria.FocusedColor = Color.FromArgb(94, 148, 255);
-            cmbcategoria.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmbcategoria.Font = new Font("Segoe UI", 10F);
-            cmbcategoria.ForeColor = Color.FromArgb(68, 88, 112);
-            cmbcategoria.ItemHeight = 30;
-            cmbcategoria.Location = new Point(1205, 72);
-            cmbcategoria.Name = "cmbcategoria";
-            cmbcategoria.ShadowDecoration.CustomizableEdges = customizableEdges71;
-            cmbcategoria.Size = new Size(218, 36);
-            cmbcategoria.TabIndex = 84;
-            // 
-            // btnbuscar
-            // 
-            btnbuscar.DisabledState.BorderColor = Color.DarkGray;
-            btnbuscar.DisabledState.CustomBorderColor = Color.DarkGray;
-            btnbuscar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btnbuscar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btnbuscar.FillColor = Color.White;
-            btnbuscar.Font = new Font("Segoe UI", 9F);
-            btnbuscar.ForeColor = Color.White;
-            btnbuscar.Location = new Point(1205, 270);
-            btnbuscar.Name = "btnbuscar";
-            btnbuscar.ShadowDecoration.CustomizableEdges = customizableEdges72;
-            btnbuscar.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            btnbuscar.Size = new Size(30, 30);
-            btnbuscar.TabIndex = 83;
-            // 
-            // txtprecioventa
-            // 
-            txtprecioventa.BorderColor = Color.FromArgb(216, 216, 216);
-            txtprecioventa.BorderRadius = 8;
-            txtprecioventa.CustomizableEdges = customizableEdges73;
-            txtprecioventa.DefaultText = "";
-            txtprecioventa.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtprecioventa.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtprecioventa.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtprecioventa.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtprecioventa.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtprecioventa.Font = new Font("Segoe UI", 9F);
-            txtprecioventa.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtprecioventa.Location = new Point(233, 164);
-            txtprecioventa.Margin = new Padding(6, 8, 6, 8);
-            txtprecioventa.Name = "txtprecioventa";
-            txtprecioventa.PlaceholderText = "";
-            txtprecioventa.SelectedText = "";
-            txtprecioventa.ShadowDecoration.CustomizableEdges = customizableEdges74;
-            txtprecioventa.Size = new Size(143, 55);
-            txtprecioventa.TabIndex = 82;
-            // 
-            // cmbmarca
-            // 
-            cmbmarca.BackColor = Color.Transparent;
-            cmbmarca.BorderRadius = 8;
-            cmbmarca.CustomizableEdges = customizableEdges75;
-            cmbmarca.DrawMode = DrawMode.OwnerDrawFixed;
-            cmbmarca.DropDownStyle = ComboBoxStyle.DropDownList;
-            cmbmarca.FocusedColor = Color.FromArgb(94, 148, 255);
-            cmbmarca.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmbmarca.Font = new Font("Segoe UI", 10F);
-            cmbmarca.ForeColor = Color.FromArgb(68, 88, 112);
-            cmbmarca.ItemHeight = 30;
-            cmbmarca.Location = new Point(396, 71);
-            cmbmarca.Name = "cmbmarca";
-            cmbmarca.ShadowDecoration.CustomizableEdges = customizableEdges76;
-            cmbmarca.Size = new Size(221, 36);
-            cmbmarca.TabIndex = 81;
-            // 
-            // lbl_categoria
-            // 
-            lbl_categoria.AutoSize = true;
-            lbl_categoria.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lbl_categoria.Location = new Point(1093, 77);
-            lbl_categoria.Name = "lbl_categoria";
-            lbl_categoria.Size = new Size(113, 27);
-            lbl_categoria.TabIndex = 80;
-            lbl_categoria.Text = "Categoría:";
-            // 
-            // btn_cancelar
-            // 
-            btn_cancelar.BorderColor = Color.FromArgb(194, 154, 116);
-            btn_cancelar.BorderRadius = 8;
-            btn_cancelar.BorderThickness = 1;
-            btn_cancelar.CustomizableEdges = customizableEdges77;
-            btn_cancelar.DisabledState.BorderColor = Color.DarkGray;
-            btn_cancelar.DisabledState.CustomBorderColor = Color.DarkGray;
-            btn_cancelar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btn_cancelar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_cancelar.FillColor = Color.White;
-            btn_cancelar.FocusedColor = Color.FromArgb(110, 18, 32);
-            btn_cancelar.Font = new Font("Book Antiqua", 11F);
-            btn_cancelar.ForeColor = Color.Black;
-            btn_cancelar.Location = new Point(1110, 157);
-            btn_cancelar.Name = "btn_cancelar";
-            btn_cancelar.ShadowDecoration.CustomizableEdges = customizableEdges78;
-            btn_cancelar.Size = new Size(161, 43);
-            btn_cancelar.TabIndex = 79;
-            btn_cancelar.Text = "Cancelar";
-            // 
-            // btn_guardar
-            // 
-            btn_guardar.BorderColor = Color.White;
-            btn_guardar.BorderRadius = 8;
-            btn_guardar.CustomizableEdges = customizableEdges79;
-            btn_guardar.DisabledState.BorderColor = Color.DarkGray;
-            btn_guardar.DisabledState.CustomBorderColor = Color.DarkGray;
-            btn_guardar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btn_guardar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_guardar.FillColor = Color.FromArgb(110, 18, 32);
-            btn_guardar.Font = new Font("Book Antiqua", 11F);
-            btn_guardar.ForeColor = Color.White;
-            btn_guardar.Location = new Point(947, 157);
-            btn_guardar.Name = "btn_guardar";
-            btn_guardar.ShadowDecoration.CustomizableEdges = customizableEdges80;
-            btn_guardar.Size = new Size(144, 43);
-            btn_guardar.TabIndex = 78;
-            btn_guardar.Text = "Guardar";
-            // 
-            // label9
-            // 
-            label9.AutoSize = true;
-            label9.Font = new Font("Book Antiqua", 11F);
-            label9.Location = new Point(230, 135);
-            label9.Name = "label9";
-            label9.Size = new Size(143, 27);
-            label9.TabIndex = 77;
-            label9.Text = "Precio Venta:";
-            // 
-            // lbl_stock_minimo
-            // 
-            lbl_stock_minimo.AutoSize = true;
-            lbl_stock_minimo.Font = new Font("Book Antiqua", 11F);
-            lbl_stock_minimo.Location = new Point(36, 133);
-            lbl_stock_minimo.Name = "lbl_stock_minimo";
-            lbl_stock_minimo.Size = new Size(152, 27);
-            lbl_stock_minimo.TabIndex = 76;
-            lbl_stock_minimo.Text = "Stock minímo:";
-            // 
-            // lbl_tipo_producto
-            // 
-            lbl_tipo_producto.AutoSize = true;
-            lbl_tipo_producto.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lbl_tipo_producto.Location = new Point(639, 81);
-            lbl_tipo_producto.Name = "lbl_tipo_producto";
-            lbl_tipo_producto.Size = new Size(157, 27);
-            lbl_tipo_producto.TabIndex = 75;
-            lbl_tipo_producto.Text = "Tipo Producto:";
-            // 
-            // lbl_codigo
-            // 
-            lbl_codigo.AutoSize = true;
-            lbl_codigo.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lbl_codigo.Location = new Point(36, 77);
-            lbl_codigo.Margin = new Padding(4, 0, 4, 0);
-            lbl_codigo.Name = "lbl_codigo";
-            lbl_codigo.Size = new Size(89, 27);
-            lbl_codigo.TabIndex = 73;
-            lbl_codigo.Text = "Código:";
-            // 
-            // lbl_marca
-            // 
-            lbl_marca.AutoSize = true;
-            lbl_marca.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lbl_marca.Location = new Point(309, 77);
-            lbl_marca.Margin = new Padding(4, 0, 4, 0);
-            lbl_marca.Name = "lbl_marca";
-            lbl_marca.Size = new Size(80, 27);
-            lbl_marca.TabIndex = 72;
-            lbl_marca.Text = "Marca:";
-            // 
-            // txtstockmin
-            // 
-            txtstockmin.BorderColor = Color.FromArgb(216, 216, 216);
-            txtstockmin.BorderRadius = 8;
-            txtstockmin.CustomizableEdges = customizableEdges81;
-            txtstockmin.DefaultText = "";
-            txtstockmin.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtstockmin.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtstockmin.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtstockmin.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtstockmin.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtstockmin.Font = new Font("Segoe UI", 9F);
-            txtstockmin.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtstockmin.Location = new Point(36, 164);
-            txtstockmin.Margin = new Padding(6, 8, 6, 8);
-            txtstockmin.Name = "txtstockmin";
-            txtstockmin.PlaceholderText = "";
-            txtstockmin.SelectedText = "";
-            txtstockmin.ShadowDecoration.CustomizableEdges = customizableEdges82;
-            txtstockmin.Size = new Size(150, 55);
-            txtstockmin.TabIndex = 71;
-            // 
-            // txtcodigo
-            // 
-            txtcodigo.BorderColor = Color.FromArgb(216, 216, 216);
-            txtcodigo.BorderRadius = 8;
-            txtcodigo.CustomizableEdges = customizableEdges83;
-            txtcodigo.DefaultText = "";
-            txtcodigo.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtcodigo.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtcodigo.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtcodigo.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtcodigo.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtcodigo.Font = new Font("Segoe UI", 9F);
-            txtcodigo.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtcodigo.Location = new Point(127, 71);
-            txtcodigo.Margin = new Padding(6, 8, 6, 8);
-            txtcodigo.Name = "txtcodigo";
-            txtcodigo.PlaceholderText = "";
-            txtcodigo.ReadOnly = true;
-            txtcodigo.SelectedText = "";
-            txtcodigo.ShadowDecoration.CustomizableEdges = customizableEdges84;
-            txtcodigo.Size = new Size(172, 36);
-            txtcodigo.TabIndex = 68;
-            // 
-            // label17
-            // 
-            label17.AutoSize = true;
-            label17.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label17.Location = new Point(17, 28);
-            label17.Margin = new Padding(4, 0, 4, 0);
-            label17.Name = "label17";
-            label17.Size = new Size(173, 27);
-            label17.TabIndex = 66;
-            label17.Text = "Nuevo producto";
-            // 
-            // tabpag_producto_editar
-            // 
-            tabpag_producto_editar.Controls.Add(dgw_producto_editar);
-            tabpag_producto_editar.Controls.Add(label14);
-            tabpag_producto_editar.Controls.Add(cmb_color_editar);
-            tabpag_producto_editar.Controls.Add(cmb_tipo_producto_editar);
-            tabpag_producto_editar.Controls.Add(cmb_talla_editar);
-            tabpag_producto_editar.Controls.Add(label18);
-            tabpag_producto_editar.Controls.Add(label19);
-            tabpag_producto_editar.Controls.Add(cmb_categoria_editar);
-            tabpag_producto_editar.Controls.Add(txtbox_precio_venta_editar);
-            tabpag_producto_editar.Controls.Add(cmb_marca_editar);
-            tabpag_producto_editar.Controls.Add(label20);
-            tabpag_producto_editar.Controls.Add(btn_cancelar_Editar);
-            tabpag_producto_editar.Controls.Add(btn_guardar_editar);
-            tabpag_producto_editar.Controls.Add(label21);
-            tabpag_producto_editar.Controls.Add(label22);
-            tabpag_producto_editar.Controls.Add(label23);
-            tabpag_producto_editar.Controls.Add(lbl_codigo_editar);
-            tabpag_producto_editar.Controls.Add(label26);
-            tabpag_producto_editar.Controls.Add(txtbox_stockmin_editar);
-            tabpag_producto_editar.Controls.Add(txtbox_codigo_editar);
-            tabpag_producto_editar.Controls.Add(label27);
-            tabpag_producto_editar.Location = new Point(4, 33);
-            tabpag_producto_editar.Name = "tabpag_producto_editar";
-            tabpag_producto_editar.Padding = new Padding(3);
-            tabpag_producto_editar.Size = new Size(1452, 646);
-            tabpag_producto_editar.TabIndex = 2;
-            tabpag_producto_editar.Text = "Editar";
-            tabpag_producto_editar.UseVisualStyleBackColor = true;
-            // 
-            // dgw_producto_editar
-            // 
-            dataGridViewCellStyle16.BackColor = Color.White;
-            dgw_producto_editar.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle16;
-            dataGridViewCellStyle17.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle17.BackColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle17.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle17.ForeColor = Color.White;
-            dataGridViewCellStyle17.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle17.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle17.WrapMode = DataGridViewTriState.True;
-            dgw_producto_editar.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle17;
-            dgw_producto_editar.ColumnHeadersHeight = 17;
-            dgw_producto_editar.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
-            dataGridViewCellStyle18.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle18.BackColor = Color.White;
-            dataGridViewCellStyle18.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle18.ForeColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle18.SelectionBackColor = Color.FromArgb(231, 229, 255);
-            dataGridViewCellStyle18.SelectionForeColor = Color.FromArgb(71, 69, 94);
-            dataGridViewCellStyle18.WrapMode = DataGridViewTriState.False;
-            dgw_producto_editar.DefaultCellStyle = dataGridViewCellStyle18;
-            dgw_producto_editar.GridColor = Color.White;
-            dgw_producto_editar.Location = new Point(41, 306);
-            dgw_producto_editar.Name = "dgw_producto_editar";
-            dgw_producto_editar.RowHeadersVisible = false;
-            dgw_producto_editar.RowHeadersWidth = 62;
-            dgw_producto_editar.RowTemplate.Height = 22;
-            dgw_producto_editar.Size = new Size(1388, 302);
-            dgw_producto_editar.TabIndex = 116;
-            dgw_producto_editar.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
-            dgw_producto_editar.ThemeStyle.GridColor = Color.White;
-            dgw_producto_editar.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
-            dgw_producto_editar.ThemeStyle.HeaderStyle.Font = new Font("Segoe UI", 9F);
-            dgw_producto_editar.ThemeStyle.HeaderStyle.Height = 17;
-            dgw_producto_editar.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 9F);
-            dgw_producto_editar.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
-            // 
-            // label14
-            // 
-            label14.AutoSize = true;
-            label14.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label14.Location = new Point(23, 262);
-            label14.Name = "label14";
-            label14.Size = new Size(192, 27);
-            label14.TabIndex = 115;
-            label14.Text = "Lista de productos";
-            // 
-            // cmb_color_editar
-            // 
-            cmb_color_editar.BackColor = Color.Transparent;
-            cmb_color_editar.BorderRadius = 8;
-            cmb_color_editar.CustomizableEdges = customizableEdges85;
-            cmb_color_editar.DrawMode = DrawMode.OwnerDrawFixed;
-            cmb_color_editar.DropDownStyle = ComboBoxStyle.DropDownList;
-            cmb_color_editar.FocusedColor = Color.FromArgb(94, 148, 255);
-            cmb_color_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmb_color_editar.Font = new Font("Segoe UI", 10F);
-            cmb_color_editar.ForeColor = Color.FromArgb(68, 88, 112);
-            cmb_color_editar.ItemHeight = 30;
-            cmb_color_editar.Location = new Point(598, 174);
-            cmb_color_editar.Name = "cmb_color_editar";
-            cmb_color_editar.ShadowDecoration.CustomizableEdges = customizableEdges86;
-            cmb_color_editar.Size = new Size(137, 36);
-            cmb_color_editar.TabIndex = 114;
-            // 
-            // cmb_tipo_producto_editar
-            // 
-            cmb_tipo_producto_editar.BorderColor = Color.FromArgb(216, 216, 216);
-            cmb_tipo_producto_editar.BorderRadius = 8;
-            cmb_tipo_producto_editar.CustomizableEdges = customizableEdges87;
-            cmb_tipo_producto_editar.DefaultText = "";
-            cmb_tipo_producto_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            cmb_tipo_producto_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            cmb_tipo_producto_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            cmb_tipo_producto_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            cmb_tipo_producto_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmb_tipo_producto_editar.Font = new Font("Segoe UI", 9F);
-            cmb_tipo_producto_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmb_tipo_producto_editar.Location = new Point(801, 63);
-            cmb_tipo_producto_editar.Margin = new Padding(6, 8, 6, 8);
-            cmb_tipo_producto_editar.Name = "cmb_tipo_producto_editar";
-            cmb_tipo_producto_editar.PlaceholderText = "";
-            cmb_tipo_producto_editar.SelectedText = "";
-            cmb_tipo_producto_editar.ShadowDecoration.CustomizableEdges = customizableEdges88;
-            cmb_tipo_producto_editar.Size = new Size(264, 55);
-            cmb_tipo_producto_editar.TabIndex = 110;
-            // 
-            // cmb_talla_editar
-            // 
-            cmb_talla_editar.BackColor = Color.Transparent;
-            cmb_talla_editar.BorderRadius = 8;
-            cmb_talla_editar.CustomizableEdges = customizableEdges89;
-            cmb_talla_editar.DrawMode = DrawMode.OwnerDrawFixed;
-            cmb_talla_editar.DropDownStyle = ComboBoxStyle.DropDownList;
-            cmb_talla_editar.FocusedColor = Color.FromArgb(94, 148, 255);
-            cmb_talla_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmb_talla_editar.Font = new Font("Segoe UI", 10F);
-            cmb_talla_editar.ForeColor = Color.FromArgb(68, 88, 112);
-            cmb_talla_editar.ItemHeight = 30;
-            cmb_talla_editar.Location = new Point(422, 174);
-            cmb_talla_editar.Name = "cmb_talla_editar";
-            cmb_talla_editar.ShadowDecoration.CustomizableEdges = customizableEdges90;
-            cmb_talla_editar.Size = new Size(144, 36);
-            cmb_talla_editar.TabIndex = 113;
-            // 
-            // label18
-            // 
-            label18.AutoSize = true;
-            label18.Font = new Font("Book Antiqua", 11F);
-            label18.Location = new Point(598, 147);
-            label18.Name = "label18";
-            label18.Size = new Size(73, 27);
-            label18.TabIndex = 111;
-            label18.Text = "Color:";
-            // 
-            // label19
-            // 
-            label19.AutoSize = true;
-            label19.Font = new Font("Book Antiqua", 11F);
-            label19.Location = new Point(422, 144);
-            label19.Name = "label19";
-            label19.Size = new Size(65, 27);
-            label19.TabIndex = 112;
-            label19.Text = "Talla:";
-            // 
-            // cmb_categoria_editar
-            // 
-            cmb_categoria_editar.BackColor = Color.Transparent;
-            cmb_categoria_editar.BorderRadius = 8;
-            cmb_categoria_editar.CustomizableEdges = customizableEdges91;
-            cmb_categoria_editar.DrawMode = DrawMode.OwnerDrawFixed;
-            cmb_categoria_editar.DropDownStyle = ComboBoxStyle.DropDownList;
-            cmb_categoria_editar.FocusedColor = Color.FromArgb(94, 148, 255);
-            cmb_categoria_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmb_categoria_editar.Font = new Font("Segoe UI", 10F);
-            cmb_categoria_editar.ForeColor = Color.FromArgb(68, 88, 112);
-            cmb_categoria_editar.ItemHeight = 30;
-            cmb_categoria_editar.Location = new Point(1211, 82);
-            cmb_categoria_editar.Name = "cmb_categoria_editar";
-            cmb_categoria_editar.ShadowDecoration.CustomizableEdges = customizableEdges92;
-            cmb_categoria_editar.Size = new Size(218, 36);
-            cmb_categoria_editar.TabIndex = 109;
-            // 
-            // txtbox_precio_venta_editar
-            // 
-            txtbox_precio_venta_editar.BorderColor = Color.FromArgb(216, 216, 216);
-            txtbox_precio_venta_editar.BorderRadius = 8;
-            txtbox_precio_venta_editar.CustomizableEdges = customizableEdges93;
-            txtbox_precio_venta_editar.DefaultText = "";
-            txtbox_precio_venta_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtbox_precio_venta_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtbox_precio_venta_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_precio_venta_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_precio_venta_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_precio_venta_editar.Font = new Font("Segoe UI", 9F);
-            txtbox_precio_venta_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_precio_venta_editar.Location = new Point(239, 174);
-            txtbox_precio_venta_editar.Margin = new Padding(6, 8, 6, 8);
-            txtbox_precio_venta_editar.Name = "txtbox_precio_venta_editar";
-            txtbox_precio_venta_editar.PlaceholderText = "";
-            txtbox_precio_venta_editar.SelectedText = "";
-            txtbox_precio_venta_editar.ShadowDecoration.CustomizableEdges = customizableEdges94;
-            txtbox_precio_venta_editar.Size = new Size(143, 55);
-            txtbox_precio_venta_editar.TabIndex = 107;
-            // 
-            // cmb_marca_editar
-            // 
-            cmb_marca_editar.BackColor = Color.Transparent;
-            cmb_marca_editar.BorderRadius = 8;
-            cmb_marca_editar.CustomizableEdges = customizableEdges95;
-            cmb_marca_editar.DrawMode = DrawMode.OwnerDrawFixed;
-            cmb_marca_editar.DropDownStyle = ComboBoxStyle.DropDownList;
-            cmb_marca_editar.FocusedColor = Color.FromArgb(94, 148, 255);
-            cmb_marca_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmb_marca_editar.Font = new Font("Segoe UI", 10F);
-            cmb_marca_editar.ForeColor = Color.FromArgb(68, 88, 112);
-            cmb_marca_editar.ItemHeight = 30;
-            cmb_marca_editar.Location = new Point(402, 81);
-            cmb_marca_editar.Name = "cmb_marca_editar";
-            cmb_marca_editar.ShadowDecoration.CustomizableEdges = customizableEdges96;
-            cmb_marca_editar.Size = new Size(221, 36);
-            cmb_marca_editar.TabIndex = 106;
-            // 
-            // label20
-            // 
-            label20.AutoSize = true;
-            label20.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label20.Location = new Point(1099, 87);
-            label20.Name = "label20";
-            label20.Size = new Size(113, 27);
-            label20.TabIndex = 105;
-            label20.Text = "Categoría:";
-            // 
-            // btn_cancelar_Editar
-            // 
-            btn_cancelar_Editar.BorderColor = Color.FromArgb(194, 154, 116);
-            btn_cancelar_Editar.BorderRadius = 8;
-            btn_cancelar_Editar.BorderThickness = 1;
-            btn_cancelar_Editar.CustomizableEdges = customizableEdges97;
-            btn_cancelar_Editar.DisabledState.BorderColor = Color.DarkGray;
-            btn_cancelar_Editar.DisabledState.CustomBorderColor = Color.DarkGray;
-            btn_cancelar_Editar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btn_cancelar_Editar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_cancelar_Editar.FillColor = Color.White;
-            btn_cancelar_Editar.FocusedColor = Color.FromArgb(110, 18, 32);
-            btn_cancelar_Editar.Font = new Font("Book Antiqua", 11F);
-            btn_cancelar_Editar.ForeColor = Color.Black;
-            btn_cancelar_Editar.Location = new Point(1116, 167);
-            btn_cancelar_Editar.Name = "btn_cancelar_Editar";
-            btn_cancelar_Editar.ShadowDecoration.CustomizableEdges = customizableEdges98;
-            btn_cancelar_Editar.Size = new Size(161, 43);
-            btn_cancelar_Editar.TabIndex = 104;
-            btn_cancelar_Editar.Text = "Cancelar";
-            // 
-            // btn_guardar_editar
-            // 
-            btn_guardar_editar.BorderColor = Color.White;
-            btn_guardar_editar.BorderRadius = 8;
-            btn_guardar_editar.CustomizableEdges = customizableEdges99;
-            btn_guardar_editar.DisabledState.BorderColor = Color.DarkGray;
-            btn_guardar_editar.DisabledState.CustomBorderColor = Color.DarkGray;
-            btn_guardar_editar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btn_guardar_editar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_guardar_editar.FillColor = Color.FromArgb(110, 18, 32);
-            btn_guardar_editar.Font = new Font("Book Antiqua", 11F);
-            btn_guardar_editar.ForeColor = Color.White;
-            btn_guardar_editar.Location = new Point(953, 167);
-            btn_guardar_editar.Name = "btn_guardar_editar";
-            btn_guardar_editar.ShadowDecoration.CustomizableEdges = customizableEdges100;
-            btn_guardar_editar.Size = new Size(144, 43);
-            btn_guardar_editar.TabIndex = 103;
-            btn_guardar_editar.Text = "Guardar";
-            // 
-            // label21
-            // 
-            label21.AutoSize = true;
-            label21.Font = new Font("Book Antiqua", 11F);
-            label21.Location = new Point(236, 145);
-            label21.Name = "label21";
-            label21.Size = new Size(143, 27);
-            label21.TabIndex = 102;
-            label21.Text = "Precio Venta:";
-            // 
-            // label22
-            // 
-            label22.AutoSize = true;
-            label22.Font = new Font("Book Antiqua", 11F);
-            label22.Location = new Point(42, 143);
-            label22.Name = "label22";
-            label22.Size = new Size(152, 27);
-            label22.TabIndex = 101;
-            label22.Text = "Stock minímo:";
-            // 
-            // label23
-            // 
-            label23.AutoSize = true;
-            label23.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label23.Location = new Point(645, 91);
-            label23.Name = "label23";
-            label23.Size = new Size(157, 27);
-            label23.TabIndex = 100;
-            label23.Text = "Tipo Producto:";
-            // 
-            // lbl_codigo_editar
-            // 
-            lbl_codigo_editar.AutoSize = true;
-            lbl_codigo_editar.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lbl_codigo_editar.Location = new Point(42, 87);
-            lbl_codigo_editar.Margin = new Padding(4, 0, 4, 0);
-            lbl_codigo_editar.Name = "lbl_codigo_editar";
-            lbl_codigo_editar.Size = new Size(89, 27);
-            lbl_codigo_editar.TabIndex = 99;
-            lbl_codigo_editar.Text = "Código:";
-            // 
-            // label26
-            // 
-            label26.AutoSize = true;
-            label26.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label26.Location = new Point(315, 87);
-            label26.Margin = new Padding(4, 0, 4, 0);
-            label26.Name = "label26";
-            label26.Size = new Size(80, 27);
-            label26.TabIndex = 98;
-            label26.Text = "Marca:";
-            // 
-            // txtbox_stockmin_editar
-            // 
-            txtbox_stockmin_editar.BorderColor = Color.FromArgb(216, 216, 216);
-            txtbox_stockmin_editar.BorderRadius = 8;
-            txtbox_stockmin_editar.CustomizableEdges = customizableEdges101;
-            txtbox_stockmin_editar.DefaultText = "";
-            txtbox_stockmin_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtbox_stockmin_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtbox_stockmin_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_stockmin_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_stockmin_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_stockmin_editar.Font = new Font("Segoe UI", 9F);
-            txtbox_stockmin_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_stockmin_editar.Location = new Point(42, 174);
-            txtbox_stockmin_editar.Margin = new Padding(6, 8, 6, 8);
-            txtbox_stockmin_editar.Name = "txtbox_stockmin_editar";
-            txtbox_stockmin_editar.PlaceholderText = "";
-            txtbox_stockmin_editar.SelectedText = "";
-            txtbox_stockmin_editar.ShadowDecoration.CustomizableEdges = customizableEdges102;
-            txtbox_stockmin_editar.Size = new Size(150, 55);
-            txtbox_stockmin_editar.TabIndex = 97;
-            // 
-            // txtbox_codigo_editar
-            // 
-            txtbox_codigo_editar.BorderColor = Color.FromArgb(216, 216, 216);
-            txtbox_codigo_editar.BorderRadius = 8;
-            txtbox_codigo_editar.CustomizableEdges = customizableEdges103;
-            txtbox_codigo_editar.DefaultText = "";
-            txtbox_codigo_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtbox_codigo_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtbox_codigo_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_codigo_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_codigo_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_codigo_editar.Font = new Font("Segoe UI", 9F);
-            txtbox_codigo_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_codigo_editar.Location = new Point(133, 81);
-            txtbox_codigo_editar.Margin = new Padding(6, 8, 6, 8);
-            txtbox_codigo_editar.Name = "txtbox_codigo_editar";
-            txtbox_codigo_editar.PlaceholderText = "";
-            txtbox_codigo_editar.ReadOnly = true;
-            txtbox_codigo_editar.SelectedText = "";
-            txtbox_codigo_editar.ShadowDecoration.CustomizableEdges = customizableEdges104;
-            txtbox_codigo_editar.Size = new Size(172, 36);
-            txtbox_codigo_editar.TabIndex = 96;
-            // 
-            // label27
-            // 
-            label27.AutoSize = true;
-            label27.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label27.Location = new Point(23, 38);
-            label27.Margin = new Padding(4, 0, 4, 0);
-            label27.Name = "label27";
-            label27.Size = new Size(173, 27);
-            label27.TabIndex = 95;
-            label27.Text = "Nuevo producto";
+            colEstadoResumen.HeaderText = "Estado";
+            colEstadoResumen.MinimumWidth = 8;
+            colEstadoResumen.Name = "colEstadoResumen";
+            colEstadoResumen.ReadOnly = true;
             // 
             // Frm_producto
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1556, 863);
-            Controls.Add(guna2ShadowPanel1);
-            Controls.Add(guna2Panel1);
-            Controls.Add(panel4);
-            Controls.Add(panel3);
-            Controls.Add(panel2);
-            Controls.Add(panel1);
+            BackColor = Color.FromArgb(248, 241, 242);
+            ClientSize = new Size(1556, 867);
+            Controls.Add(pnlResumen);
+            Controls.Add(pnlRegistro);
+            Controls.Add(pnlEncabezado);
             FormBorderStyle = FormBorderStyle.None;
             Name = "Frm_producto";
-            Text = "Frm_producto";
+            Text = "Productos";
             Load += Frm_producto_Load;
-            guna2Panel1.ResumeLayout(false);
-            guna2Panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
-            ((System.ComponentModel.ISupportInitialize)guna2CirclePictureBox1).EndInit();
-            guna2ShadowPanel1.ResumeLayout(false);
-            tabControl1.ResumeLayout(false);
-            tabpag_producto.ResumeLayout(false);
-            tabpag_producto.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)dgw_producto).EndInit();
-            tabpag_producto_nuevo.ResumeLayout(false);
-            tabpag_producto_nuevo.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)dgvProductosnuevo).EndInit();
-            tabpag_producto_editar.ResumeLayout(false);
-            tabpag_producto_editar.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)dgw_producto_editar).EndInit();
+            pnlEncabezado.ResumeLayout(false);
+            pnlEncabezado.PerformLayout();
+            pnlRegistro.ResumeLayout(false);
+            pnlRegistro.PerformLayout();
+            pnlVariante.ResumeLayout(false);
+            pnlVariante.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)nudPrecioVenta).EndInit();
+            ((System.ComponentModel.ISupportInitialize)nudPrecioCompra).EndInit();
+            ((System.ComponentModel.ISupportInitialize)nudStockMinimo).EndInit();
+            ((System.ComponentModel.ISupportInitialize)nudStock).EndInit();
+            pnlResumen.ResumeLayout(false);
+            pnlResumen.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)dgvResumen).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
-        private Panel panel1;
-        private Panel panel2;
-        private Panel panel3;
-        private Panel panel4;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
-        private PictureBox pictureBox4;
-        private Label label1;
-        private PictureBox pictureBox3;
-        private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
-        private Label label2;
-        private Label label6;
-        private Label label11;
-        private Guna.UI2.WinForms.Guna2ShadowPanel guna2ShadowPanel1;
-        private TabControl tabControl1;
-        private TabPage tabpag_producto;
-        private TabPage tabpag_producto_nuevo;
-        private TabPage tabpag_producto_editar;
-        protected internal Guna.UI2.WinForms.Guna2DataGridView dgw_producto;
+        private Guna.UI2.WinForms.Guna2Panel pnlEncabezado;
+        private Guna.UI2.WinForms.Guna2Button btnVerTodos;
+        private Guna.UI2.WinForms.Guna2Button btnMarcas;
+        private Guna.UI2.WinForms.Guna2Button btnCategorias;
+        private Label lblSubtitulo;
+        private Label lblTitulo;
+        private Guna.UI2.WinForms.Guna2ShadowPanel pnlRegistro;
+        private Guna.UI2.WinForms.Guna2Button btnGuardarProducto;
+        private Guna.UI2.WinForms.Guna2Button btnLimpiar;
+        private Guna.UI2.WinForms.Guna2Panel pnlVariante;
+        private Guna.UI2.WinForms.Guna2Button btnColores;
+        private Guna.UI2.WinForms.Guna2Button btnTallas;
+        private Guna.UI2.WinForms.Guna2Button btnAgregarVariante;
+        private NumericUpDown nudPrecioVenta;
+        private NumericUpDown nudPrecioCompra;
+        private NumericUpDown nudStockMinimo;
+        private NumericUpDown nudStock;
+        private Guna.UI2.WinForms.Guna2ComboBox cmbColor;
+        private Guna.UI2.WinForms.Guna2ComboBox cmbTalla;
+        private Label lblPrecioVenta;
+        private Label lblPrecioCompra;
+        private Label lblStockMinimo;
+        private Label lblStock;
+        private Label lblColor;
+        private Label lblTalla;
+        private Label lblVariante;
+        private Guna.UI2.WinForms.Guna2ComboBox cmbMarca;
+        private Label lblMarca;
+        private Guna.UI2.WinForms.Guna2ComboBox cmbCategoria;
+        private Label lblCategoria;
+        private Guna.UI2.WinForms.Guna2TextBox txtDescripcion;
+        private Label lblDescripcion;
+        private Guna.UI2.WinForms.Guna2TextBox txtNombre;
+        private Label lblNombre;
+        private Label lblRegistrarAyuda;
+        private Label lblRegistrar;
+        private Guna.UI2.WinForms.Guna2ShadowPanel pnlResumen;
+        private Guna.UI2.WinForms.Guna2Button btnAgregarVariantesExistente;
+        private Guna.UI2.WinForms.Guna2TextBox txtBuscarResumen;
+        private Guna.UI2.WinForms.Guna2ComboBox cmbOrdenResumen;
+        private Label lblOrdenResumen;
+        private Label lblResumenTotal;
+        private Label lblResumen;
+        private Guna.UI2.WinForms.Guna2DataGridView dgvResumen;
+        private DataGridViewTextBoxColumn colIdProducto;
+        private DataGridViewTextBoxColumn colProducto;
+        private DataGridViewTextBoxColumn colMarcaResumen;
+        private DataGridViewTextBoxColumn colCategoriaResumen;
+        private DataGridViewTextBoxColumn colVariantesResumen;
+        private DataGridViewTextBoxColumn colStockResumen;
+        private DataGridViewTextBoxColumn colPrecioResumen;
         private DataGridViewTextBoxColumn Column1;
-        private DataGridViewTextBoxColumn Column2;
-        private DataGridViewTextBoxColumn Column3;
-        private DataGridViewTextBoxColumn Column6;
-        private DataGridViewTextBoxColumn Column4;
-        private DataGridViewTextBoxColumn Column5;
-        private Label label3;
-        private Label lbl_total_productos;
-        private Guna.UI2.WinForms.Guna2Button btn_mostrar;
-        private Guna.UI2.WinForms.Guna2Button btn_guardar_producto;
-        private Guna.UI2.WinForms.Guna2Button btn_buscar;
-        private Label lbl_buscar;
-        private ComboBox CBbuscarpor;
-        private Guna.UI2.WinForms.Guna2Button btn_limpiar;
-        private Guna.UI2.WinForms.Guna2ComboBox cmb_color;
-        private Guna.UI2.WinForms.Guna2TextBox txtproducto;
-        private Guna.UI2.WinForms.Guna2ComboBox cmb_talla;
-        private Label label16;
-        private Label label15;
-        private Guna.UI2.WinForms.Guna2ComboBox cmbcategoria;
-        private Guna.UI2.WinForms.Guna2CircleButton btnbuscar;
-        private Guna.UI2.WinForms.Guna2TextBox txtprecioventa;
-        private Guna.UI2.WinForms.Guna2ComboBox cmbmarca;
-        private Label lbl_categoria;
-        private Guna.UI2.WinForms.Guna2Button btn_cancelar;
-        private Guna.UI2.WinForms.Guna2Button btn_guardar;
-        private Label label9;
-        private Label lbl_stock_minimo;
-        private Label lbl_tipo_producto;
-        private Label lbl_codigo;
-        private Label lbl_marca;
-        private Guna.UI2.WinForms.Guna2TextBox txtstockmin;
-        private Guna.UI2.WinForms.Guna2TextBox txtcodigo;
-        private Label label17;
-        protected internal Guna.UI2.WinForms.Guna2DataGridView dgvProductosnuevo;
-        private Label label5;
-        protected internal Guna.UI2.WinForms.Guna2DataGridView dgw_producto_editar;
-        private Label label14;
-        private Guna.UI2.WinForms.Guna2ComboBox cmb_color_editar;
-        private Guna.UI2.WinForms.Guna2TextBox cmb_tipo_producto_editar;
-        private Guna.UI2.WinForms.Guna2ComboBox cmb_talla_editar;
-        private Label label18;
-        private Label label19;
-        private Guna.UI2.WinForms.Guna2ComboBox cmb_categoria_editar;
-        private Guna.UI2.WinForms.Guna2TextBox txtbox_precio_venta_editar;
-        private Guna.UI2.WinForms.Guna2ComboBox cmb_marca_editar;
-        private Label label20;
-        private Guna.UI2.WinForms.Guna2Button btn_cancelar_Editar;
-        private Guna.UI2.WinForms.Guna2Button btn_guardar_editar;
-        private Label label21;
-        private Label label22;
-        private Label label23;
-        private Label lbl_codigo_editar;
-        private Label label26;
-        private Guna.UI2.WinForms.Guna2TextBox txtbox_stockmin_editar;
-        private Guna.UI2.WinForms.Guna2TextBox txtbox_codigo_editar;
-        private Label label27;
+        private DataGridViewTextBoxColumn colEstadoResumen;
     }
 }

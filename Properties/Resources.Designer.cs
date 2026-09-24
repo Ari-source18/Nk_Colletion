@@ -83,6 +83,16 @@ namespace NK_COLLECTION.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_ayuda_16 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-ayuda-16", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_buscar_24 {
             get {
                 object obj = ResourceManager.GetObject("icons8-buscar-24", resourceCulture);

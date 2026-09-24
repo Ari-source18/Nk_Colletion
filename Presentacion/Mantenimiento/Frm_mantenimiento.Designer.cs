@@ -193,6 +193,30 @@
             Text = "Frm_mantenimiento";
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            // ===== NK DESIGNER SYNC: mismo estilo visible al diseñar y al ejecutar =====
+            BackColor = Color.FromArgb(248, 241, 242);
+            panel4.BackColor = Color.FromArgb(64, 0, 0);
+            panel3.BackColor = Color.FromArgb(64, 0, 0);
+            panel2.BackColor = Color.FromArgb(64, 0, 0);
+            panel1.BackColor = Color.FromArgb(64, 0, 0);
+            btn_Restaurar.Font = new Font("Book Antiqua", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_Restaurar.FlatStyle = FlatStyle.Flat;
+            btn_Restaurar.FlatAppearance.BorderSize = 0;
+            btn_Restaurar.BackColor = Color.FromArgb(64, 0, 0);
+            btn_Restaurar.ForeColor = Color.White;
+            btn_Restaurar.UseVisualStyleBackColor = false;
+            btn_Crear.Font = new Font("Book Antiqua", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_Crear.FlatStyle = FlatStyle.Flat;
+            btn_Crear.FlatAppearance.BorderSize = 0;
+            btn_Crear.BackColor = Color.FromArgb(64, 0, 0);
+            btn_Crear.ForeColor = Color.White;
+            btn_Crear.UseVisualStyleBackColor = false;
+            label7.Font = new Font("Book Antiqua", 12F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            label4.Font = new Font("Book Antiqua", 12F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            label5.Font = new Font("Book Antiqua", 20F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label5.ForeColor = Color.FromArgb(64, 0, 0);
+            label6.Font = new Font("Book Antiqua", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            // ===== FIN NK DESIGNER SYNC =====
             ResumeLayout(false);
             PerformLayout();
         }

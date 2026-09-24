@@ -13,6 +13,10 @@ namespace NK_COLLECTION.Presentacion.Compras
         public Frm_compra()
         {
             InitializeComponent();
+            // El estilo dinámico solo se aplica al ejecutar. En el Designer se usan
+            // las propiedades ya guardadas en InitializeComponent para que sea editable.
+            if (System.ComponentModel.LicenseManager.UsageMode != System.ComponentModel.LicenseUsageMode.Designtime)
+                NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
         }
 
         private void guna2TextBox3_TextChanged(object sender, EventArgs e)
