@@ -325,5 +325,10 @@ namespace NK_COLLECTION.Presentacion.Autenticacion
         {
             Close();
         }
+
+        private void linklbl_volver_LinkClicked_1(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+        }
     }
 }

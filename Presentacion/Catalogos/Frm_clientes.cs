@@ -12,7 +12,10 @@ namespace NK_COLLECTION.Presentacion.Catalogos
         public Frm_clientes()
         {
             InitializeComponent();
-            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
+            // El estilo dinámico solo se aplica al ejecutar. En el Designer se usan
+            // las propiedades ya guardadas en InitializeComponent para que sea editable.
+            if (System.ComponentModel.LicenseManager.UsageMode != System.ComponentModel.LicenseUsageMode.Designtime)
+                NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
 
             Load += Frm_clientes_Load;
             cmb_estado.SelectedIndex = 0;
@@ -235,6 +238,11 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             txtbox_correo_editar.Clear();
             txtbox_direccion_editar.Clear();
             cmb_estado_editar.SelectedIndex = -1;
+        }
+
+        private void guna2ShadowPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

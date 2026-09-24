@@ -55,12 +55,9 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges24 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges25 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges26 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges27 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges28 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Panel_Padre = new Panel();
             panel1 = new Panel();
             btn_cerrar_sesion = new Guna.UI2.WinForms.Guna2Button();
-            btncategoria = new Guna.UI2.WinForms.Guna2Button();
             btnacercade = new Guna.UI2.WinForms.Guna2Button();
             btnmantenimiento = new Guna.UI2.WinForms.Guna2Button();
             btnreporte = new Guna.UI2.WinForms.Guna2Button();
@@ -99,7 +96,6 @@
             Panel_Padre.BackColor = Color.FromArgb(64, 0, 0);
             Panel_Padre.Controls.Add(panel1);
             Panel_Padre.Controls.Add(btn_cerrar_sesion);
-            Panel_Padre.Controls.Add(btncategoria);
             Panel_Padre.Controls.Add(btnacercade);
             Panel_Padre.Controls.Add(btnmantenimiento);
             Panel_Padre.Controls.Add(btnreporte);
@@ -138,311 +134,315 @@
             panel1.BackColor = Color.Transparent;
             panel1.BackgroundImage = (Image)resources.GetObject("panel1.BackgroundImage");
             panel1.BackgroundImageLayout = ImageLayout.Zoom;
-            panel1.Location = new Point(56, 12);
+            panel1.Location = new Point(53, 8);
             panel1.Name = "panel1";
             panel1.Size = new Size(145, 100);
             panel1.TabIndex = 0;
             // 
             // btn_cerrar_sesion
             // 
+            btn_cerrar_sesion.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btn_cerrar_sesion.CustomizableEdges = customizableEdges1;
             btn_cerrar_sesion.DisabledState.BorderColor = Color.DarkGray;
             btn_cerrar_sesion.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_cerrar_sesion.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btn_cerrar_sesion.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btn_cerrar_sesion.FillColor = Color.Transparent;
-            btn_cerrar_sesion.Font = new Font("Century", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btn_cerrar_sesion.Font = new Font("Book Antiqua", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_cerrar_sesion.ForeColor = Color.White;
-            btn_cerrar_sesion.Location = new Point(0, 819);
+            btn_cerrar_sesion.HoverState.FillColor = Color.FromArgb(98, 48, 56);
+            btn_cerrar_sesion.Location = new Point(0, 807);
             btn_cerrar_sesion.Margin = new Padding(4, 5, 4, 5);
             btn_cerrar_sesion.Name = "btn_cerrar_sesion";
             btn_cerrar_sesion.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            btn_cerrar_sesion.Size = new Size(251, 48);
+            btn_cerrar_sesion.Size = new Size(251, 60);
             btn_cerrar_sesion.TabIndex = 48;
             btn_cerrar_sesion.Text = "Cerrar Sesión";
             btn_cerrar_sesion.Click += btn_cerrar_sesion_Click;
             // 
-            // btncategoria
-            // 
-            btncategoria.CustomizableEdges = customizableEdges3;
-            btncategoria.DisabledState.BorderColor = Color.DarkGray;
-            btncategoria.DisabledState.CustomBorderColor = Color.DarkGray;
-            btncategoria.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btncategoria.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btncategoria.FillColor = Color.Transparent;
-            btncategoria.Font = new Font("Century", 10F);
-            btncategoria.ForeColor = Color.White;
-            btncategoria.Image = Properties.Resources.icons8_ropa_familiar_32;
-            btncategoria.ImageAlign = HorizontalAlignment.Left;
-            btncategoria.ImageOffset = new Point(20, 0);
-            btncategoria.Location = new Point(-2, 257);
-            btncategoria.Margin = new Padding(4, 5, 4, 5);
-            btncategoria.Name = "btncategoria";
-            btncategoria.ShadowDecoration.CustomizableEdges = customizableEdges4;
-            btncategoria.Size = new Size(253, 48);
-            btncategoria.TabIndex = 47;
-            btncategoria.Text = "Categoría";
-            btncategoria.Click += btncategoria_Click;
-            // 
             // btnacercade
             // 
-            btnacercade.CustomizableEdges = customizableEdges5;
+            btnacercade.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btnacercade.CustomizableEdges = customizableEdges3;
             btnacercade.DisabledState.BorderColor = Color.DarkGray;
             btnacercade.DisabledState.CustomBorderColor = Color.DarkGray;
             btnacercade.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btnacercade.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btnacercade.FillColor = Color.Transparent;
-            btnacercade.Font = new Font("Century", 10F);
+            btnacercade.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnacercade.ForeColor = Color.White;
+            btnacercade.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btnacercade.Image = Properties.Resources.icons8_acerca_de_24;
             btnacercade.ImageAlign = HorizontalAlignment.Left;
-            btnacercade.ImageOffset = new Point(20, 0);
-            btnacercade.Location = new Point(0, 664);
+            btnacercade.ImageOffset = new Point(18, 0);
+            btnacercade.Location = new Point(0, 697);
             btnacercade.Margin = new Padding(4, 5, 4, 5);
             btnacercade.Name = "btnacercade";
-            btnacercade.ShadowDecoration.CustomizableEdges = customizableEdges6;
-            btnacercade.Size = new Size(251, 45);
+            btnacercade.ShadowDecoration.CustomizableEdges = customizableEdges4;
+            btnacercade.Size = new Size(251, 52);
             btnacercade.TabIndex = 46;
             btnacercade.Text = "Acerca de";
             // 
             // btnmantenimiento
             // 
-            btnmantenimiento.CustomizableEdges = customizableEdges7;
+            btnmantenimiento.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btnmantenimiento.CustomizableEdges = customizableEdges5;
             btnmantenimiento.DisabledState.BorderColor = Color.DarkGray;
             btnmantenimiento.DisabledState.CustomBorderColor = Color.DarkGray;
             btnmantenimiento.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btnmantenimiento.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btnmantenimiento.FillColor = Color.Transparent;
-            btnmantenimiento.Font = new Font("Century", 10F);
+            btnmantenimiento.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnmantenimiento.ForeColor = Color.White;
+            btnmantenimiento.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btnmantenimiento.Image = Properties.Resources.icons8_mantenimiento_24;
             btnmantenimiento.ImageAlign = HorizontalAlignment.Left;
-            btnmantenimiento.ImageOffset = new Point(20, 0);
-            btnmantenimiento.Location = new Point(0, 614);
+            btnmantenimiento.ImageOffset = new Point(18, 0);
+            btnmantenimiento.Location = new Point(0, 645);
             btnmantenimiento.Margin = new Padding(4, 5, 4, 5);
             btnmantenimiento.Name = "btnmantenimiento";
-            btnmantenimiento.ShadowDecoration.CustomizableEdges = customizableEdges8;
-            btnmantenimiento.Size = new Size(251, 54);
+            btnmantenimiento.ShadowDecoration.CustomizableEdges = customizableEdges6;
+            btnmantenimiento.Size = new Size(251, 52);
             btnmantenimiento.TabIndex = 45;
             btnmantenimiento.Text = "Mantenimiento";
             btnmantenimiento.Click += btnmantenimiento_Click;
             // 
             // btnreporte
             // 
-            btnreporte.CustomizableEdges = customizableEdges9;
+            btnreporte.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btnreporte.CustomizableEdges = customizableEdges7;
             btnreporte.DisabledState.BorderColor = Color.DarkGray;
             btnreporte.DisabledState.CustomBorderColor = Color.DarkGray;
             btnreporte.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btnreporte.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btnreporte.FillColor = Color.Transparent;
-            btnreporte.Font = new Font("Century", 10F);
+            btnreporte.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnreporte.ForeColor = Color.White;
+            btnreporte.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btnreporte.Image = Properties.Resources.icons8_cuaderno_24;
             btnreporte.ImageAlign = HorizontalAlignment.Left;
-            btnreporte.ImageOffset = new Point(20, 0);
-            btnreporte.Location = new Point(0, 562);
+            btnreporte.ImageOffset = new Point(18, 0);
+            btnreporte.Location = new Point(0, 593);
             btnreporte.Margin = new Padding(4, 5, 4, 5);
             btnreporte.Name = "btnreporte";
-            btnreporte.ShadowDecoration.CustomizableEdges = customizableEdges10;
-            btnreporte.Size = new Size(251, 54);
+            btnreporte.ShadowDecoration.CustomizableEdges = customizableEdges8;
+            btnreporte.Size = new Size(251, 52);
             btnreporte.TabIndex = 44;
             btnreporte.Text = "Reporte";
             btnreporte.Click += btnreporte_Click;
             // 
             // btncredito
             // 
-            btncredito.CustomizableEdges = customizableEdges11;
+            btncredito.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btncredito.CustomizableEdges = customizableEdges9;
             btncredito.DisabledState.BorderColor = Color.DarkGray;
             btncredito.DisabledState.CustomBorderColor = Color.DarkGray;
             btncredito.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btncredito.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btncredito.FillColor = Color.Transparent;
-            btncredito.Font = new Font("Century", 10F);
+            btncredito.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btncredito.ForeColor = Color.White;
+            btncredito.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btncredito.Image = Properties.Resources.icons8_compre_con_tarjeta_50;
             btncredito.ImageAlign = HorizontalAlignment.Left;
-            btncredito.ImageOffset = new Point(20, 0);
-            btncredito.Location = new Point(0, 518);
+            btncredito.ImageOffset = new Point(18, 0);
+            btncredito.Location = new Point(0, 541);
             btncredito.Margin = new Padding(4, 5, 4, 5);
             btncredito.Name = "btncredito";
-            btncredito.ShadowDecoration.CustomizableEdges = customizableEdges12;
-            btncredito.Size = new Size(251, 45);
+            btncredito.ShadowDecoration.CustomizableEdges = customizableEdges10;
+            btncredito.Size = new Size(251, 52);
             btncredito.TabIndex = 41;
             btncredito.Text = "Crédito";
             btncredito.Click += btncredito_Click;
             // 
             // btndevolucion
             // 
-            btndevolucion.CustomizableEdges = customizableEdges13;
+            btndevolucion.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btndevolucion.CustomizableEdges = customizableEdges11;
             btndevolucion.DisabledState.BorderColor = Color.DarkGray;
             btndevolucion.DisabledState.CustomBorderColor = Color.DarkGray;
             btndevolucion.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btndevolucion.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btndevolucion.FillColor = Color.Transparent;
-            btndevolucion.Font = new Font("Century", 10F);
+            btndevolucion.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btndevolucion.ForeColor = Color.White;
+            btndevolucion.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btndevolucion.Image = Properties.Resources.icons8_devolución_de_compra_24;
             btndevolucion.ImageAlign = HorizontalAlignment.Left;
-            btndevolucion.ImageOffset = new Point(20, 0);
-            btndevolucion.Location = new Point(0, 471);
+            btndevolucion.ImageOffset = new Point(18, 0);
+            btndevolucion.Location = new Point(0, 488);
             btndevolucion.Margin = new Padding(4, 5, 4, 5);
             btndevolucion.Name = "btndevolucion";
-            btndevolucion.ShadowDecoration.CustomizableEdges = customizableEdges14;
-            btndevolucion.Size = new Size(251, 57);
+            btndevolucion.ShadowDecoration.CustomizableEdges = customizableEdges12;
+            btndevolucion.Size = new Size(251, 53);
             btndevolucion.TabIndex = 40;
             btndevolucion.Text = "Devolución";
             btndevolucion.Click += btndevolucion_Click;
             // 
             // btnventas
             // 
-            btnventas.CustomizableEdges = customizableEdges15;
+            btnventas.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btnventas.CustomizableEdges = customizableEdges13;
             btnventas.DisabledState.BorderColor = Color.DarkGray;
             btnventas.DisabledState.CustomBorderColor = Color.DarkGray;
             btnventas.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btnventas.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btnventas.FillColor = Color.Transparent;
-            btnventas.Font = new Font("Century", 10F);
+            btnventas.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnventas.ForeColor = Color.White;
+            btnventas.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btnventas.Image = Properties.Resources.icons8_ventas_50;
             btnventas.ImageAlign = HorizontalAlignment.Left;
-            btnventas.ImageOffset = new Point(20, 0);
-            btnventas.Location = new Point(0, 429);
+            btnventas.ImageOffset = new Point(18, 0);
+            btnventas.Location = new Point(0, 435);
             btnventas.Margin = new Padding(4, 5, 4, 5);
             btnventas.Name = "btnventas";
-            btnventas.ShadowDecoration.CustomizableEdges = customizableEdges16;
-            btnventas.Size = new Size(251, 45);
+            btnventas.ShadowDecoration.CustomizableEdges = customizableEdges14;
+            btnventas.Size = new Size(251, 53);
             btnventas.TabIndex = 39;
             btnventas.Text = "Ventas";
             btnventas.Click += btnventas_Click;
             // 
             // btncaja
             // 
-            btncaja.CustomizableEdges = customizableEdges17;
+            btncaja.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btncaja.CustomizableEdges = customizableEdges15;
             btncaja.DisabledState.BorderColor = Color.DarkGray;
             btncaja.DisabledState.CustomBorderColor = Color.DarkGray;
             btncaja.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btncaja.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btncaja.FillColor = Color.Transparent;
-            btncaja.Font = new Font("Century", 10F);
+            btncaja.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btncaja.ForeColor = Color.White;
+            btncaja.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btncaja.Image = Properties.Resources.icons8_dinero_30;
             btncaja.ImageAlign = HorizontalAlignment.Left;
-            btncaja.ImageOffset = new Point(20, 0);
-            btncaja.Location = new Point(0, 384);
+            btncaja.ImageOffset = new Point(18, 0);
+            btncaja.Location = new Point(0, 382);
             btncaja.Margin = new Padding(4, 5, 4, 5);
             btncaja.Name = "btncaja";
-            btncaja.ShadowDecoration.CustomizableEdges = customizableEdges18;
-            btncaja.Size = new Size(251, 45);
+            btncaja.ShadowDecoration.CustomizableEdges = customizableEdges16;
+            btncaja.Size = new Size(251, 53);
             btncaja.TabIndex = 38;
             btncaja.Text = "Caja";
             btncaja.Click += btncaja_Click;
             // 
             // btnproductos
             // 
-            btnproductos.CustomizableEdges = customizableEdges19;
+            btnproductos.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btnproductos.CustomizableEdges = customizableEdges17;
             btnproductos.DisabledState.BorderColor = Color.DarkGray;
             btnproductos.DisabledState.CustomBorderColor = Color.DarkGray;
             btnproductos.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btnproductos.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btnproductos.FillColor = Color.Transparent;
-            btnproductos.Font = new Font("Century", 10F);
+            btnproductos.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnproductos.ForeColor = Color.White;
+            btnproductos.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btnproductos.Image = Properties.Resources.icons8_productos_24;
             btnproductos.ImageAlign = HorizontalAlignment.Left;
-            btnproductos.ImageOffset = new Point(20, 0);
-            btnproductos.Location = new Point(0, 339);
+            btnproductos.ImageOffset = new Point(18, 0);
+            btnproductos.Location = new Point(0, 329);
             btnproductos.Margin = new Padding(4, 5, 4, 5);
             btnproductos.Name = "btnproductos";
-            btnproductos.ShadowDecoration.CustomizableEdges = customizableEdges20;
-            btnproductos.Size = new Size(251, 47);
+            btnproductos.ShadowDecoration.CustomizableEdges = customizableEdges18;
+            btnproductos.Size = new Size(251, 53);
             btnproductos.TabIndex = 37;
             btnproductos.Text = "Productos";
             btnproductos.Click += btnproductos_Click;
             // 
             // btncompras
             // 
-            btncompras.CustomizableEdges = customizableEdges21;
+            btncompras.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btncompras.CustomizableEdges = customizableEdges19;
             btncompras.DisabledState.BorderColor = Color.DarkGray;
             btncompras.DisabledState.CustomBorderColor = Color.DarkGray;
             btncompras.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btncompras.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btncompras.FillColor = Color.Transparent;
-            btncompras.Font = new Font("Century", 10F);
+            btncompras.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btncompras.ForeColor = Color.White;
+            btncompras.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btncompras.Image = Properties.Resources.icons8_compra_24;
             btncompras.ImageAlign = HorizontalAlignment.Left;
-            btncompras.ImageOffset = new Point(20, 0);
-            btncompras.Location = new Point(0, 296);
+            btncompras.ImageOffset = new Point(18, 0);
+            btncompras.Location = new Point(0, 276);
             btncompras.Margin = new Padding(4, 5, 4, 5);
             btncompras.Name = "btncompras";
-            btncompras.ShadowDecoration.CustomizableEdges = customizableEdges22;
-            btncompras.Size = new Size(251, 48);
+            btncompras.ShadowDecoration.CustomizableEdges = customizableEdges20;
+            btncompras.Size = new Size(251, 53);
             btncompras.TabIndex = 36;
             btncompras.Text = "Compras";
             btncompras.Click += btncompras_Click;
             // 
             // btnproveedores
             // 
-            btnproveedores.CustomizableEdges = customizableEdges23;
+            btnproveedores.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btnproveedores.CustomizableEdges = customizableEdges21;
             btnproveedores.DisabledState.BorderColor = Color.DarkGray;
             btnproveedores.DisabledState.CustomBorderColor = Color.DarkGray;
             btnproveedores.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btnproveedores.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btnproveedores.FillColor = Color.Transparent;
-            btnproveedores.Font = new Font("Century", 10F);
+            btnproveedores.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnproveedores.ForeColor = Color.White;
+            btnproveedores.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btnproveedores.Image = Properties.Resources.icons8_proveedor_24;
             btnproveedores.ImageAlign = HorizontalAlignment.Left;
-            btnproveedores.ImageOffset = new Point(20, 0);
-            btnproveedores.Location = new Point(0, 221);
+            btnproveedores.ImageOffset = new Point(18, 0);
+            btnproveedores.Location = new Point(0, 222);
             btnproveedores.Margin = new Padding(4, 5, 4, 5);
             btnproveedores.Name = "btnproveedores";
-            btnproveedores.ShadowDecoration.CustomizableEdges = customizableEdges24;
-            btnproveedores.Size = new Size(251, 40);
+            btnproveedores.ShadowDecoration.CustomizableEdges = customizableEdges22;
+            btnproveedores.Size = new Size(251, 53);
             btnproveedores.TabIndex = 35;
             btnproveedores.Text = "Proveedores";
             btnproveedores.Click += btnproveedores_Click;
             // 
             // btn_clientes
             // 
-            btn_clientes.CustomizableEdges = customizableEdges25;
+            btn_clientes.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btn_clientes.CustomizableEdges = customizableEdges23;
             btn_clientes.DisabledState.BorderColor = Color.DarkGray;
             btn_clientes.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_clientes.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btn_clientes.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btn_clientes.FillColor = Color.Transparent;
-            btn_clientes.Font = new Font("Century", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btn_clientes.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn_clientes.ForeColor = Color.White;
+            btn_clientes.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btn_clientes.Image = Properties.Resources.icons8_clientes_24;
             btn_clientes.ImageAlign = HorizontalAlignment.Left;
-            btn_clientes.ImageOffset = new Point(20, 0);
-            btn_clientes.Location = new Point(0, 179);
+            btn_clientes.ImageOffset = new Point(18, 0);
+            btn_clientes.Location = new Point(0, 169);
             btn_clientes.Margin = new Padding(4, 5, 4, 5);
             btn_clientes.Name = "btn_clientes";
-            btn_clientes.ShadowDecoration.CustomizableEdges = customizableEdges26;
-            btn_clientes.Size = new Size(251, 43);
+            btn_clientes.ShadowDecoration.CustomizableEdges = customizableEdges24;
+            btn_clientes.Size = new Size(251, 53);
             btn_clientes.TabIndex = 34;
             btn_clientes.Text = "Clientes";
             btn_clientes.Click += btn_clientes_Click;
             // 
             // btn_usuarios
             // 
-            btn_usuarios.CustomizableEdges = customizableEdges27;
+            btn_usuarios.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            btn_usuarios.CustomizableEdges = customizableEdges25;
             btn_usuarios.DisabledState.BorderColor = Color.DarkGray;
             btn_usuarios.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_usuarios.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btn_usuarios.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             btn_usuarios.FillColor = Color.Transparent;
-            btn_usuarios.Font = new Font("Century", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btn_usuarios.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn_usuarios.ForeColor = Color.White;
+            btn_usuarios.HoverState.FillColor = Color.FromArgb(98, 48, 56);
             btn_usuarios.Image = Properties.Resources.icons8_usuarios_30__1_;
             btn_usuarios.ImageAlign = HorizontalAlignment.Left;
-            btn_usuarios.ImageOffset = new Point(20, 0);
-            btn_usuarios.Location = new Point(0, 138);
+            btn_usuarios.ImageOffset = new Point(18, 0);
+            btn_usuarios.Location = new Point(0, 116);
             btn_usuarios.Margin = new Padding(4, 5, 4, 5);
             btn_usuarios.Name = "btn_usuarios";
-            btn_usuarios.ShadowDecoration.CustomizableEdges = customizableEdges28;
-            btn_usuarios.Size = new Size(251, 45);
+            btn_usuarios.ShadowDecoration.CustomizableEdges = customizableEdges26;
+            btn_usuarios.Size = new Size(251, 53);
             btn_usuarios.TabIndex = 33;
             btn_usuarios.Text = "Usuarios";
             btn_usuarios.Click += btn_usuarios_Click;
@@ -458,6 +458,7 @@
             label1.Size = new Size(138, 18);
             label1.TabIndex = 32;
             label1.Text = "Cerrar Sesión";
+            label1.Visible = false;
             // 
             // lbl_Cerrar_sesion
             // 
@@ -470,6 +471,7 @@
             lbl_Cerrar_sesion.Size = new Size(138, 18);
             lbl_Cerrar_sesion.TabIndex = 19;
             lbl_Cerrar_sesion.Text = "Cerrar Sesión";
+            lbl_Cerrar_sesion.Visible = false;
             // 
             // btn_Acerca_de
             // 
@@ -488,6 +490,7 @@
             btn_Acerca_de.TabIndex = 18;
             btn_Acerca_de.Text = "Acerca de";
             btn_Acerca_de.UseVisualStyleBackColor = false;
+            btn_Acerca_de.Visible = false;
             // 
             // btn_Mantenimiento
             // 
@@ -506,6 +509,7 @@
             btn_Mantenimiento.TabIndex = 17;
             btn_Mantenimiento.Text = "Mantenimiento";
             btn_Mantenimiento.UseVisualStyleBackColor = false;
+            btn_Mantenimiento.Visible = false;
             // 
             // btn_Reporte
             // 
@@ -524,6 +528,7 @@
             btn_Reporte.TabIndex = 16;
             btn_Reporte.Text = "Reporte";
             btn_Reporte.UseVisualStyleBackColor = false;
+            btn_Reporte.Visible = false;
             // 
             // btn_Categoria
             // 
@@ -542,6 +547,7 @@
             btn_Categoria.TabIndex = 15;
             btn_Categoria.Text = "Categoría";
             btn_Categoria.UseVisualStyleBackColor = false;
+            btn_Categoria.Visible = false;
             // 
             // btn_Inventario
             // 
@@ -560,6 +566,7 @@
             btn_Inventario.TabIndex = 14;
             btn_Inventario.Text = "Inventario";
             btn_Inventario.UseVisualStyleBackColor = false;
+            btn_Inventario.Visible = false;
             // 
             // btn_Credito
             // 
@@ -578,6 +585,7 @@
             btn_Credito.TabIndex = 13;
             btn_Credito.Text = "Crédito";
             btn_Credito.UseVisualStyleBackColor = false;
+            btn_Credito.Visible = false;
             // 
             // btn_Devolucion
             // 
@@ -596,6 +604,7 @@
             btn_Devolucion.TabIndex = 12;
             btn_Devolucion.Text = "Devolución";
             btn_Devolucion.UseVisualStyleBackColor = false;
+            btn_Devolucion.Visible = false;
             // 
             // btn_Ventas
             // 
@@ -614,6 +623,7 @@
             btn_Ventas.TabIndex = 11;
             btn_Ventas.Text = "Ventas";
             btn_Ventas.UseVisualStyleBackColor = false;
+            btn_Ventas.Visible = false;
             // 
             // btn_Caja
             // 
@@ -631,6 +641,7 @@
             btn_Caja.TabIndex = 10;
             btn_Caja.Text = "Caja";
             btn_Caja.UseVisualStyleBackColor = false;
+            btn_Caja.Visible = false;
             // 
             // btn_Productos
             // 
@@ -649,6 +660,7 @@
             btn_Productos.TabIndex = 9;
             btn_Productos.Text = "Productos";
             btn_Productos.UseVisualStyleBackColor = false;
+            btn_Productos.Visible = false;
             // 
             // btn_Compras
             // 
@@ -667,6 +679,7 @@
             btn_Compras.TabIndex = 8;
             btn_Compras.Text = "Compras";
             btn_Compras.UseVisualStyleBackColor = false;
+            btn_Compras.Visible = false;
             // 
             // btn_Proveedores
             // 
@@ -685,6 +698,7 @@
             btn_Proveedores.TabIndex = 7;
             btn_Proveedores.Text = "Proveedores";
             btn_Proveedores.UseVisualStyleBackColor = false;
+            btn_Proveedores.Visible = false;
             // 
             // Panel_Hijo
             // 
@@ -730,7 +744,6 @@
         private Panel Panel_Padre;
         private Panel panel1;
         private Guna.UI2.WinForms.Guna2Button btn_cerrar_sesion;
-        private Guna.UI2.WinForms.Guna2Button btncategoria;
         private Guna.UI2.WinForms.Guna2Button btnacercade;
         private Guna.UI2.WinForms.Guna2Button btnmantenimiento;
         private Guna.UI2.WinForms.Guna2Button btnreporte;

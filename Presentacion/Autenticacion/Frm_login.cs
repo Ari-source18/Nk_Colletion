@@ -2,6 +2,7 @@ using NK_COLLECTION.Negocios.Autenticacion;
 using NK_COLLECTION.Presentacion.Autenticacion;
 using NK_COLLECTION.Presentacion.Principal;
 using NK_COLLECTION.Negocios.Catalogos;
+using NK_COLLECTION.Presentacion.Caja;
 
 namespace NK_COLLECTION
 {
@@ -101,7 +102,7 @@ namespace NK_COLLECTION
                     MessageBoxIcon.Information
                 );
 
-                var principal = new Frm_main();
+                var principal = new Frm_apertura ();
 
                 principal.FormClosed += (_, _) => Close();
 

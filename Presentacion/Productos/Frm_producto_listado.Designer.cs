@@ -1,4 +1,4 @@
-namespace NK_COLLECTION.Presentacion.Productos
+﻿namespace NK_COLLECTION.Presentacion.Productos
 {
     partial class Frm_producto_listado
     {
@@ -370,6 +370,105 @@ namespace NK_COLLECTION.Presentacion.Productos
             pnlContenido.ResumeLayout(false);
             pnlContenido.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dgvProductos).EndInit();
+            // ===== NK DESIGNER SYNC: mismo estilo visible al diseñar y al ejecutar =====
+            BackColor = Color.FromArgb(248, 241, 242);
+            pnlEncabezado.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            pnlEncabezado.FillColor = Color.White;
+            pnlEncabezado.BorderRadius = 12;
+            btnVolver.BorderRadius = 8;
+            btnVolver.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnVolver.FillColor = Color.FromArgb(103, 53, 62);
+            btnVolver.ForeColor = Color.White;
+            btnVolver.HoverState.FillColor = Color.FromArgb(119, 68, 76);
+            btnVolver.HoverState.ForeColor = Color.White;
+            lblSubtitulo.Font = new Font("Book Antiqua", 9.5F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblTitulo.Font = new Font("Book Antiqua", 20F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblTitulo.ForeColor = Color.FromArgb(64, 0, 0);
+            pnlContenido.BackColor = Color.Transparent;
+            pnlContenido.FillColor = Color.White;
+            pnlContenido.Radius = 12;
+            pnlContenido.ShadowColor = Color.FromArgb(150, 205, 192, 195);
+            pnlContenido.ShadowDepth = 16;
+            pnlContenido.ShadowShift = 2;
+            btnLimpiar.BorderRadius = 8;
+            btnLimpiar.Font = new Font("Book Antiqua", 8.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnLimpiar.FillColor = Color.FromArgb(103, 53, 62);
+            btnLimpiar.ForeColor = Color.White;
+            btnLimpiar.HoverState.FillColor = Color.FromArgb(119, 68, 76);
+            btnLimpiar.HoverState.ForeColor = Color.White;
+            lblOrden.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblEstado.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblColor.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblTalla.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblMarca.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblCategoria.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblBuscar.Font = new Font("Book Antiqua", 8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            cmbOrden.BorderRadius = 8;
+            cmbOrden.BorderColor = Color.FromArgb(224, 210, 213);
+            cmbOrden.FillColor = Color.FromArgb(252, 248, 249);
+            cmbOrden.Font = new Font("Book Antiqua", 8.5F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmbOrden.ForeColor = Color.FromArgb(55, 43, 45);
+            cmbEstado.BorderRadius = 8;
+            cmbEstado.BorderColor = Color.FromArgb(224, 210, 213);
+            cmbEstado.FillColor = Color.FromArgb(252, 248, 249);
+            cmbEstado.Font = new Font("Book Antiqua", 8.5F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmbEstado.ForeColor = Color.FromArgb(55, 43, 45);
+            cmbColor.BorderRadius = 8;
+            cmbColor.BorderColor = Color.FromArgb(224, 210, 213);
+            cmbColor.FillColor = Color.FromArgb(252, 248, 249);
+            cmbColor.Font = new Font("Book Antiqua", 8.5F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmbColor.ForeColor = Color.FromArgb(55, 43, 45);
+            cmbTalla.BorderRadius = 8;
+            cmbTalla.BorderColor = Color.FromArgb(224, 210, 213);
+            cmbTalla.FillColor = Color.FromArgb(252, 248, 249);
+            cmbTalla.Font = new Font("Book Antiqua", 8.5F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmbTalla.ForeColor = Color.FromArgb(55, 43, 45);
+            cmbMarca.BorderRadius = 8;
+            cmbMarca.BorderColor = Color.FromArgb(224, 210, 213);
+            cmbMarca.FillColor = Color.FromArgb(252, 248, 249);
+            cmbMarca.Font = new Font("Book Antiqua", 8.5F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmbMarca.ForeColor = Color.FromArgb(55, 43, 45);
+            cmbCategoria.BorderRadius = 8;
+            cmbCategoria.BorderColor = Color.FromArgb(224, 210, 213);
+            cmbCategoria.FillColor = Color.FromArgb(252, 248, 249);
+            cmbCategoria.Font = new Font("Book Antiqua", 8.5F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmbCategoria.ForeColor = Color.FromArgb(55, 43, 45);
+            txtBuscar.BorderRadius = 8;
+            txtBuscar.BorderColor = Color.FromArgb(224, 210, 213);
+            txtBuscar.FillColor = Color.FromArgb(252, 248, 249);
+            txtBuscar.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtBuscar.ForeColor = Color.FromArgb(55, 43, 45);
+            txtBuscar.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
+            txtBuscar.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            lblResultados.Font = new Font("Book Antiqua", 8.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblInventarioAyuda.Font = new Font("Book Antiqua", 8.5F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblInventarioAyuda.ForeColor = Color.FromArgb(105, 88, 91);
+            lblInventario.Font = new Font("Book Antiqua", 13F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dgvProductos.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            dgvProductos.BackgroundColor = Color.White;
+            dgvProductos.BorderStyle = BorderStyle.None;
+            dgvProductos.EnableHeadersVisualStyles = false;
+            dgvProductos.GridColor = Color.FromArgb(239, 226, 229);
+            dgvProductos.RowHeadersVisible = false;
+            dgvProductos.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+            dgvProductos.MultiSelect = false;
+            dgvProductos.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(64, 0, 0);
+            dgvProductos.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
+            dgvProductos.ColumnHeadersDefaultCellStyle.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dgvProductos.ColumnHeadersDefaultCellStyle.SelectionBackColor = Color.FromArgb(64, 0, 0);
+            dgvProductos.ColumnHeadersDefaultCellStyle.SelectionForeColor = Color.White;
+            dgvProductos.ColumnHeadersDefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dgvProductos.ColumnHeadersHeight = 44;
+            dgvProductos.DefaultCellStyle.Font = new Font("Book Antiqua", 8.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dgvProductos.DefaultCellStyle.BackColor = Color.White;
+            dgvProductos.DefaultCellStyle.ForeColor = Color.FromArgb(55, 43, 45);
+            dgvProductos.DefaultCellStyle.SelectionBackColor = Color.FromArgb(241, 225, 228);
+            dgvProductos.DefaultCellStyle.SelectionForeColor = Color.FromArgb(64, 0, 0);
+            dgvProductos.DefaultCellStyle.Padding = new Padding(3);
+            dgvProductos.AlternatingRowsDefaultCellStyle.BackColor = Color.FromArgb(253, 249, 250);
+            dgvProductos.RowTemplate.Height = 38;
+            pnlContenido.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            // ===== FIN NK DESIGNER SYNC =====
             ResumeLayout(false);
         }
 

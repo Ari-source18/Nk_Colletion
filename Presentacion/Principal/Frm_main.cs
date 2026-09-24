@@ -19,7 +19,8 @@ namespace NK_COLLECTION.Presentacion.Principal
             InitializeComponent();
             MinimumSize = new Size(1050, 650);
             StartPosition = FormStartPosition.CenterScreen;
-            ConfigurarMenuResponsivo();
+            if (System.ComponentModel.LicenseManager.UsageMode != System.ComponentModel.LicenseUsageMode.Designtime)
+                ConfigurarMenuResponsivo();
         }
 
         private void ConfigurarMenuResponsivo()
@@ -29,7 +30,6 @@ namespace NK_COLLECTION.Presentacion.Principal
                 btn_usuarios,
                 btn_clientes,
                 btnproveedores,
-                btncategoria,
                 btncompras,
                 btnproductos,
                 btncaja,
@@ -48,7 +48,6 @@ namespace NK_COLLECTION.Presentacion.Principal
             btn_Acerca_de.Visible = false;
             btn_Mantenimiento.Visible = false;
             btn_Reporte.Visible = false;
-            btn_Categoria.Visible = false;
             btn_Inventario.Visible = false;
             btn_Credito.Visible = false;
             btn_Devolucion.Visible = false;

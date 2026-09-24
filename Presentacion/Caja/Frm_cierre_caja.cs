@@ -13,7 +13,10 @@ namespace NK_COLLECTION.Presentacion.Caja
         public Frm_cierre_caja()
         {
             InitializeComponent();
-            NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
+            // El estilo dinámico solo se aplica al ejecutar. En el Designer se usan
+            // las propiedades ya guardadas en InitializeComponent para que sea editable.
+            if (System.ComponentModel.LicenseManager.UsageMode != System.ComponentModel.LicenseUsageMode.Designtime)
+                NK_COLLECTION.Presentacion.Estilos.EstiloNk.Preparar(this);
         }
 
         private void Frm_cierre_caja_Load(object sender, EventArgs e)

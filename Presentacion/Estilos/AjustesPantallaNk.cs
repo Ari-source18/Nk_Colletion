@@ -77,11 +77,13 @@ internal static class AjustesPantallaNk
         if (grid != null)
             grid.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
 
-        //ajustar totales
-        ReubicarEtiqueta(formulario, "lbl_subtotal", "Subtotal:", 28, 420);
-        ReubicarEtiqueta(formulario, "lbl_descuento", "Descuento:", 28, 478);
-        ReubicarEtiqueta(formulario, "lbl_total", "Total:", 28, 530);
-        ReubicarEtiqueta(formulario, "lbl_cambio", "Cambio:", 28, 578);
+        // Los totales ya quedan ubicados en el Designer.
+        // En ejecución solo reforzamos texto, anclaje y estilo para no moverlos
+        // a una posición distinta de la que se ve al diseñar.
+        PrepararEtiquetaTotal(formulario, "lbl_subtotal", "Subtotal:");
+        PrepararEtiquetaTotal(formulario, "lbl_descuento", "Descuento:");
+        PrepararEtiquetaTotal(formulario, "lbl_total", "Total:");
+        PrepararEtiquetaTotal(formulario, "lbl_cambio", "Cambio:");
 
         foreach (string nombre in new[] { "lbl_subtotalF", "lbl_descuentoF", "lbl_totalF", "lbl_cambioF" })
         {
@@ -100,13 +102,12 @@ internal static class AjustesPantallaNk
         }
     }
 
-    private static void ReubicarEtiqueta(Form formulario, string nombre, string texto, int x, int y)
+    private static void PrepararEtiquetaTotal(Form formulario, string nombre, string texto)
     {
         if (Buscar(formulario, nombre) is not Label label)
             return;
 
         label.Text = texto;
-        label.Location = new Point(x, y);
         label.Anchor = AnchorStyles.Top | AnchorStyles.Left;
         label.Font = EstiloNk.Fuente(label.Font, 9.5F, FontStyle.Bold);
         label.ForeColor = EstiloNk.Vino;

@@ -1,4 +1,4 @@
-namespace NK_COLLECTION.Presentacion.Catalogos
+﻿namespace NK_COLLECTION.Presentacion.Catalogos
 {
     partial class Frm_clientes
     {
@@ -28,75 +28,77 @@ namespace NK_COLLECTION.Presentacion.Catalogos
         /// </summary>
         private void InitializeComponent()
         {
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges49 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges50 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_clientes));
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges48 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            DataGridViewCellStyle dataGridViewCellStyle10 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle11 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle12 = new DataGridViewCellStyle();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges51 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges52 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges53 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges54 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges55 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges56 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges57 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges58 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            DataGridViewCellStyle dataGridViewCellStyle13 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle14 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle15 = new DataGridViewCellStyle();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges59 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges60 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges61 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges62 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges63 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges64 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges65 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges66 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges67 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges68 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges69 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges70 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges71 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges72 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges73 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges74 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges75 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges76 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            DataGridViewCellStyle dataGridViewCellStyle16 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle17 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle18 = new DataGridViewCellStyle();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges77 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges78 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges79 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges80 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges81 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges82 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges83 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges84 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges85 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges86 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges87 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges88 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges89 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges90 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges91 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges92 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges93 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges94 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges11 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            DataGridViewCellStyle dataGridViewCellStyle4 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle5 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle6 = new DataGridViewCellStyle();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges12 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges13 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges14 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges15 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges16 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges17 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges18 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges19 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges20 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges21 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges22 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges23 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges24 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges25 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges26 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges27 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges28 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges29 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges30 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges31 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges32 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges33 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges34 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges35 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges36 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges37 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges38 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges39 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges40 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges41 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges42 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges43 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges44 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges45 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges46 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges47 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            DataGridViewCellStyle dataGridViewCellStyle7 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle8 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle9 = new DataGridViewCellStyle();
             panel1 = new Panel();
             panel2 = new Panel();
             panel4 = new Panel();
             panel3 = new Panel();
             guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            pictureBox2 = new PictureBox();
+            lbl_Ayuda = new Label();
             pictureBox4 = new PictureBox();
-            label1 = new Label();
+            lbl_fecha = new Label();
             pictureBox3 = new PictureBox();
+            lbl_usuario = new Label();
             guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             label2 = new Label();
             label6 = new Label();
-            label11 = new Label();
             guna2ShadowPanel1 = new Guna.UI2.WinForms.Guna2ShadowPanel();
             tabControl1 = new TabControl();
             tabpag_cliente = new TabPage();
@@ -142,16 +144,6 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             txtbox_nombre = new Guna.UI2.WinForms.Guna2TextBox();
             label19 = new Label();
             tabPage3 = new TabPage();
-            dgw_cliente_editar = new Guna.UI2.WinForms.Guna2DataGridView();
-            dataGridViewTextBoxColumn9 = new DataGridViewTextBoxColumn();
-            dataGridViewTextBoxColumn10 = new DataGridViewTextBoxColumn();
-            dataGridViewTextBoxColumn11 = new DataGridViewTextBoxColumn();
-            dataGridViewTextBoxColumn12 = new DataGridViewTextBoxColumn();
-            dataGridViewTextBoxColumn13 = new DataGridViewTextBoxColumn();
-            dataGridViewTextBoxColumn14 = new DataGridViewTextBoxColumn();
-            dataGridViewTextBoxColumn15 = new DataGridViewTextBoxColumn();
-            label7 = new Label();
-            label23 = new Label();
             txtbox_cedula_editar = new Guna.UI2.WinForms.Guna2TextBox();
             cmb_estado_editar = new Guna.UI2.WinForms.Guna2ComboBox();
             lbl_estado_editar = new Label();
@@ -168,7 +160,19 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             txtbox_telefono_editar = new Guna.UI2.WinForms.Guna2TextBox();
             txtbox_correo_editar = new Guna.UI2.WinForms.Guna2TextBox();
             txtbox_nombre_editar = new Guna.UI2.WinForms.Guna2TextBox();
+            dgw_cliente_editar = new Guna.UI2.WinForms.Guna2DataGridView();
+            dataGridViewTextBoxColumn9 = new DataGridViewTextBoxColumn();
+            dataGridViewTextBoxColumn10 = new DataGridViewTextBoxColumn();
+            dataGridViewTextBoxColumn11 = new DataGridViewTextBoxColumn();
+            dataGridViewTextBoxColumn12 = new DataGridViewTextBoxColumn();
+            dataGridViewTextBoxColumn13 = new DataGridViewTextBoxColumn();
+            dataGridViewTextBoxColumn14 = new DataGridViewTextBoxColumn();
+            dataGridViewTextBoxColumn15 = new DataGridViewTextBoxColumn();
+            label7 = new Label();
+            label23 = new Label();
+            pictureBox1 = new PictureBox();
             guna2Panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             ((System.ComponentModel.ISupportInitialize)guna2CirclePictureBox1).BeginInit();
@@ -180,6 +184,7 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             ((System.ComponentModel.ISupportInitialize)dgw_nuevo_cliente).BeginInit();
             tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgw_cliente_editar).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -220,56 +225,92 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             // guna2Panel1
             // 
+            guna2Panel1.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             guna2Panel1.BackColor = Color.FromArgb(244, 246, 249);
             guna2Panel1.BorderRadius = 15;
+            guna2Panel1.Controls.Add(pictureBox2);
+            guna2Panel1.Controls.Add(lbl_Ayuda);
             guna2Panel1.Controls.Add(pictureBox4);
-            guna2Panel1.Controls.Add(label1);
+            guna2Panel1.Controls.Add(lbl_fecha);
             guna2Panel1.Controls.Add(pictureBox3);
+            guna2Panel1.Controls.Add(lbl_usuario);
             guna2Panel1.Controls.Add(guna2CirclePictureBox1);
             guna2Panel1.Controls.Add(label2);
             guna2Panel1.Controls.Add(label6);
-            guna2Panel1.Controls.Add(label11);
-            guna2Panel1.CustomizableEdges = customizableEdges49;
+            guna2Panel1.CustomizableEdges = customizableEdges2;
             guna2Panel1.FillColor = Color.White;
             guna2Panel1.Location = new Point(25, 16);
             guna2Panel1.Name = "guna2Panel1";
-            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges50;
+            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges3;
             guna2Panel1.Size = new Size(1506, 99);
             guna2Panel1.TabIndex = 238;
             guna2Panel1.Paint += guna2Panel1_Paint;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.BackColor = Color.Transparent;
+            pictureBox2.Image = Properties.Resources.icons8_ayuda_16;
+            pictureBox2.Location = new Point(1400, 66);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(27, 25);
+            pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox2.TabIndex = 63;
+            pictureBox2.TabStop = false;
+            // 
+            // lbl_Ayuda
+            // 
+            lbl_Ayuda.AutoSize = true;
+            lbl_Ayuda.BackColor = Color.Transparent;
+            lbl_Ayuda.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_Ayuda.Location = new Point(1426, 66);
+            lbl_Ayuda.Name = "lbl_Ayuda";
+            lbl_Ayuda.Size = new Size(65, 22);
+            lbl_Ayuda.TabIndex = 62;
+            lbl_Ayuda.Text = "Ayuda";
             // 
             // pictureBox4
             // 
             pictureBox4.BackColor = Color.Transparent;
             pictureBox4.Image = Properties.Resources.icons8_fecha_50;
-            pictureBox4.Location = new Point(1311, 31);
+            pictureBox4.Location = new Point(1180, 30);
             pictureBox4.Name = "pictureBox4";
-            pictureBox4.Size = new Size(36, 33);
+            pictureBox4.Size = new Size(34, 32);
             pictureBox4.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox4.TabIndex = 55;
+            pictureBox4.TabIndex = 61;
             pictureBox4.TabStop = false;
             // 
-            // label1
+            // lbl_fecha
             // 
-            label1.AutoSize = true;
-            label1.BackColor = Color.Transparent;
-            label1.Font = new Font("PMingLiU-ExtB", 10F);
-            label1.Location = new Point(1369, 36);
-            label1.Name = "label1";
-            label1.Size = new Size(57, 20);
-            label1.TabIndex = 54;
-            label1.Text = "Fecha:";
+            lbl_fecha.AutoSize = true;
+            lbl_fecha.BackColor = Color.Transparent;
+            lbl_fecha.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_fecha.Location = new Point(1237, 35);
+            lbl_fecha.Name = "lbl_fecha";
+            lbl_fecha.Size = new Size(67, 24);
+            lbl_fecha.TabIndex = 60;
+            lbl_fecha.Text = "Fecha:";
             // 
             // pictureBox3
             // 
             pictureBox3.BackColor = Color.Transparent;
             pictureBox3.Image = Properties.Resources.icons8_usuario_32;
-            pictureBox3.Location = new Point(1122, 22);
+            pictureBox3.Location = new Point(984, 26);
             pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(36, 42);
+            pictureBox3.Size = new Size(36, 36);
             pictureBox3.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox3.TabIndex = 53;
+            pictureBox3.TabIndex = 59;
             pictureBox3.TabStop = false;
+            // 
+            // lbl_usuario
+            // 
+            lbl_usuario.AutoSize = true;
+            lbl_usuario.BackColor = Color.Transparent;
+            lbl_usuario.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_usuario.Location = new Point(1030, 35);
+            lbl_usuario.Name = "lbl_usuario";
+            lbl_usuario.Size = new Size(81, 24);
+            lbl_usuario.TabIndex = 58;
+            lbl_usuario.Text = "Usuario";
             // 
             // guna2CirclePictureBox1
             // 
@@ -278,7 +319,7 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             guna2CirclePictureBox1.ImageRotate = 0F;
             guna2CirclePictureBox1.Location = new Point(7, 8);
             guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
-            guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges48;
+            guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges1;
             guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             guna2CirclePictureBox1.Size = new Size(83, 83);
             guna2CirclePictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
@@ -289,10 +330,11 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
-            label2.ForeColor = Color.Gray;
+            label2.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label2.ForeColor = Color.FromArgb(105, 88, 91);
             label2.Location = new Point(106, 57);
             label2.Name = "label2";
-            label2.Size = new Size(339, 25);
+            label2.Size = new Size(345, 22);
             label2.TabIndex = 1;
             label2.Text = "Registra tus ventas y gestiona tus clientes";
             // 
@@ -300,27 +342,17 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             label6.AutoSize = true;
             label6.BackColor = Color.Transparent;
-            label6.Font = new Font("Georgia", 21F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label6.ForeColor = Color.FromArgb(110, 18, 32);
+            label6.Font = new Font("Book Antiqua", 21F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label6.ForeColor = Color.FromArgb(64, 0, 0);
             label6.Location = new Point(96, 8);
             label6.Name = "label6";
-            label6.Size = new Size(169, 48);
+            label6.Size = new Size(181, 51);
             label6.TabIndex = 0;
             label6.Text = "Clientes";
             // 
-            // label11
-            // 
-            label11.AutoSize = true;
-            label11.BackColor = Color.Transparent;
-            label11.Font = new Font("PMingLiU-ExtB", 10F);
-            label11.Location = new Point(1164, 36);
-            label11.Name = "label11";
-            label11.Size = new Size(67, 20);
-            label11.TabIndex = 43;
-            label11.Text = "Usuario";
-            // 
             // guna2ShadowPanel1
             // 
+            guna2ShadowPanel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             guna2ShadowPanel1.BackColor = Color.Transparent;
             guna2ShadowPanel1.Controls.Add(tabControl1);
             guna2ShadowPanel1.FillColor = Color.White;
@@ -329,26 +361,30 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             guna2ShadowPanel1.Margin = new Padding(4, 5, 4, 5);
             guna2ShadowPanel1.Name = "guna2ShadowPanel1";
             guna2ShadowPanel1.Radius = 12;
-            guna2ShadowPanel1.ShadowColor = Color.LightGray;
-            guna2ShadowPanel1.ShadowDepth = 20;
+            guna2ShadowPanel1.ShadowColor = Color.FromArgb(150, 205, 192, 195);
+            guna2ShadowPanel1.ShadowDepth = 16;
             guna2ShadowPanel1.ShadowShift = 3;
             guna2ShadowPanel1.Size = new Size(1506, 722);
             guna2ShadowPanel1.TabIndex = 239;
+            guna2ShadowPanel1.Paint += guna2ShadowPanel1_Paint;
             // 
             // tabControl1
             // 
+            tabControl1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             tabControl1.Controls.Add(tabpag_cliente);
             tabControl1.Controls.Add(tabpag_nuevo_cliente);
             tabControl1.Controls.Add(tabPage3);
-            tabControl1.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            tabControl1.Font = new Font("Book Antiqua", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
             tabControl1.Location = new Point(25, 21);
             tabControl1.Name = "tabControl1";
+            tabControl1.Padding = new Point(16, 6);
             tabControl1.SelectedIndex = 0;
             tabControl1.Size = new Size(1460, 683);
             tabControl1.TabIndex = 174;
             // 
             // tabpag_cliente
             // 
+            tabpag_cliente.BackColor = Color.White;
             tabpag_cliente.Controls.Add(Dtgrdvw_cliente);
             tabpag_cliente.Controls.Add(btn_limpiar);
             tabpag_cliente.Controls.Add(btn_mostrartodo);
@@ -356,52 +392,58 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             tabpag_cliente.Controls.Add(btn_buscar);
             tabpag_cliente.Controls.Add(label3);
             tabpag_cliente.Controls.Add(Cmb_buscar_por);
-            tabpag_cliente.Location = new Point(4, 33);
+            tabpag_cliente.ForeColor = Color.FromArgb(64, 0, 0);
+            tabpag_cliente.Location = new Point(4, 39);
             tabpag_cliente.Name = "tabpag_cliente";
             tabpag_cliente.Padding = new Padding(3);
-            tabpag_cliente.Size = new Size(1452, 646);
+            tabpag_cliente.Size = new Size(1452, 640);
             tabpag_cliente.TabIndex = 0;
             tabpag_cliente.Text = "Clientes";
-            tabpag_cliente.UseVisualStyleBackColor = true;
             // 
             // Dtgrdvw_cliente
             // 
-            dataGridViewCellStyle10.BackColor = Color.White;
-            Dtgrdvw_cliente.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle10;
-            dataGridViewCellStyle11.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle11.BackColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle11.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle11.ForeColor = Color.White;
-            dataGridViewCellStyle11.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle11.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle11.WrapMode = DataGridViewTriState.True;
-            Dtgrdvw_cliente.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle11;
-            Dtgrdvw_cliente.ColumnHeadersHeight = 27;
+            dataGridViewCellStyle1.BackColor = Color.FromArgb(253, 249, 250);
+            Dtgrdvw_cliente.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            Dtgrdvw_cliente.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle2.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle2.ForeColor = Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle2.SelectionForeColor = Color.White;
+            dataGridViewCellStyle2.WrapMode = DataGridViewTriState.True;
+            Dtgrdvw_cliente.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            Dtgrdvw_cliente.ColumnHeadersHeight = 34;
             Dtgrdvw_cliente.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
             Dtgrdvw_cliente.Columns.AddRange(new DataGridViewColumn[] { Column1, Column2, Column3, dataGridViewTextBoxColumn1, Column4, Column5, CLestado });
-            dataGridViewCellStyle12.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle12.BackColor = Color.White;
-            dataGridViewCellStyle12.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle12.ForeColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle12.SelectionBackColor = Color.FromArgb(231, 229, 255);
-            dataGridViewCellStyle12.SelectionForeColor = Color.FromArgb(71, 69, 94);
-            dataGridViewCellStyle12.WrapMode = DataGridViewTriState.False;
-            Dtgrdvw_cliente.DefaultCellStyle = dataGridViewCellStyle12;
-            Dtgrdvw_cliente.GridColor = Color.White;
+            dataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = Color.White;
+            dataGridViewCellStyle3.Font = new Font("Book Antiqua", 8.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle3.ForeColor = Color.FromArgb(55, 43, 45);
+            dataGridViewCellStyle3.Padding = new Padding(3);
+            dataGridViewCellStyle3.SelectionBackColor = Color.FromArgb(241, 225, 228);
+            dataGridViewCellStyle3.SelectionForeColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle3.WrapMode = DataGridViewTriState.False;
+            Dtgrdvw_cliente.DefaultCellStyle = dataGridViewCellStyle3;
+            Dtgrdvw_cliente.GridColor = Color.FromArgb(239, 226, 229);
             Dtgrdvw_cliente.Location = new Point(32, 125);
+            Dtgrdvw_cliente.MultiSelect = false;
             Dtgrdvw_cliente.Name = "Dtgrdvw_cliente";
             Dtgrdvw_cliente.RowHeadersVisible = false;
             Dtgrdvw_cliente.RowHeadersWidth = 62;
-            Dtgrdvw_cliente.RowTemplate.Height = 22;
+            Dtgrdvw_cliente.RowTemplate.Height = 31;
             Dtgrdvw_cliente.Size = new Size(1387, 400);
             Dtgrdvw_cliente.TabIndex = 185;
-            Dtgrdvw_cliente.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
-            Dtgrdvw_cliente.ThemeStyle.GridColor = Color.White;
-            Dtgrdvw_cliente.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
-            Dtgrdvw_cliente.ThemeStyle.HeaderStyle.Font = new Font("Segoe UI", 9F);
-            Dtgrdvw_cliente.ThemeStyle.HeaderStyle.Height = 27;
-            Dtgrdvw_cliente.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 9F);
-            Dtgrdvw_cliente.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
+            Dtgrdvw_cliente.ThemeStyle.AlternatingRowsStyle.BackColor = Color.FromArgb(253, 249, 250);
+            Dtgrdvw_cliente.ThemeStyle.GridColor = Color.FromArgb(239, 226, 229);
+            Dtgrdvw_cliente.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(64, 0, 0);
+            Dtgrdvw_cliente.ThemeStyle.HeaderStyle.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            Dtgrdvw_cliente.ThemeStyle.HeaderStyle.Height = 34;
+            Dtgrdvw_cliente.ThemeStyle.RowsStyle.Font = new Font("Book Antiqua", 8.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            Dtgrdvw_cliente.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(55, 43, 45);
+            Dtgrdvw_cliente.ThemeStyle.RowsStyle.Height = 31;
+            Dtgrdvw_cliente.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(241, 225, 228);
+            Dtgrdvw_cliente.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(64, 0, 0);
             Dtgrdvw_cliente.CellContentClick += guna2DataGridView1_CellContentClick;
             // 
             // Column1
@@ -450,17 +492,19 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             btn_limpiar.BorderColor = Color.White;
             btn_limpiar.BorderRadius = 8;
-            btn_limpiar.CustomizableEdges = customizableEdges51;
+            btn_limpiar.CustomizableEdges = customizableEdges4;
             btn_limpiar.DisabledState.BorderColor = Color.DarkGray;
             btn_limpiar.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_limpiar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btn_limpiar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_limpiar.FillColor = Color.FromArgb(110, 18, 32);
-            btn_limpiar.Font = new Font("Book Antiqua", 11F);
+            btn_limpiar.FillColor = Color.FromArgb(103, 53, 62);
+            btn_limpiar.Font = new Font("Book Antiqua", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_limpiar.ForeColor = Color.White;
+            btn_limpiar.HoverState.FillColor = Color.FromArgb(119, 68, 76);
+            btn_limpiar.HoverState.ForeColor = Color.White;
             btn_limpiar.Location = new Point(947, 37);
             btn_limpiar.Name = "btn_limpiar";
-            btn_limpiar.ShadowDecoration.CustomizableEdges = customizableEdges52;
+            btn_limpiar.ShadowDecoration.CustomizableEdges = customizableEdges5;
             btn_limpiar.Size = new Size(145, 34);
             btn_limpiar.TabIndex = 179;
             btn_limpiar.Text = "Limpiar";
@@ -470,17 +514,19 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             btn_mostrartodo.BorderColor = Color.White;
             btn_mostrartodo.BorderRadius = 8;
-            btn_mostrartodo.CustomizableEdges = customizableEdges53;
+            btn_mostrartodo.CustomizableEdges = customizableEdges6;
             btn_mostrartodo.DisabledState.BorderColor = Color.DarkGray;
             btn_mostrartodo.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_mostrartodo.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btn_mostrartodo.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_mostrartodo.FillColor = Color.FromArgb(110, 18, 32);
-            btn_mostrartodo.Font = new Font("Book Antiqua", 11F);
+            btn_mostrartodo.FillColor = Color.FromArgb(64, 0, 0);
+            btn_mostrartodo.Font = new Font("Book Antiqua", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_mostrartodo.ForeColor = Color.White;
+            btn_mostrartodo.HoverState.FillColor = Color.FromArgb(88, 18, 24);
+            btn_mostrartodo.HoverState.ForeColor = Color.White;
             btn_mostrartodo.Location = new Point(547, 38);
             btn_mostrartodo.Name = "btn_mostrartodo";
-            btn_mostrartodo.ShadowDecoration.CustomizableEdges = customizableEdges54;
+            btn_mostrartodo.ShadowDecoration.CustomizableEdges = customizableEdges7;
             btn_mostrartodo.Size = new Size(194, 34);
             btn_mostrartodo.TabIndex = 180;
             btn_mostrartodo.Text = "Mostrar todo";
@@ -490,17 +536,19 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             btn_guardar.BorderColor = Color.White;
             btn_guardar.BorderRadius = 8;
-            btn_guardar.CustomizableEdges = customizableEdges55;
+            btn_guardar.CustomizableEdges = customizableEdges8;
             btn_guardar.DisabledState.BorderColor = Color.DarkGray;
             btn_guardar.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_guardar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btn_guardar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_guardar.FillColor = Color.FromArgb(110, 18, 32);
-            btn_guardar.Font = new Font("Book Antiqua", 11F);
+            btn_guardar.FillColor = Color.FromArgb(64, 0, 0);
+            btn_guardar.Font = new Font("Book Antiqua", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_guardar.ForeColor = Color.White;
+            btn_guardar.HoverState.FillColor = Color.FromArgb(88, 18, 24);
+            btn_guardar.HoverState.ForeColor = Color.White;
             btn_guardar.Location = new Point(768, 37);
             btn_guardar.Name = "btn_guardar";
-            btn_guardar.ShadowDecoration.CustomizableEdges = customizableEdges56;
+            btn_guardar.ShadowDecoration.CustomizableEdges = customizableEdges9;
             btn_guardar.Size = new Size(159, 34);
             btn_guardar.TabIndex = 181;
             btn_guardar.Text = "Guardar";
@@ -510,17 +558,19 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             btn_buscar.BorderColor = Color.White;
             btn_buscar.BorderRadius = 8;
-            btn_buscar.CustomizableEdges = customizableEdges57;
+            btn_buscar.CustomizableEdges = customizableEdges10;
             btn_buscar.DisabledState.BorderColor = Color.DarkGray;
             btn_buscar.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_buscar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btn_buscar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_buscar.FillColor = Color.FromArgb(110, 18, 32);
-            btn_buscar.Font = new Font("Book Antiqua", 11F);
+            btn_buscar.FillColor = Color.FromArgb(64, 0, 0);
+            btn_buscar.Font = new Font("Book Antiqua", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_buscar.ForeColor = Color.White;
+            btn_buscar.HoverState.FillColor = Color.FromArgb(88, 18, 24);
+            btn_buscar.HoverState.ForeColor = Color.White;
             btn_buscar.Location = new Point(384, 38);
             btn_buscar.Name = "btn_buscar";
-            btn_buscar.ShadowDecoration.CustomizableEdges = customizableEdges58;
+            btn_buscar.ShadowDecoration.CustomizableEdges = customizableEdges11;
             btn_buscar.Size = new Size(132, 34);
             btn_buscar.TabIndex = 182;
             btn_buscar.Text = "Buscar";
@@ -540,16 +590,20 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             // Cmb_buscar_por
             // 
-            Cmb_buscar_por.Font = new Font("PMingLiU-ExtB", 9F);
+            Cmb_buscar_por.BackColor = Color.FromArgb(252, 248, 249);
+            Cmb_buscar_por.FlatStyle = FlatStyle.Flat;
+            Cmb_buscar_por.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            Cmb_buscar_por.ForeColor = Color.FromArgb(55, 43, 45);
             Cmb_buscar_por.FormattingEnabled = true;
             Cmb_buscar_por.Location = new Point(157, 45);
             Cmb_buscar_por.Margin = new Padding(1);
             Cmb_buscar_por.Name = "Cmb_buscar_por";
-            Cmb_buscar_por.Size = new Size(196, 26);
+            Cmb_buscar_por.Size = new Size(196, 30);
             Cmb_buscar_por.TabIndex = 184;
             // 
             // tabpag_nuevo_cliente
             // 
+            tabpag_nuevo_cliente.BackColor = Color.White;
             tabpag_nuevo_cliente.Controls.Add(dgw_nuevo_cliente);
             tabpag_nuevo_cliente.Controls.Add(label20);
             tabpag_nuevo_cliente.Controls.Add(txtbox_cedula);
@@ -569,54 +623,60 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             tabpag_nuevo_cliente.Controls.Add(txtbox_correo_electronico);
             tabpag_nuevo_cliente.Controls.Add(txtbox_nombre);
             tabpag_nuevo_cliente.Controls.Add(label19);
-            tabpag_nuevo_cliente.Location = new Point(4, 33);
+            tabpag_nuevo_cliente.ForeColor = Color.FromArgb(64, 0, 0);
+            tabpag_nuevo_cliente.Location = new Point(4, 39);
             tabpag_nuevo_cliente.Name = "tabpag_nuevo_cliente";
             tabpag_nuevo_cliente.Padding = new Padding(3);
-            tabpag_nuevo_cliente.Size = new Size(1452, 646);
+            tabpag_nuevo_cliente.Size = new Size(1452, 640);
             tabpag_nuevo_cliente.TabIndex = 1;
             tabpag_nuevo_cliente.Text = "Nuevo cliente ";
-            tabpag_nuevo_cliente.UseVisualStyleBackColor = true;
             tabpag_nuevo_cliente.Click += tabPage2_Click;
             // 
             // dgw_nuevo_cliente
             // 
-            dataGridViewCellStyle13.BackColor = Color.White;
-            dgw_nuevo_cliente.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle13;
-            dataGridViewCellStyle14.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle14.BackColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle14.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle14.ForeColor = Color.White;
-            dataGridViewCellStyle14.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle14.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle14.WrapMode = DataGridViewTriState.True;
-            dgw_nuevo_cliente.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle14;
-            dgw_nuevo_cliente.ColumnHeadersHeight = 27;
+            dataGridViewCellStyle4.BackColor = Color.FromArgb(253, 249, 250);
+            dgw_nuevo_cliente.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
+            dgw_nuevo_cliente.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            dataGridViewCellStyle5.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle5.BackColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle5.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle5.ForeColor = Color.White;
+            dataGridViewCellStyle5.SelectionBackColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle5.SelectionForeColor = Color.White;
+            dataGridViewCellStyle5.WrapMode = DataGridViewTriState.True;
+            dgw_nuevo_cliente.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
+            dgw_nuevo_cliente.ColumnHeadersHeight = 34;
             dgw_nuevo_cliente.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
             dgw_nuevo_cliente.Columns.AddRange(new DataGridViewColumn[] { dataGridViewTextBoxColumn2, dataGridViewTextBoxColumn3, dataGridViewTextBoxColumn4, dataGridViewTextBoxColumn5, dataGridViewTextBoxColumn6, dataGridViewTextBoxColumn7, dataGridViewTextBoxColumn8 });
-            dataGridViewCellStyle15.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle15.BackColor = Color.White;
-            dataGridViewCellStyle15.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle15.ForeColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle15.SelectionBackColor = Color.FromArgb(231, 229, 255);
-            dataGridViewCellStyle15.SelectionForeColor = Color.FromArgb(71, 69, 94);
-            dataGridViewCellStyle15.WrapMode = DataGridViewTriState.False;
-            dgw_nuevo_cliente.DefaultCellStyle = dataGridViewCellStyle15;
-            dgw_nuevo_cliente.GridColor = Color.White;
+            dataGridViewCellStyle6.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = Color.White;
+            dataGridViewCellStyle6.Font = new Font("Book Antiqua", 8.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle6.ForeColor = Color.FromArgb(55, 43, 45);
+            dataGridViewCellStyle6.Padding = new Padding(3);
+            dataGridViewCellStyle6.SelectionBackColor = Color.FromArgb(241, 225, 228);
+            dataGridViewCellStyle6.SelectionForeColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle6.WrapMode = DataGridViewTriState.False;
+            dgw_nuevo_cliente.DefaultCellStyle = dataGridViewCellStyle6;
+            dgw_nuevo_cliente.GridColor = Color.FromArgb(239, 226, 229);
             dgw_nuevo_cliente.Location = new Point(34, 303);
             dgw_nuevo_cliente.Margin = new Padding(4, 5, 4, 5);
+            dgw_nuevo_cliente.MultiSelect = false;
             dgw_nuevo_cliente.Name = "dgw_nuevo_cliente";
             dgw_nuevo_cliente.RowHeadersVisible = false;
             dgw_nuevo_cliente.RowHeadersWidth = 62;
-            dgw_nuevo_cliente.RowTemplate.Height = 22;
+            dgw_nuevo_cliente.RowTemplate.Height = 31;
             dgw_nuevo_cliente.Size = new Size(1382, 322);
             dgw_nuevo_cliente.TabIndex = 73;
-            dgw_nuevo_cliente.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
-            dgw_nuevo_cliente.ThemeStyle.GridColor = Color.White;
-            dgw_nuevo_cliente.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
-            dgw_nuevo_cliente.ThemeStyle.HeaderStyle.Font = new Font("Segoe UI", 9F);
-            dgw_nuevo_cliente.ThemeStyle.HeaderStyle.Height = 27;
-            dgw_nuevo_cliente.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 9F);
-            dgw_nuevo_cliente.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
+            dgw_nuevo_cliente.ThemeStyle.AlternatingRowsStyle.BackColor = Color.FromArgb(253, 249, 250);
+            dgw_nuevo_cliente.ThemeStyle.GridColor = Color.FromArgb(239, 226, 229);
+            dgw_nuevo_cliente.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(64, 0, 0);
+            dgw_nuevo_cliente.ThemeStyle.HeaderStyle.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dgw_nuevo_cliente.ThemeStyle.HeaderStyle.Height = 34;
+            dgw_nuevo_cliente.ThemeStyle.RowsStyle.Font = new Font("Book Antiqua", 8.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dgw_nuevo_cliente.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(55, 43, 45);
+            dgw_nuevo_cliente.ThemeStyle.RowsStyle.Height = 31;
+            dgw_nuevo_cliente.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(241, 225, 228);
+            dgw_nuevo_cliente.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(64, 0, 0);
             // 
             // dataGridViewTextBoxColumn2
             // 
@@ -673,43 +733,48 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             // txtbox_cedula
             // 
-            txtbox_cedula.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_cedula.BorderColor = Color.FromArgb(224, 210, 213);
             txtbox_cedula.BorderRadius = 8;
-            txtbox_cedula.CustomizableEdges = customizableEdges59;
+            txtbox_cedula.CustomizableEdges = customizableEdges12;
             txtbox_cedula.DefaultText = "Ingrese cédula de identidad";
             txtbox_cedula.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txtbox_cedula.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
             txtbox_cedula.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
             txtbox_cedula.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_cedula.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_cedula.Font = new Font("Segoe UI", 9F);
+            txtbox_cedula.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_cedula.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_cedula.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_cedula.ForeColor = Color.FromArgb(55, 43, 45);
             txtbox_cedula.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
             txtbox_cedula.Location = new Point(707, 96);
             txtbox_cedula.Margin = new Padding(6, 8, 6, 8);
             txtbox_cedula.Name = "txtbox_cedula";
+            txtbox_cedula.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
             txtbox_cedula.PlaceholderText = "";
             txtbox_cedula.SelectedText = "";
-            txtbox_cedula.ShadowDecoration.CustomizableEdges = customizableEdges60;
+            txtbox_cedula.ShadowDecoration.CustomizableEdges = customizableEdges13;
             txtbox_cedula.Size = new Size(289, 42);
             txtbox_cedula.TabIndex = 70;
             // 
             // cmb_estado
             // 
             cmb_estado.BackColor = Color.Transparent;
+            cmb_estado.BorderColor = Color.FromArgb(224, 210, 213);
             cmb_estado.BorderRadius = 8;
-            cmb_estado.CustomizableEdges = customizableEdges61;
+            cmb_estado.CustomizableEdges = customizableEdges14;
             cmb_estado.DrawMode = DrawMode.OwnerDrawFixed;
             cmb_estado.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmb_estado.FillColor = Color.FromArgb(252, 248, 249);
             cmb_estado.FocusedColor = Color.FromArgb(94, 148, 255);
             cmb_estado.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmb_estado.Font = new Font("Segoe UI", 10F);
-            cmb_estado.ForeColor = Color.FromArgb(68, 88, 112);
+            cmb_estado.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmb_estado.ForeColor = Color.FromArgb(55, 43, 45);
             cmb_estado.ItemHeight = 30;
             cmb_estado.Items.AddRange(new object[] { "Activo", "Inactivo" });
             cmb_estado.Location = new Point(932, 188);
             cmb_estado.Margin = new Padding(4, 5, 4, 5);
             cmb_estado.Name = "cmb_estado";
-            cmb_estado.ShadowDecoration.CustomizableEdges = customizableEdges62;
+            cmb_estado.ShadowDecoration.CustomizableEdges = customizableEdges15;
             cmb_estado.Size = new Size(160, 36);
             cmb_estado.TabIndex = 69;
             // 
@@ -729,19 +794,21 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             btn_limpiar_cliente.BorderColor = Color.FromArgb(194, 154, 116);
             btn_limpiar_cliente.BorderRadius = 8;
             btn_limpiar_cliente.BorderThickness = 1;
-            btn_limpiar_cliente.CustomizableEdges = customizableEdges63;
+            btn_limpiar_cliente.CustomizableEdges = customizableEdges16;
             btn_limpiar_cliente.DisabledState.BorderColor = Color.DarkGray;
             btn_limpiar_cliente.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_limpiar_cliente.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btn_limpiar_cliente.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_limpiar_cliente.FillColor = Color.White;
+            btn_limpiar_cliente.FillColor = Color.FromArgb(103, 53, 62);
             btn_limpiar_cliente.FocusedColor = Color.FromArgb(110, 18, 32);
-            btn_limpiar_cliente.Font = new Font("Book Antiqua", 11F);
-            btn_limpiar_cliente.ForeColor = Color.Black;
+            btn_limpiar_cliente.Font = new Font("Book Antiqua", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_limpiar_cliente.ForeColor = Color.White;
+            btn_limpiar_cliente.HoverState.FillColor = Color.FromArgb(119, 68, 76);
+            btn_limpiar_cliente.HoverState.ForeColor = Color.White;
             btn_limpiar_cliente.Location = new Point(1282, 188);
             btn_limpiar_cliente.Margin = new Padding(4, 5, 4, 5);
             btn_limpiar_cliente.Name = "btn_limpiar_cliente";
-            btn_limpiar_cliente.ShadowDecoration.CustomizableEdges = customizableEdges64;
+            btn_limpiar_cliente.ShadowDecoration.CustomizableEdges = customizableEdges17;
             btn_limpiar_cliente.Size = new Size(147, 37);
             btn_limpiar_cliente.TabIndex = 67;
             btn_limpiar_cliente.Text = "Limpiar";
@@ -750,18 +817,20 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             btn_guardar_cliente.BorderColor = Color.White;
             btn_guardar_cliente.BorderRadius = 8;
-            btn_guardar_cliente.CustomizableEdges = customizableEdges65;
+            btn_guardar_cliente.CustomizableEdges = customizableEdges18;
             btn_guardar_cliente.DisabledState.BorderColor = Color.DarkGray;
             btn_guardar_cliente.DisabledState.CustomBorderColor = Color.DarkGray;
             btn_guardar_cliente.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             btn_guardar_cliente.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_guardar_cliente.FillColor = Color.FromArgb(110, 18, 32);
-            btn_guardar_cliente.Font = new Font("Book Antiqua", 11F);
+            btn_guardar_cliente.FillColor = Color.FromArgb(64, 0, 0);
+            btn_guardar_cliente.Font = new Font("Book Antiqua", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_guardar_cliente.ForeColor = Color.White;
+            btn_guardar_cliente.HoverState.FillColor = Color.FromArgb(88, 18, 24);
+            btn_guardar_cliente.HoverState.ForeColor = Color.White;
             btn_guardar_cliente.Location = new Point(1121, 188);
             btn_guardar_cliente.Margin = new Padding(4, 5, 4, 5);
             btn_guardar_cliente.Name = "btn_guardar_cliente";
-            btn_guardar_cliente.ShadowDecoration.CustomizableEdges = customizableEdges66;
+            btn_guardar_cliente.ShadowDecoration.CustomizableEdges = customizableEdges19;
             btn_guardar_cliente.Size = new Size(150, 37);
             btn_guardar_cliente.TabIndex = 65;
             btn_guardar_cliente.Text = "Guardar";
@@ -769,7 +838,7 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // lbl_direccion
             // 
             lbl_direccion.AutoSize = true;
-            lbl_direccion.Font = new Font("Book Antiqua", 11F);
+            lbl_direccion.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbl_direccion.Location = new Point(442, 161);
             lbl_direccion.Margin = new Padding(4, 0, 4, 0);
             lbl_direccion.Name = "lbl_direccion";
@@ -780,7 +849,7 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // lbl_correo_electronico
             // 
             lbl_correo_electronico.AutoSize = true;
-            lbl_correo_electronico.Font = new Font("Book Antiqua", 11F);
+            lbl_correo_electronico.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbl_correo_electronico.Location = new Point(78, 161);
             lbl_correo_electronico.Margin = new Padding(4, 0, 4, 0);
             lbl_correo_electronico.Name = "lbl_correo_electronico";
@@ -791,7 +860,7 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // lbl_telefono
             // 
             lbl_telefono.AutoSize = true;
-            lbl_telefono.Font = new Font("Book Antiqua", 11F);
+            lbl_telefono.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbl_telefono.Location = new Point(1012, 68);
             lbl_telefono.Margin = new Padding(4, 0, 4, 0);
             lbl_telefono.Name = "lbl_telefono";
@@ -802,7 +871,7 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // lbl_cedula
             // 
             lbl_cedula.AutoSize = true;
-            lbl_cedula.Font = new Font("Book Antiqua", 11F);
+            lbl_cedula.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbl_cedula.Location = new Point(707, 68);
             lbl_cedula.Margin = new Padding(4, 0, 4, 0);
             lbl_cedula.Name = "lbl_cedula";
@@ -813,7 +882,7 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // lbl_id_cliente
             // 
             lbl_id_cliente.AutoSize = true;
-            lbl_id_cliente.Font = new Font("Book Antiqua", 11F);
+            lbl_id_cliente.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbl_id_cliente.Location = new Point(78, 68);
             lbl_id_cliente.Margin = new Padding(4, 0, 4, 0);
             lbl_id_cliente.Name = "lbl_id_cliente";
@@ -824,7 +893,7 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // lbl_nombre_completo
             // 
             lbl_nombre_completo.AutoSize = true;
-            lbl_nombre_completo.Font = new Font("Book Antiqua", 11F);
+            lbl_nombre_completo.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbl_nombre_completo.Location = new Point(340, 68);
             lbl_nombre_completo.Margin = new Padding(4, 0, 4, 0);
             lbl_nombre_completo.Name = "lbl_nombre_completo";
@@ -834,111 +903,126 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             // txtbox_direccion
             // 
-            txtbox_direccion.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_direccion.BorderColor = Color.FromArgb(224, 210, 213);
             txtbox_direccion.BorderRadius = 8;
-            txtbox_direccion.CustomizableEdges = customizableEdges67;
+            txtbox_direccion.CustomizableEdges = customizableEdges20;
             txtbox_direccion.DefaultText = "";
             txtbox_direccion.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txtbox_direccion.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
             txtbox_direccion.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
             txtbox_direccion.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_direccion.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_direccion.Font = new Font("Segoe UI", 9F);
+            txtbox_direccion.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_direccion.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_direccion.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_direccion.ForeColor = Color.FromArgb(55, 43, 45);
             txtbox_direccion.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
             txtbox_direccion.Location = new Point(446, 189);
             txtbox_direccion.Margin = new Padding(6, 8, 6, 8);
             txtbox_direccion.Name = "txtbox_direccion";
+            txtbox_direccion.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
             txtbox_direccion.PlaceholderText = "Ingrese la dirección";
             txtbox_direccion.SelectedText = "";
-            txtbox_direccion.ShadowDecoration.CustomizableEdges = customizableEdges68;
+            txtbox_direccion.ShadowDecoration.CustomizableEdges = customizableEdges21;
             txtbox_direccion.Size = new Size(371, 42);
             txtbox_direccion.TabIndex = 58;
             // 
             // txtbox_id
             // 
-            txtbox_id.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_id.BorderColor = Color.FromArgb(224, 210, 213);
             txtbox_id.BorderRadius = 8;
-            txtbox_id.CustomizableEdges = customizableEdges69;
+            txtbox_id.CustomizableEdges = customizableEdges22;
             txtbox_id.DefaultText = "";
             txtbox_id.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txtbox_id.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
             txtbox_id.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
             txtbox_id.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_id.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_id.Font = new Font("Segoe UI", 9F);
+            txtbox_id.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_id.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_id.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_id.ForeColor = Color.FromArgb(55, 43, 45);
             txtbox_id.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
             txtbox_id.Location = new Point(82, 96);
             txtbox_id.Margin = new Padding(6, 8, 6, 8);
             txtbox_id.Name = "txtbox_id";
+            txtbox_id.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
             txtbox_id.PlaceholderText = "Ingrese el ID";
             txtbox_id.SelectedText = "";
-            txtbox_id.ShadowDecoration.CustomizableEdges = customizableEdges70;
+            txtbox_id.ShadowDecoration.CustomizableEdges = customizableEdges23;
             txtbox_id.Size = new Size(236, 42);
             txtbox_id.TabIndex = 57;
             // 
             // txtbox_telefono
             // 
-            txtbox_telefono.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_telefono.BorderColor = Color.FromArgb(224, 210, 213);
             txtbox_telefono.BorderRadius = 8;
-            txtbox_telefono.CustomizableEdges = customizableEdges71;
+            txtbox_telefono.CustomizableEdges = customizableEdges24;
             txtbox_telefono.DefaultText = "";
             txtbox_telefono.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txtbox_telefono.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
             txtbox_telefono.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
             txtbox_telefono.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_telefono.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_telefono.Font = new Font("Segoe UI", 9F);
+            txtbox_telefono.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_telefono.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_telefono.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_telefono.ForeColor = Color.FromArgb(55, 43, 45);
             txtbox_telefono.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
             txtbox_telefono.Location = new Point(1017, 96);
             txtbox_telefono.Margin = new Padding(6, 8, 6, 8);
             txtbox_telefono.Name = "txtbox_telefono";
+            txtbox_telefono.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
             txtbox_telefono.PlaceholderText = "Ingrese el número de teléfono";
             txtbox_telefono.SelectedText = "";
-            txtbox_telefono.ShadowDecoration.CustomizableEdges = customizableEdges72;
+            txtbox_telefono.ShadowDecoration.CustomizableEdges = customizableEdges25;
             txtbox_telefono.Size = new Size(267, 42);
             txtbox_telefono.TabIndex = 56;
             // 
             // txtbox_correo_electronico
             // 
-            txtbox_correo_electronico.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_correo_electronico.BorderColor = Color.FromArgb(224, 210, 213);
             txtbox_correo_electronico.BorderRadius = 8;
-            txtbox_correo_electronico.CustomizableEdges = customizableEdges73;
+            txtbox_correo_electronico.CustomizableEdges = customizableEdges26;
             txtbox_correo_electronico.DefaultText = "";
             txtbox_correo_electronico.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txtbox_correo_electronico.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
             txtbox_correo_electronico.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
             txtbox_correo_electronico.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_correo_electronico.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_correo_electronico.Font = new Font("Segoe UI", 9F);
+            txtbox_correo_electronico.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_correo_electronico.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_correo_electronico.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_correo_electronico.ForeColor = Color.FromArgb(55, 43, 45);
             txtbox_correo_electronico.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
             txtbox_correo_electronico.Location = new Point(82, 189);
             txtbox_correo_electronico.Margin = new Padding(6, 8, 6, 8);
             txtbox_correo_electronico.Name = "txtbox_correo_electronico";
+            txtbox_correo_electronico.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
             txtbox_correo_electronico.PlaceholderText = "Ingrese el correo electrónico";
             txtbox_correo_electronico.SelectedText = "";
-            txtbox_correo_electronico.ShadowDecoration.CustomizableEdges = customizableEdges74;
+            txtbox_correo_electronico.ShadowDecoration.CustomizableEdges = customizableEdges27;
             txtbox_correo_electronico.Size = new Size(352, 42);
             txtbox_correo_electronico.TabIndex = 55;
             // 
             // txtbox_nombre
             // 
-            txtbox_nombre.BorderColor = Color.FromArgb(216, 216, 216);
+            txtbox_nombre.BorderColor = Color.FromArgb(224, 210, 213);
             txtbox_nombre.BorderRadius = 8;
-            txtbox_nombre.CustomizableEdges = customizableEdges75;
+            txtbox_nombre.CustomizableEdges = customizableEdges28;
             txtbox_nombre.DefaultText = "";
             txtbox_nombre.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txtbox_nombre.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
             txtbox_nombre.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
             txtbox_nombre.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_nombre.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_nombre.Font = new Font("Segoe UI", 9F);
+            txtbox_nombre.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_nombre.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_nombre.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_nombre.ForeColor = Color.FromArgb(55, 43, 45);
             txtbox_nombre.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
             txtbox_nombre.Location = new Point(340, 96);
             txtbox_nombre.Margin = new Padding(6, 8, 6, 8);
             txtbox_nombre.Name = "txtbox_nombre";
+            txtbox_nombre.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
             txtbox_nombre.PlaceholderText = "Ingrese el nombre completo";
             txtbox_nombre.SelectedText = "";
-            txtbox_nombre.ShadowDecoration.CustomizableEdges = customizableEdges76;
+            txtbox_nombre.ShadowDecoration.CustomizableEdges = customizableEdges29;
             txtbox_nombre.Size = new Size(343, 42);
             txtbox_nombre.TabIndex = 54;
             // 
@@ -955,6 +1039,8 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             // 
             // tabPage3
             // 
+            tabPage3.BackColor = Color.White;
+            tabPage3.Controls.Add(pictureBox1);
             tabPage3.Controls.Add(txtbox_cedula_editar);
             tabPage3.Controls.Add(cmb_estado_editar);
             tabPage3.Controls.Add(lbl_estado_editar);
@@ -974,53 +1060,354 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             tabPage3.Controls.Add(dgw_cliente_editar);
             tabPage3.Controls.Add(label7);
             tabPage3.Controls.Add(label23);
-            tabPage3.Location = new Point(4, 33);
+            tabPage3.ForeColor = Color.FromArgb(64, 0, 0);
+            tabPage3.Location = new Point(4, 39);
             tabPage3.Name = "tabPage3";
             tabPage3.Padding = new Padding(3);
-            tabPage3.Size = new Size(1452, 646);
+            tabPage3.Size = new Size(1452, 640);
             tabPage3.TabIndex = 2;
             tabPage3.Text = "Editar";
-            tabPage3.UseVisualStyleBackColor = true;
+            // 
+            // txtbox_cedula_editar
+            // 
+            txtbox_cedula_editar.BorderColor = Color.FromArgb(224, 210, 213);
+            txtbox_cedula_editar.BorderRadius = 8;
+            txtbox_cedula_editar.CustomizableEdges = customizableEdges30;
+            txtbox_cedula_editar.DefaultText = "Ingrese cédula de identidad";
+            txtbox_cedula_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_cedula_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_cedula_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_cedula_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_cedula_editar.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_cedula_editar.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_cedula_editar.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_cedula_editar.ForeColor = Color.FromArgb(55, 43, 45);
+            txtbox_cedula_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_cedula_editar.Location = new Point(675, 96);
+            txtbox_cedula_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_cedula_editar.Name = "txtbox_cedula_editar";
+            txtbox_cedula_editar.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
+            txtbox_cedula_editar.PlaceholderText = "";
+            txtbox_cedula_editar.SelectedText = "";
+            txtbox_cedula_editar.ShadowDecoration.CustomizableEdges = customizableEdges31;
+            txtbox_cedula_editar.Size = new Size(289, 42);
+            txtbox_cedula_editar.TabIndex = 108;
+            // 
+            // cmb_estado_editar
+            // 
+            cmb_estado_editar.BackColor = Color.Transparent;
+            cmb_estado_editar.BorderColor = Color.FromArgb(224, 210, 213);
+            cmb_estado_editar.BorderRadius = 8;
+            cmb_estado_editar.CustomizableEdges = customizableEdges32;
+            cmb_estado_editar.DrawMode = DrawMode.OwnerDrawFixed;
+            cmb_estado_editar.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmb_estado_editar.FillColor = Color.FromArgb(252, 248, 249);
+            cmb_estado_editar.FocusedColor = Color.FromArgb(94, 148, 255);
+            cmb_estado_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            cmb_estado_editar.Font = new Font("Book Antiqua", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            cmb_estado_editar.ForeColor = Color.FromArgb(55, 43, 45);
+            cmb_estado_editar.ItemHeight = 30;
+            cmb_estado_editar.Items.AddRange(new object[] { "Activo", "Inactivo" });
+            cmb_estado_editar.Location = new Point(900, 188);
+            cmb_estado_editar.Margin = new Padding(4, 5, 4, 5);
+            cmb_estado_editar.Name = "cmb_estado_editar";
+            cmb_estado_editar.ShadowDecoration.CustomizableEdges = customizableEdges33;
+            cmb_estado_editar.Size = new Size(160, 36);
+            cmb_estado_editar.TabIndex = 107;
+            // 
+            // lbl_estado_editar
+            // 
+            lbl_estado_editar.AutoSize = true;
+            lbl_estado_editar.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_estado_editar.Location = new Point(815, 189);
+            lbl_estado_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_estado_editar.Name = "lbl_estado_editar";
+            lbl_estado_editar.Size = new Size(77, 27);
+            lbl_estado_editar.TabIndex = 106;
+            lbl_estado_editar.Text = "Estado";
+            // 
+            // btn_limpiar_editar
+            // 
+            btn_limpiar_editar.BorderColor = Color.FromArgb(194, 154, 116);
+            btn_limpiar_editar.BorderRadius = 8;
+            btn_limpiar_editar.BorderThickness = 1;
+            btn_limpiar_editar.CustomizableEdges = customizableEdges34;
+            btn_limpiar_editar.DisabledState.BorderColor = Color.DarkGray;
+            btn_limpiar_editar.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_limpiar_editar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_limpiar_editar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_limpiar_editar.FillColor = Color.FromArgb(103, 53, 62);
+            btn_limpiar_editar.FocusedColor = Color.FromArgb(110, 18, 32);
+            btn_limpiar_editar.Font = new Font("Book Antiqua", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_limpiar_editar.ForeColor = Color.White;
+            btn_limpiar_editar.HoverState.FillColor = Color.FromArgb(119, 68, 76);
+            btn_limpiar_editar.HoverState.ForeColor = Color.White;
+            btn_limpiar_editar.Location = new Point(1250, 188);
+            btn_limpiar_editar.Margin = new Padding(4, 5, 4, 5);
+            btn_limpiar_editar.Name = "btn_limpiar_editar";
+            btn_limpiar_editar.ShadowDecoration.CustomizableEdges = customizableEdges35;
+            btn_limpiar_editar.Size = new Size(147, 37);
+            btn_limpiar_editar.TabIndex = 105;
+            btn_limpiar_editar.Text = "Limpiar";
+            // 
+            // btn_guardar_editar
+            // 
+            btn_guardar_editar.BorderColor = Color.White;
+            btn_guardar_editar.BorderRadius = 8;
+            btn_guardar_editar.CustomizableEdges = customizableEdges36;
+            btn_guardar_editar.DisabledState.BorderColor = Color.DarkGray;
+            btn_guardar_editar.DisabledState.CustomBorderColor = Color.DarkGray;
+            btn_guardar_editar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btn_guardar_editar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btn_guardar_editar.FillColor = Color.FromArgb(64, 0, 0);
+            btn_guardar_editar.Font = new Font("Book Antiqua", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_guardar_editar.ForeColor = Color.White;
+            btn_guardar_editar.HoverState.FillColor = Color.FromArgb(88, 18, 24);
+            btn_guardar_editar.HoverState.ForeColor = Color.White;
+            btn_guardar_editar.Location = new Point(1089, 188);
+            btn_guardar_editar.Margin = new Padding(4, 5, 4, 5);
+            btn_guardar_editar.Name = "btn_guardar_editar";
+            btn_guardar_editar.ShadowDecoration.CustomizableEdges = customizableEdges37;
+            btn_guardar_editar.Size = new Size(150, 37);
+            btn_guardar_editar.TabIndex = 104;
+            btn_guardar_editar.Text = "Guardar";
+            // 
+            // lbl_direccion_editar
+            // 
+            lbl_direccion_editar.AutoSize = true;
+            lbl_direccion_editar.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_direccion_editar.Location = new Point(410, 161);
+            lbl_direccion_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_direccion_editar.Name = "lbl_direccion_editar";
+            lbl_direccion_editar.Size = new Size(118, 27);
+            lbl_direccion_editar.TabIndex = 103;
+            lbl_direccion_editar.Text = "Dirección :";
+            // 
+            // lbl_correo_editar
+            // 
+            lbl_correo_editar.AutoSize = true;
+            lbl_correo_editar.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_correo_editar.Location = new Point(46, 161);
+            lbl_correo_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_correo_editar.Name = "lbl_correo_editar";
+            lbl_correo_editar.Size = new Size(200, 27);
+            lbl_correo_editar.TabIndex = 102;
+            lbl_correo_editar.Text = "Correo electrónico:";
+            // 
+            // lbl_telefono_editar
+            // 
+            lbl_telefono_editar.AutoSize = true;
+            lbl_telefono_editar.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_telefono_editar.Location = new Point(980, 68);
+            lbl_telefono_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_telefono_editar.Name = "lbl_telefono_editar";
+            lbl_telefono_editar.Size = new Size(103, 27);
+            lbl_telefono_editar.TabIndex = 101;
+            lbl_telefono_editar.Text = "Teléfono:";
+            // 
+            // lbl_cedula_editar
+            // 
+            lbl_cedula_editar.AutoSize = true;
+            lbl_cedula_editar.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_cedula_editar.Location = new Point(675, 68);
+            lbl_cedula_editar.Margin = new Padding(4, 0, 4, 0);
+            lbl_cedula_editar.Name = "lbl_cedula_editar";
+            lbl_cedula_editar.Size = new Size(88, 27);
+            lbl_cedula_editar.TabIndex = 100;
+            lbl_cedula_editar.Text = "Cédula:";
+            // 
+            // lbl_id
+            // 
+            lbl_id.AutoSize = true;
+            lbl_id.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_id.Location = new Point(46, 68);
+            lbl_id.Margin = new Padding(4, 0, 4, 0);
+            lbl_id.Name = "lbl_id";
+            lbl_id.Size = new Size(112, 27);
+            lbl_id.TabIndex = 99;
+            lbl_id.Text = "ID Cliente";
+            // 
+            // lbl_nombre
+            // 
+            lbl_nombre.AutoSize = true;
+            lbl_nombre.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbl_nombre.Location = new Point(308, 68);
+            lbl_nombre.Margin = new Padding(4, 0, 4, 0);
+            lbl_nombre.Name = "lbl_nombre";
+            lbl_nombre.Size = new Size(195, 27);
+            lbl_nombre.TabIndex = 98;
+            lbl_nombre.Text = "Nombre completo:";
+            // 
+            // txtbox_direccion_editar
+            // 
+            txtbox_direccion_editar.BorderColor = Color.FromArgb(224, 210, 213);
+            txtbox_direccion_editar.BorderRadius = 8;
+            txtbox_direccion_editar.CustomizableEdges = customizableEdges38;
+            txtbox_direccion_editar.DefaultText = "";
+            txtbox_direccion_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_direccion_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_direccion_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_direccion_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_direccion_editar.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_direccion_editar.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_direccion_editar.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_direccion_editar.ForeColor = Color.FromArgb(55, 43, 45);
+            txtbox_direccion_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_direccion_editar.Location = new Point(414, 189);
+            txtbox_direccion_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_direccion_editar.Name = "txtbox_direccion_editar";
+            txtbox_direccion_editar.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
+            txtbox_direccion_editar.PlaceholderText = "Ingrese la dirección";
+            txtbox_direccion_editar.SelectedText = "";
+            txtbox_direccion_editar.ShadowDecoration.CustomizableEdges = customizableEdges39;
+            txtbox_direccion_editar.Size = new Size(371, 42);
+            txtbox_direccion_editar.TabIndex = 97;
+            // 
+            // txtbox_id_editar
+            // 
+            txtbox_id_editar.BorderColor = Color.FromArgb(224, 210, 213);
+            txtbox_id_editar.BorderRadius = 8;
+            txtbox_id_editar.CustomizableEdges = customizableEdges40;
+            txtbox_id_editar.DefaultText = "";
+            txtbox_id_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_id_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_id_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_id_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_id_editar.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_id_editar.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_id_editar.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_id_editar.ForeColor = Color.FromArgb(55, 43, 45);
+            txtbox_id_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_id_editar.Location = new Point(50, 96);
+            txtbox_id_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_id_editar.Name = "txtbox_id_editar";
+            txtbox_id_editar.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
+            txtbox_id_editar.PlaceholderText = "Ingrese el ID";
+            txtbox_id_editar.SelectedText = "";
+            txtbox_id_editar.ShadowDecoration.CustomizableEdges = customizableEdges41;
+            txtbox_id_editar.Size = new Size(236, 42);
+            txtbox_id_editar.TabIndex = 96;
+            // 
+            // txtbox_telefono_editar
+            // 
+            txtbox_telefono_editar.BorderColor = Color.FromArgb(224, 210, 213);
+            txtbox_telefono_editar.BorderRadius = 8;
+            txtbox_telefono_editar.CustomizableEdges = customizableEdges42;
+            txtbox_telefono_editar.DefaultText = "";
+            txtbox_telefono_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_telefono_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_telefono_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_telefono_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_telefono_editar.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_telefono_editar.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_telefono_editar.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_telefono_editar.ForeColor = Color.FromArgb(55, 43, 45);
+            txtbox_telefono_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_telefono_editar.Location = new Point(985, 96);
+            txtbox_telefono_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_telefono_editar.Name = "txtbox_telefono_editar";
+            txtbox_telefono_editar.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
+            txtbox_telefono_editar.PlaceholderText = "Ingrese el número de teléfono";
+            txtbox_telefono_editar.SelectedText = "";
+            txtbox_telefono_editar.ShadowDecoration.CustomizableEdges = customizableEdges43;
+            txtbox_telefono_editar.Size = new Size(267, 42);
+            txtbox_telefono_editar.TabIndex = 95;
+            // 
+            // txtbox_correo_editar
+            // 
+            txtbox_correo_editar.BorderColor = Color.FromArgb(224, 210, 213);
+            txtbox_correo_editar.BorderRadius = 8;
+            txtbox_correo_editar.CustomizableEdges = customizableEdges44;
+            txtbox_correo_editar.DefaultText = "";
+            txtbox_correo_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_correo_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_correo_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_correo_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_correo_editar.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_correo_editar.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_correo_editar.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_correo_editar.ForeColor = Color.FromArgb(55, 43, 45);
+            txtbox_correo_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_correo_editar.Location = new Point(50, 189);
+            txtbox_correo_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_correo_editar.Name = "txtbox_correo_editar";
+            txtbox_correo_editar.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
+            txtbox_correo_editar.PlaceholderText = "Ingrese el correo electrónico";
+            txtbox_correo_editar.SelectedText = "";
+            txtbox_correo_editar.ShadowDecoration.CustomizableEdges = customizableEdges45;
+            txtbox_correo_editar.Size = new Size(352, 42);
+            txtbox_correo_editar.TabIndex = 94;
+            // 
+            // txtbox_nombre_editar
+            // 
+            txtbox_nombre_editar.BorderColor = Color.FromArgb(224, 210, 213);
+            txtbox_nombre_editar.BorderRadius = 8;
+            txtbox_nombre_editar.CustomizableEdges = customizableEdges46;
+            txtbox_nombre_editar.DefaultText = "";
+            txtbox_nombre_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            txtbox_nombre_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            txtbox_nombre_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_nombre_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            txtbox_nombre_editar.FillColor = Color.FromArgb(252, 248, 249);
+            txtbox_nombre_editar.FocusedState.BorderColor = Color.FromArgb(103, 53, 62);
+            txtbox_nombre_editar.Font = new Font("Book Antiqua", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtbox_nombre_editar.ForeColor = Color.FromArgb(55, 43, 45);
+            txtbox_nombre_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            txtbox_nombre_editar.Location = new Point(308, 96);
+            txtbox_nombre_editar.Margin = new Padding(6, 8, 6, 8);
+            txtbox_nombre_editar.Name = "txtbox_nombre_editar";
+            txtbox_nombre_editar.PlaceholderForeColor = Color.FromArgb(175, 160, 164);
+            txtbox_nombre_editar.PlaceholderText = "Ingrese el nombre completo";
+            txtbox_nombre_editar.SelectedText = "";
+            txtbox_nombre_editar.ShadowDecoration.CustomizableEdges = customizableEdges47;
+            txtbox_nombre_editar.Size = new Size(343, 42);
+            txtbox_nombre_editar.TabIndex = 93;
             // 
             // dgw_cliente_editar
             // 
-            dataGridViewCellStyle16.BackColor = Color.White;
-            dgw_cliente_editar.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle16;
-            dataGridViewCellStyle17.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle17.BackColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle17.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle17.ForeColor = Color.White;
-            dataGridViewCellStyle17.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle17.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle17.WrapMode = DataGridViewTriState.True;
-            dgw_cliente_editar.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle17;
-            dgw_cliente_editar.ColumnHeadersHeight = 27;
+            dataGridViewCellStyle7.BackColor = Color.FromArgb(253, 249, 250);
+            dgw_cliente_editar.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle7;
+            dgw_cliente_editar.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            dataGridViewCellStyle8.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle8.BackColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle8.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle8.ForeColor = Color.White;
+            dataGridViewCellStyle8.SelectionBackColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle8.SelectionForeColor = Color.White;
+            dataGridViewCellStyle8.WrapMode = DataGridViewTriState.True;
+            dgw_cliente_editar.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle8;
+            dgw_cliente_editar.ColumnHeadersHeight = 34;
             dgw_cliente_editar.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
             dgw_cliente_editar.Columns.AddRange(new DataGridViewColumn[] { dataGridViewTextBoxColumn9, dataGridViewTextBoxColumn10, dataGridViewTextBoxColumn11, dataGridViewTextBoxColumn12, dataGridViewTextBoxColumn13, dataGridViewTextBoxColumn14, dataGridViewTextBoxColumn15 });
-            dataGridViewCellStyle18.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle18.BackColor = Color.White;
-            dataGridViewCellStyle18.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle18.ForeColor = Color.FromArgb(110, 18, 32);
-            dataGridViewCellStyle18.SelectionBackColor = Color.FromArgb(231, 229, 255);
-            dataGridViewCellStyle18.SelectionForeColor = Color.FromArgb(71, 69, 94);
-            dataGridViewCellStyle18.WrapMode = DataGridViewTriState.False;
-            dgw_cliente_editar.DefaultCellStyle = dataGridViewCellStyle18;
-            dgw_cliente_editar.GridColor = Color.White;
+            dataGridViewCellStyle9.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle9.BackColor = Color.White;
+            dataGridViewCellStyle9.Font = new Font("Book Antiqua", 8.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle9.ForeColor = Color.FromArgb(55, 43, 45);
+            dataGridViewCellStyle9.Padding = new Padding(3);
+            dataGridViewCellStyle9.SelectionBackColor = Color.FromArgb(241, 225, 228);
+            dataGridViewCellStyle9.SelectionForeColor = Color.FromArgb(64, 0, 0);
+            dataGridViewCellStyle9.WrapMode = DataGridViewTriState.False;
+            dgw_cliente_editar.DefaultCellStyle = dataGridViewCellStyle9;
+            dgw_cliente_editar.GridColor = Color.FromArgb(239, 226, 229);
             dgw_cliente_editar.Location = new Point(29, 302);
             dgw_cliente_editar.Margin = new Padding(4, 5, 4, 5);
+            dgw_cliente_editar.MultiSelect = false;
             dgw_cliente_editar.Name = "dgw_cliente_editar";
             dgw_cliente_editar.RowHeadersVisible = false;
             dgw_cliente_editar.RowHeadersWidth = 62;
-            dgw_cliente_editar.RowTemplate.Height = 22;
+            dgw_cliente_editar.RowTemplate.Height = 31;
             dgw_cliente_editar.Size = new Size(1382, 322);
             dgw_cliente_editar.TabIndex = 92;
-            dgw_cliente_editar.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
-            dgw_cliente_editar.ThemeStyle.GridColor = Color.White;
-            dgw_cliente_editar.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(110, 18, 32);
-            dgw_cliente_editar.ThemeStyle.HeaderStyle.Font = new Font("Segoe UI", 9F);
-            dgw_cliente_editar.ThemeStyle.HeaderStyle.Height = 27;
-            dgw_cliente_editar.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 9F);
-            dgw_cliente_editar.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(110, 18, 32);
+            dgw_cliente_editar.ThemeStyle.AlternatingRowsStyle.BackColor = Color.FromArgb(253, 249, 250);
+            dgw_cliente_editar.ThemeStyle.GridColor = Color.FromArgb(239, 226, 229);
+            dgw_cliente_editar.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(64, 0, 0);
+            dgw_cliente_editar.ThemeStyle.HeaderStyle.Font = new Font("Book Antiqua", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dgw_cliente_editar.ThemeStyle.HeaderStyle.Height = 34;
+            dgw_cliente_editar.ThemeStyle.RowsStyle.Font = new Font("Book Antiqua", 8.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dgw_cliente_editar.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(55, 43, 45);
+            dgw_cliente_editar.ThemeStyle.RowsStyle.Height = 31;
+            dgw_cliente_editar.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(241, 225, 228);
+            dgw_cliente_editar.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(64, 0, 0);
             // 
             // dataGridViewTextBoxColumn9
             // 
@@ -1086,281 +1473,22 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             label23.TabIndex = 74;
             label23.Text = "Datos del cliente";
             // 
-            // txtbox_cedula_editar
+            // pictureBox1
             // 
-            txtbox_cedula_editar.BorderColor = Color.FromArgb(216, 216, 216);
-            txtbox_cedula_editar.BorderRadius = 8;
-            txtbox_cedula_editar.CustomizableEdges = customizableEdges77;
-            txtbox_cedula_editar.DefaultText = "Ingrese cédula de identidad";
-            txtbox_cedula_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtbox_cedula_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtbox_cedula_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_cedula_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_cedula_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_cedula_editar.Font = new Font("Segoe UI", 9F);
-            txtbox_cedula_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_cedula_editar.Location = new Point(675, 96);
-            txtbox_cedula_editar.Margin = new Padding(6, 8, 6, 8);
-            txtbox_cedula_editar.Name = "txtbox_cedula_editar";
-            txtbox_cedula_editar.PlaceholderText = "";
-            txtbox_cedula_editar.SelectedText = "";
-            txtbox_cedula_editar.ShadowDecoration.CustomizableEdges = customizableEdges78;
-            txtbox_cedula_editar.Size = new Size(289, 42);
-            txtbox_cedula_editar.TabIndex = 108;
-            // 
-            // cmb_estado_editar
-            // 
-            cmb_estado_editar.BackColor = Color.Transparent;
-            cmb_estado_editar.BorderRadius = 8;
-            cmb_estado_editar.CustomizableEdges = customizableEdges79;
-            cmb_estado_editar.DrawMode = DrawMode.OwnerDrawFixed;
-            cmb_estado_editar.DropDownStyle = ComboBoxStyle.DropDownList;
-            cmb_estado_editar.FocusedColor = Color.FromArgb(94, 148, 255);
-            cmb_estado_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            cmb_estado_editar.Font = new Font("Segoe UI", 10F);
-            cmb_estado_editar.ForeColor = Color.FromArgb(68, 88, 112);
-            cmb_estado_editar.ItemHeight = 30;
-            cmb_estado_editar.Items.AddRange(new object[] { "Activo", "Inactivo" });
-            cmb_estado_editar.Location = new Point(900, 188);
-            cmb_estado_editar.Margin = new Padding(4, 5, 4, 5);
-            cmb_estado_editar.Name = "cmb_estado_editar";
-            cmb_estado_editar.ShadowDecoration.CustomizableEdges = customizableEdges80;
-            cmb_estado_editar.Size = new Size(160, 36);
-            cmb_estado_editar.TabIndex = 107;
-            // 
-            // lbl_estado_editar
-            // 
-            lbl_estado_editar.AutoSize = true;
-            lbl_estado_editar.Font = new Font("Book Antiqua", 11F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lbl_estado_editar.Location = new Point(815, 189);
-            lbl_estado_editar.Margin = new Padding(4, 0, 4, 0);
-            lbl_estado_editar.Name = "lbl_estado_editar";
-            lbl_estado_editar.Size = new Size(77, 27);
-            lbl_estado_editar.TabIndex = 106;
-            lbl_estado_editar.Text = "Estado";
-            // 
-            // btn_limpiar_editar
-            // 
-            btn_limpiar_editar.BorderColor = Color.FromArgb(194, 154, 116);
-            btn_limpiar_editar.BorderRadius = 8;
-            btn_limpiar_editar.BorderThickness = 1;
-            btn_limpiar_editar.CustomizableEdges = customizableEdges81;
-            btn_limpiar_editar.DisabledState.BorderColor = Color.DarkGray;
-            btn_limpiar_editar.DisabledState.CustomBorderColor = Color.DarkGray;
-            btn_limpiar_editar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btn_limpiar_editar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_limpiar_editar.FillColor = Color.White;
-            btn_limpiar_editar.FocusedColor = Color.FromArgb(110, 18, 32);
-            btn_limpiar_editar.Font = new Font("Book Antiqua", 11F);
-            btn_limpiar_editar.ForeColor = Color.Black;
-            btn_limpiar_editar.Location = new Point(1250, 188);
-            btn_limpiar_editar.Margin = new Padding(4, 5, 4, 5);
-            btn_limpiar_editar.Name = "btn_limpiar_editar";
-            btn_limpiar_editar.ShadowDecoration.CustomizableEdges = customizableEdges82;
-            btn_limpiar_editar.Size = new Size(147, 37);
-            btn_limpiar_editar.TabIndex = 105;
-            btn_limpiar_editar.Text = "Limpiar";
-            // 
-            // btn_guardar_editar
-            // 
-            btn_guardar_editar.BorderColor = Color.White;
-            btn_guardar_editar.BorderRadius = 8;
-            btn_guardar_editar.CustomizableEdges = customizableEdges83;
-            btn_guardar_editar.DisabledState.BorderColor = Color.DarkGray;
-            btn_guardar_editar.DisabledState.CustomBorderColor = Color.DarkGray;
-            btn_guardar_editar.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btn_guardar_editar.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btn_guardar_editar.FillColor = Color.FromArgb(110, 18, 32);
-            btn_guardar_editar.Font = new Font("Book Antiqua", 11F);
-            btn_guardar_editar.ForeColor = Color.White;
-            btn_guardar_editar.Location = new Point(1089, 188);
-            btn_guardar_editar.Margin = new Padding(4, 5, 4, 5);
-            btn_guardar_editar.Name = "btn_guardar_editar";
-            btn_guardar_editar.ShadowDecoration.CustomizableEdges = customizableEdges84;
-            btn_guardar_editar.Size = new Size(150, 37);
-            btn_guardar_editar.TabIndex = 104;
-            btn_guardar_editar.Text = "Guardar";
-            // 
-            // lbl_direccion_editar
-            // 
-            lbl_direccion_editar.AutoSize = true;
-            lbl_direccion_editar.Font = new Font("Book Antiqua", 11F);
-            lbl_direccion_editar.Location = new Point(410, 161);
-            lbl_direccion_editar.Margin = new Padding(4, 0, 4, 0);
-            lbl_direccion_editar.Name = "lbl_direccion_editar";
-            lbl_direccion_editar.Size = new Size(118, 27);
-            lbl_direccion_editar.TabIndex = 103;
-            lbl_direccion_editar.Text = "Dirección :";
-            // 
-            // lbl_correo_editar
-            // 
-            lbl_correo_editar.AutoSize = true;
-            lbl_correo_editar.Font = new Font("Book Antiqua", 11F);
-            lbl_correo_editar.Location = new Point(46, 161);
-            lbl_correo_editar.Margin = new Padding(4, 0, 4, 0);
-            lbl_correo_editar.Name = "lbl_correo_editar";
-            lbl_correo_editar.Size = new Size(200, 27);
-            lbl_correo_editar.TabIndex = 102;
-            lbl_correo_editar.Text = "Correo electrónico:";
-            // 
-            // lbl_telefono_editar
-            // 
-            lbl_telefono_editar.AutoSize = true;
-            lbl_telefono_editar.Font = new Font("Book Antiqua", 11F);
-            lbl_telefono_editar.Location = new Point(980, 68);
-            lbl_telefono_editar.Margin = new Padding(4, 0, 4, 0);
-            lbl_telefono_editar.Name = "lbl_telefono_editar";
-            lbl_telefono_editar.Size = new Size(103, 27);
-            lbl_telefono_editar.TabIndex = 101;
-            lbl_telefono_editar.Text = "Teléfono:";
-            // 
-            // lbl_cedula_editar
-            // 
-            lbl_cedula_editar.AutoSize = true;
-            lbl_cedula_editar.Font = new Font("Book Antiqua", 11F);
-            lbl_cedula_editar.Location = new Point(675, 68);
-            lbl_cedula_editar.Margin = new Padding(4, 0, 4, 0);
-            lbl_cedula_editar.Name = "lbl_cedula_editar";
-            lbl_cedula_editar.Size = new Size(88, 27);
-            lbl_cedula_editar.TabIndex = 100;
-            lbl_cedula_editar.Text = "Cédula:";
-            // 
-            // lbl_id
-            // 
-            lbl_id.AutoSize = true;
-            lbl_id.Font = new Font("Book Antiqua", 11F);
-            lbl_id.Location = new Point(46, 68);
-            lbl_id.Margin = new Padding(4, 0, 4, 0);
-            lbl_id.Name = "lbl_id";
-            lbl_id.Size = new Size(112, 27);
-            lbl_id.TabIndex = 99;
-            lbl_id.Text = "ID Cliente";
-            // 
-            // lbl_nombre
-            // 
-            lbl_nombre.AutoSize = true;
-            lbl_nombre.Font = new Font("Book Antiqua", 11F);
-            lbl_nombre.Location = new Point(308, 68);
-            lbl_nombre.Margin = new Padding(4, 0, 4, 0);
-            lbl_nombre.Name = "lbl_nombre";
-            lbl_nombre.Size = new Size(195, 27);
-            lbl_nombre.TabIndex = 98;
-            lbl_nombre.Text = "Nombre completo:";
-            // 
-            // txtbox_direccion_editar
-            // 
-            txtbox_direccion_editar.BorderColor = Color.FromArgb(216, 216, 216);
-            txtbox_direccion_editar.BorderRadius = 8;
-            txtbox_direccion_editar.CustomizableEdges = customizableEdges85;
-            txtbox_direccion_editar.DefaultText = "";
-            txtbox_direccion_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtbox_direccion_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtbox_direccion_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_direccion_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_direccion_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_direccion_editar.Font = new Font("Segoe UI", 9F);
-            txtbox_direccion_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_direccion_editar.Location = new Point(414, 189);
-            txtbox_direccion_editar.Margin = new Padding(6, 8, 6, 8);
-            txtbox_direccion_editar.Name = "txtbox_direccion_editar";
-            txtbox_direccion_editar.PlaceholderText = "Ingrese la dirección";
-            txtbox_direccion_editar.SelectedText = "";
-            txtbox_direccion_editar.ShadowDecoration.CustomizableEdges = customizableEdges86;
-            txtbox_direccion_editar.Size = new Size(371, 42);
-            txtbox_direccion_editar.TabIndex = 97;
-            // 
-            // txtbox_id_editar
-            // 
-            txtbox_id_editar.BorderColor = Color.FromArgb(216, 216, 216);
-            txtbox_id_editar.BorderRadius = 8;
-            txtbox_id_editar.CustomizableEdges = customizableEdges87;
-            txtbox_id_editar.DefaultText = "";
-            txtbox_id_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtbox_id_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtbox_id_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_id_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_id_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_id_editar.Font = new Font("Segoe UI", 9F);
-            txtbox_id_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_id_editar.Location = new Point(50, 96);
-            txtbox_id_editar.Margin = new Padding(6, 8, 6, 8);
-            txtbox_id_editar.Name = "txtbox_id_editar";
-            txtbox_id_editar.PlaceholderText = "Ingrese el ID";
-            txtbox_id_editar.SelectedText = "";
-            txtbox_id_editar.ShadowDecoration.CustomizableEdges = customizableEdges88;
-            txtbox_id_editar.Size = new Size(236, 42);
-            txtbox_id_editar.TabIndex = 96;
-            // 
-            // txtbox_telefono_editar
-            // 
-            txtbox_telefono_editar.BorderColor = Color.FromArgb(216, 216, 216);
-            txtbox_telefono_editar.BorderRadius = 8;
-            txtbox_telefono_editar.CustomizableEdges = customizableEdges89;
-            txtbox_telefono_editar.DefaultText = "";
-            txtbox_telefono_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtbox_telefono_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtbox_telefono_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_telefono_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_telefono_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_telefono_editar.Font = new Font("Segoe UI", 9F);
-            txtbox_telefono_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_telefono_editar.Location = new Point(985, 96);
-            txtbox_telefono_editar.Margin = new Padding(6, 8, 6, 8);
-            txtbox_telefono_editar.Name = "txtbox_telefono_editar";
-            txtbox_telefono_editar.PlaceholderText = "Ingrese el número de teléfono";
-            txtbox_telefono_editar.SelectedText = "";
-            txtbox_telefono_editar.ShadowDecoration.CustomizableEdges = customizableEdges90;
-            txtbox_telefono_editar.Size = new Size(267, 42);
-            txtbox_telefono_editar.TabIndex = 95;
-            // 
-            // txtbox_correo_editar
-            // 
-            txtbox_correo_editar.BorderColor = Color.FromArgb(216, 216, 216);
-            txtbox_correo_editar.BorderRadius = 8;
-            txtbox_correo_editar.CustomizableEdges = customizableEdges91;
-            txtbox_correo_editar.DefaultText = "";
-            txtbox_correo_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtbox_correo_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtbox_correo_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_correo_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_correo_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_correo_editar.Font = new Font("Segoe UI", 9F);
-            txtbox_correo_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_correo_editar.Location = new Point(50, 189);
-            txtbox_correo_editar.Margin = new Padding(6, 8, 6, 8);
-            txtbox_correo_editar.Name = "txtbox_correo_editar";
-            txtbox_correo_editar.PlaceholderText = "Ingrese el correo electrónico";
-            txtbox_correo_editar.SelectedText = "";
-            txtbox_correo_editar.ShadowDecoration.CustomizableEdges = customizableEdges92;
-            txtbox_correo_editar.Size = new Size(352, 42);
-            txtbox_correo_editar.TabIndex = 94;
-            // 
-            // txtbox_nombre_editar
-            // 
-            txtbox_nombre_editar.BorderColor = Color.FromArgb(216, 216, 216);
-            txtbox_nombre_editar.BorderRadius = 8;
-            txtbox_nombre_editar.CustomizableEdges = customizableEdges93;
-            txtbox_nombre_editar.DefaultText = "";
-            txtbox_nombre_editar.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtbox_nombre_editar.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtbox_nombre_editar.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_nombre_editar.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtbox_nombre_editar.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_nombre_editar.Font = new Font("Segoe UI", 9F);
-            txtbox_nombre_editar.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtbox_nombre_editar.Location = new Point(308, 96);
-            txtbox_nombre_editar.Margin = new Padding(6, 8, 6, 8);
-            txtbox_nombre_editar.Name = "txtbox_nombre_editar";
-            txtbox_nombre_editar.PlaceholderText = "Ingrese el nombre completo";
-            txtbox_nombre_editar.SelectedText = "";
-            txtbox_nombre_editar.ShadowDecoration.CustomizableEdges = customizableEdges94;
-            txtbox_nombre_editar.Size = new Size(343, 42);
-            txtbox_nombre_editar.TabIndex = 93;
+            pictureBox1.BackColor = Color.Transparent;
+            pictureBox1.Image = Properties.Resources.icons8_buscar_24;
+            pictureBox1.Location = new Point(1316, 84);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(51, 54);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.TabIndex = 64;
+            pictureBox1.TabStop = false;
             // 
             // Frm_clientes
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(248, 241, 242);
             ClientSize = new Size(1556, 863);
             Controls.Add(guna2ShadowPanel1);
             Controls.Add(guna2Panel1);
@@ -1373,6 +1501,7 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             Text = "Frm_clientes";
             guna2Panel1.ResumeLayout(false);
             guna2Panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ((System.ComponentModel.ISupportInitialize)guna2CirclePictureBox1).EndInit();
@@ -1387,6 +1516,7 @@ namespace NK_COLLECTION.Presentacion.Catalogos
             tabPage3.ResumeLayout(false);
             tabPage3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dgw_cliente_editar).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
@@ -1475,5 +1605,10 @@ namespace NK_COLLECTION.Presentacion.Catalogos
         private Guna.UI2.WinForms.Guna2TextBox txtbox_telefono_editar;
         private Guna.UI2.WinForms.Guna2TextBox txtbox_correo_editar;
         private Guna.UI2.WinForms.Guna2TextBox txtbox_nombre_editar;
+        private PictureBox pictureBox2;
+        private Label lbl_Ayuda;
+        private Label lbl_fecha;
+        private Label lbl_usuario;
+        private PictureBox pictureBox1;
     }
 }
